@@ -18,23 +18,23 @@ router.put('/:id', requireAuth, updateBoard) // check if requireAuth is needed
 router.delete('/:id', requireAuth, removeBoard) // check if requireAuth is needed
 
 // GROUP  - should be params or query?
-router.get('/boardId/group/:id', log, getGroupById)
+// router.get('/boardId/group/:id', log, getGroupById)
 
-router.get('/group/:boardId/:groupId', log, getGroupById) // is there a difference?
+// router.get('/group/:boardId/:groupId', log, getGroupById) // is there a difference?
 
-router.post('/boardId/group/', log, addGroup)
-router.post('/boardId/group/:id', log, duplicateGroup)
-router.put('/boardId/group/:id', updateGroup)
-router.delete('/boardId/group/:id', removeGroup)
+// router.post('/boardId/group/', log, addGroup)
+// router.post('/boardId/group/:id', log, duplicateGroup)
+// router.put('/boardId/group/:id', updateGroup)
+// router.delete('/boardId/group/:id', removeGroup)
 
-// PULSE
-router.get('/pulse/:boardId/:groupId/:pulseId', log, getGroupById) // is there a difference?
+// // PULSE
+// router.get('/pulse/:boardId/:groupId/:pulseId', log, getGroupById) // is there a difference?
 
 
-router.get('/boardId/group/groupId/pulse/:id', log, getPulseById)
-router.post('/boardId/group/groupId/pulse/', log, addPulse)
-router.put('/boardId/group/groupId/pulse/:id', updatePulse)
-router.delete('/boardId/group/groupId/pulse/:id', removePulse)
+// router.get('/boardId/group/groupId/pulse/:id', log, getPulseById)
+// router.post('/boardId/group/groupId/pulse/', log, addPulse)
+// router.put('/boardId/group/groupId/pulse/:id', updatePulse)
+// router.delete('/boardId/group/groupId/pulse/:id', removePulse)
 
 // router.post('/:id/msg', requireAuth, addBoardMsg)
 // router.delete('/:id/msg/:msgId', requireAuth, removeBoardMsg)

@@ -1,0 +1,32 @@
+8.9.2024, 21:29:09 - INFO - server.js loaded...
+8.9.2024, 21:29:09 - INFO - Server is running on port: 3030
+8.9.2024, 21:30:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+8.9.2024, 21:30:56 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+8.9.2024, 21:33:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+8.9.2024, 21:33:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+8.9.2024, 21:34:01 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}

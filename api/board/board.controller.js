@@ -5,10 +5,6 @@ export async function getBoards(req, res) {
 	try {
 		const filterBy = {
 			txt: req.query.txt || '',
-			minSpeed: +req.query.minSpeed || 0,
-            sortField: req.query.sortField || '',
-            sortDir: req.query.sortDir || 1,
-			pageIdx: req.query.pageIdx,
 		}
 		const boards = await boardService.query(filterBy)
 		res.json(boards)

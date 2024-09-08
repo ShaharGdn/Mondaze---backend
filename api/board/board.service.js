@@ -31,17 +31,9 @@ export const boardService = {
 
 async function query(filterBy = { txt: '' }) {
     try {
-        const criteria = _buildCriteria(filterBy)
-        const sort = _buildSort(filterBy)
-
+        const criteria = { title: { $regex: filterBy.txt, $options: 'i' } }
         const collection = await dbService.getCollection('board')
-        var boardCursor = await collection.find(criteria, { sort })
-
-        if (filterBy.pageIdx !== undefined) {
-            boardCursor.skip(filterBy.pageIdx * PAGE_SIZE).limit(PAGE_SIZE)
-        }
-
-        const boards = boardCursor.toArray()
+        const boards = await collection.find(criteria).toArray()
         return boards
     } catch (err) {
         logger.error('cannot find boards', err)
