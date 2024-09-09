@@ -30,3 +30,473 @@
   "body": {},
   "params": {}
 }
+9.9.2024, 10:53:18 - INFO - server.js loaded...
+9.9.2024, 10:53:18 - INFO - Server is running on port: 3030
+9.9.2024, 10:53:23 - INFO - server.js loaded...
+9.9.2024, 10:53:23 - INFO - Server is running on port: 3030
+9.9.2024, 10:54:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66dde1b4ec591b0eacc9a4e7"
+  }
+}
+9.9.2024, 10:54:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+9.9.2024, 11:12:21 - INFO - server.js loaded...
+9.9.2024, 11:12:21 - INFO - Server is running on port: 3030
+9.9.2024, 11:33:51 - INFO - server.js loaded...
+9.9.2024, 11:33:51 - INFO - Server is running on port: 3030
+9.9.2024, 11:34:08 - INFO - server.js loaded...
+9.9.2024, 11:34:08 - INFO - Server is running on port: 3030
+9.9.2024, 11:36:50 - INFO - server.js loaded...
+9.9.2024, 11:36:50 - INFO - Server is running on port: 3030
+9.9.2024, 11:43:00 - INFO - server.js loaded...
+9.9.2024, 11:43:00 - INFO - Server is running on port: 3030
+9.9.2024, 11:43:38 - INFO - server.js loaded...
+9.9.2024, 11:43:38 - INFO - Server is running on port: 3030
+9.9.2024, 11:43:43 - INFO - server.js loaded...
+9.9.2024, 11:43:43 - INFO - Server is running on port: 3030
+9.9.2024, 11:44:08 - INFO - server.js loaded...
+9.9.2024, 11:44:08 - INFO - Server is running on port: 3030
+9.9.2024, 11:44:12 - INFO - server.js loaded...
+9.9.2024, 11:44:12 - INFO - Server is running on port: 3030
+9.9.2024, 11:44:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+9.9.2024, 11:44:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+9.9.2024, 11:45:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+9.9.2024, 11:46:24 - INFO - Server is running on port: 3030
+9.9.2024, 11:46:24 - INFO - server.js loaded...
+9.9.2024, 11:54:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "Added Board!",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": null,
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "New Group",
+        "id": "S1d7mT6",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "4xvS6T5",
+            "title": "Task 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-11-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": false
+          },
+          {
+            "id": "AcO45e4",
+            "title": "Task 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-12-13",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": true
+          },
+          {
+            "id": "qZ8kR93",
+            "title": "Task 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": false
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "New Group",
+        "id": "23Ye4R2",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "LdV6Wl",
+            "title": "Task 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [],
+            "isDone": false
+          },
+          {
+            "id": "JbX0fP5",
+            "title": "Task 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [],
+            "isDone": false
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "TextInput",
+      "NumberInput"
+    ],
+    "type": "Task"
+  },
+  "params": {}
+}
+9.9.2024, 12:03:43 - INFO - server.js loaded...
+9.9.2024, 12:03:43 - INFO - Server is running on port: 3030
+9.9.2024, 12:04:30 - INFO - server.js loaded...
+9.9.2024, 12:04:30 - INFO - Server is running on port: 3030
+9.9.2024, 12:04:35 - INFO - server.js loaded...
+9.9.2024, 12:04:35 - INFO - Server is running on port: 3030
+9.9.2024, 12:11:15 - INFO - server.js loaded...
+9.9.2024, 12:11:15 - INFO - Server is running on port: 3030
+9.9.2024, 12:59:41 - INFO - server.js loaded...
+9.9.2024, 12:59:41 - INFO - Server is running on port: 3030
+9.9.2024, 13:16:04 - INFO - server.js loaded...
+9.9.2024, 13:16:04 - INFO - Server is running on port: 3030
+9.9.2024, 13:17:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+9.9.2024, 13:35:26 - ERROR - cannot update board [object Object] | BSONError: hex string must be 24 characters
+9.9.2024, 13:35:26 - ERROR - Failed to update board | BSONError: hex string must be 24 characters
+9.9.2024, 13:37:23 - ERROR - cannot update board [object Object] | BSONError: hex string must be 24 characters
+9.9.2024, 13:37:23 - ERROR - Failed to update board | BSONError: hex string must be 24 characters
+9.9.2024, 13:39:12 - INFO - server.js loaded...
+9.9.2024, 13:39:12 - INFO - Server is running on port: 3030
+9.9.2024, 13:39:17 - ERROR - cannot update board [object Object] | BSONError: hex string must be 24 characters
+9.9.2024, 13:39:17 - ERROR - Failed to update board | BSONError: hex string must be 24 characters
+9.9.2024, 13:40:33 - INFO - server.js loaded...
+9.9.2024, 13:40:34 - INFO - Server is running on port: 3030
+9.9.2024, 13:40:40 - ERROR - cannot update board [object Object] | MongoServerError: unknown operator: $oid
+9.9.2024, 13:40:40 - ERROR - Failed to update board | MongoServerError: unknown operator: $oid
+9.9.2024, 13:40:59 - INFO - server.js loaded...
+9.9.2024, 13:40:59 - INFO - Server is running on port: 3030
+9.9.2024, 13:47:15 - INFO - server.js loaded...
+9.9.2024, 13:47:15 - INFO - Server is running on port: 3030
+9.9.2024, 13:47:18 - ERROR - cannot update board [object Object] | MongoServerError: unknown operator: $oid
+9.9.2024, 13:47:18 - ERROR - Failed to update board | MongoServerError: unknown operator: $oid
+9.9.2024, 13:51:54 - INFO - server.js loaded...
+9.9.2024, 13:51:54 - INFO - Server is running on port: 3030
+9.9.2024, 13:52:34 - INFO - server.js loaded...
+9.9.2024, 13:52:34 - INFO - Server is running on port: 3030
+9.9.2024, 13:53:13 - INFO - server.js loaded...
+9.9.2024, 13:53:13 - INFO - Server is running on port: 3030
+9.9.2024, 13:53:35 - INFO - server.js loaded...
+9.9.2024, 13:53:35 - INFO - Server is running on port: 3030
+9.9.2024, 13:53:42 - INFO - server.js loaded...
+9.9.2024, 13:53:42 - INFO - Server is running on port: 3030
+9.9.2024, 13:53:58 - INFO - server.js loaded...
+9.9.2024, 13:53:58 - INFO - Server is running on port: 3030
+9.9.2024, 13:54:07 - INFO - server.js loaded...
+9.9.2024, 13:54:07 - INFO - Server is running on port: 3030
+9.9.2024, 13:54:56 - INFO - server.js loaded...
+9.9.2024, 13:54:56 - INFO - Server is running on port: 3030
+9.9.2024, 13:55:00 - INFO - server.js loaded...
+9.9.2024, 13:55:00 - INFO - Server is running on port: 3030
+9.9.2024, 14:01:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "Board 234324",
+    "isStarred": true,
+    "archivedAt": null,
+    "createdBy": null,
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "New Group",
+        "id": "S1d7mT6",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "4xvS6T5",
+            "title": "Task 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-11-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": false
+          },
+          {
+            "id": "AcO45e4",
+            "title": "Task 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-12-13",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": true
+          },
+          {
+            "id": "qZ8kR93",
+            "title": "Task 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": false
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "New Group",
+        "id": "23Ye4R2",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "LdV6Wl",
+            "title": "Task 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [],
+            "isDone": false
+          },
+          {
+            "id": "JbX0fP5",
+            "title": "Task 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [],
+            "isDone": false
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "TextInput",
+      "NumberInput"
+    ],
+    "type": "Task"
+  },
+  "params": {}
+}
+9.9.2024, 14:02:48 - INFO - server.js loaded...
+9.9.2024, 14:02:48 - INFO - Server is running on port: 3030
+9.9.2024, 14:05:19 - INFO - server.js loaded...
+9.9.2024, 14:05:19 - INFO - Server is running on port: 3030
+9.9.2024, 14:09:01 - INFO - Server is running on port: 3030
+9.9.2024, 14:09:01 - INFO - server.js loaded...

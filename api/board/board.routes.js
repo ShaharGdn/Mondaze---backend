@@ -13,9 +13,9 @@ const router = express.Router()
 // BOARD
 router.get('/', log, getBoards)
 router.get('/:id', log, getBoardById)
-router.post('/', log, requireAuth, addBoard) // check if requireAuth is needed
-router.put('/:id', requireAuth, updateBoard) // check if requireAuth is needed
-router.delete('/:id', requireAuth, removeBoard) // check if requireAuth is needed
+router.post('/', log, requireAuth, addBoard)
+router.put('/:id', requireAuth, updateBoard)
+router.delete('/:id', requireAuth, removeBoard)
 
 // GROUP  - should be params or query?
 // router.get('/boardId/group/:id', log, getGroupById)

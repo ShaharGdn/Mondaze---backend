@@ -17,7 +17,7 @@ export async function getBoards(req, res) {
 export async function getBoardById(req, res) {
 	try {
 		const boardId = req.params.id
-		const board = await boardService.getById(boardId)
+		const board = await boardService.getBoardById(boardId)
 		res.json(board)
 	} catch (err) {
 		logger.error('Failed to get board', err)
@@ -29,8 +29,8 @@ export async function addBoard(req, res) {
 	const { loggedinUser, body: board } = req
 
 	try {
-		board.owner = loggedinUser
-		const addedBoard = await boardService.add(board)
+		board.createdBy = loggedinUser
+		const addedBoard = await boardService.addBoard(board)
 		res.json(addedBoard)
 	} catch (err) {
 		logger.error('Failed to add board', err)
@@ -40,15 +40,9 @@ export async function addBoard(req, res) {
 
 export async function updateBoard(req, res) {
 	const { loggedinUser, body: board } = req
-    const { _id: userId, isAdmin } = loggedinUser
-
-    if(!isAdmin && board.owner._id !== userId) {
-        res.status(403).send('Not your board...')
-        return
-    }
-
+	// const boardId = req.params.id // to check
 	try {
-		const updatedBoard = await boardService.update(board)
+		const updatedBoard = await boardService.updateBoard(board)
 		res.json(updatedBoard)
 	} catch (err) {
 		logger.error('Failed to update board', err)
@@ -59,8 +53,7 @@ export async function updateBoard(req, res) {
 export async function removeBoard(req, res) {
 	try {
 		const boardId = req.params.id
-		const removedId = await boardService.remove(boardId)
-
+		const removedId = await boardService.removeBoard(boardId)
 		res.send(removedId)
 	} catch (err) {
 		logger.error('Failed to remove board', err)

@@ -7,7 +7,11 @@ export function requireAuth(req, res, next) {
 	req.loggedinUser = loggedinUser
 
 	if (config.isGuestMode && !loggedinUser) {
-		req.loggedinUser = { _id: '', fullname: 'Guest' }
+		req.loggedinUser = {
+			_id: '',
+			fullname: 'Guest',
+			imgUrl: 'https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png'
+		}
 		return next()
 	}
 	if (!loggedinUser) return res.status(401).send('Not Authenticated')
@@ -16,7 +20,7 @@ export function requireAuth(req, res, next) {
 
 export function requireAdmin(req, res, next) {
 	const { loggedinUser } = asyncLocalStorage.getStore()
-    
+
 	if (!loggedinUser) return res.status(401).send('Not Authenticated')
 	if (!loggedinUser.isAdmin) {
 		logger.warn(loggedinUser.fullname + 'attempted to perform admin action')

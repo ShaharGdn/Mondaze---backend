@@ -8,11 +8,11 @@ import { asyncLocalStorage } from '../../services/als.service.js'
 const PAGE_SIZE = 3
 
 export const boardService = {
-    remove,
     query,
-    getById,
-    add,
-    update,
+    getBoardById,
+    addBoard,
+    updateBoard,
+    removeBoard,
 
     // getGroupById,
     // addGroup,
@@ -41,14 +41,13 @@ async function query(filterBy = { txt: '' }) {
     }
 }
 
-async function getById(boardId) {
+async function getBoardById(boardId) {
     try {
         const criteria = { _id: ObjectId.createFromHexString(boardId) }
-
         const collection = await dbService.getCollection('board')
-        const board = await collection.findOne(criteria)
 
-        board.createdAt = board._id.getTimestamp()
+        const board = await collection.findOne(criteria)
+        // board.activities.createdAt = board._id.getTimestamp() // later for activities
         return board
     } catch (err) {
         logger.error(`while finding board ${boardId}`, err)
@@ -56,32 +55,11 @@ async function getById(boardId) {
     }
 }
 
-async function remove(boardId) {
-    const { loggedinUser } = asyncLocalStorage.getStore()
-    const { _id: ownerId, isAdmin } = loggedinUser
-
-    try {
-        const criteria = {
-            _id: ObjectId.createFromHexString(boardId),
-        }
-        if (!isAdmin) criteria['owner._id'] = ownerId
-
-        const collection = await dbService.getCollection('board')
-        const res = await collection.deleteOne(criteria)
-
-        if (res.deletedCount === 0) throw ('Not your board')
-        return boardId
-    } catch (err) {
-        logger.error(`cannot remove board ${boardId}`, err)
-        throw err
-    }
-}
-
-async function add(board) {
+async function addBoard(board) {
+    // should we recreate boardToSave here also? 
     try {
         const collection = await dbService.getCollection('board')
         await collection.insertOne(board)
-
         return board
     } catch (err) {
         logger.error('cannot insert board', err)
@@ -89,18 +67,38 @@ async function add(board) {
     }
 }
 
-async function update(board) {
-    const boardToSave = { vendor: board.vendor, speed: board.speed }
+async function updateBoard(board) {
+    const boardToSave = {
+        title: board.title,
+        isStarred: board.isStarred,
+        archivedAt: board.archivedAt,
+        folder: board.folder,
+        style: board.style,
+        members: board.members,
+        groups: board.groups,
+        cmpsOrder: board.cmpsOrder
+    }
 
     try {
         const criteria = { _id: ObjectId.createFromHexString(board._id) }
-
         const collection = await dbService.getCollection('board')
         await collection.updateOne(criteria, { $set: boardToSave })
-
         return board
     } catch (err) {
         logger.error(`cannot update board ${board._id}`, err)
+        throw err
+    }
+}
+
+async function removeBoard(boardId) {
+    // const { loggedinUser } = asyncLocalStorage.getStore()
+    try {
+        const criteria = { _id: ObjectId.createFromHexString(boardId) }
+        const collection = await dbService.getCollection('board')
+        await collection.deleteOne(criteria)
+        return boardId
+    } catch (err) {
+        logger.error(`cannot remove board ${boardId}`, err)
         throw err
     }
 }
