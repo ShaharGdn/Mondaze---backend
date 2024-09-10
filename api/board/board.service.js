@@ -14,7 +14,7 @@ export const boardService = {
 
     getGroupById,
     addGroup,
-    // duplicateGroup,
+    duplicateGroup,
     // updateGroup,
     // removeGroup,
 
@@ -79,13 +79,13 @@ async function updateBoard(board) {
 
     try {
         // const criteria = { _id: ObjectId.createFromHexString(board._id) }
-        console.log('board._id from updateBoard:',board._id)
+        console.log('board._id from updateBoard:', board._id)
         const criteria = { _id: _getFormattedId(board._id) }
 
         const collection = await dbService.getCollection('board')
         // await collection.updateOne(criteria, { $set: boardToSave })
         const res = await collection.updateOne(criteria, { $set: boardToSave })
-        console.log('res:',res)
+        console.log('res:', res)
         return board
     } catch (err) {
         logger.error(`Cannot update board ${board._id}`, err)
@@ -125,7 +125,6 @@ async function getGroupById(boardId, groupId) {
 async function addGroup(boardId, pos) {
     try {
         const board = await getBoardById(boardId)
-        console.log('board._id from addGroup:',board._id)
         if (!board) {
             throw new Error(`Could not find board by id: ${boardId}`)
         }
@@ -144,6 +143,23 @@ async function addGroup(boardId, pos) {
         return newGroup
     } catch (err) {
         logger.error('Cannot add group', err)
+        throw err
+    }
+}
+
+async function duplicateGroup(boardId, group) {
+    try {
+        const board = await getBoardById(boardId)
+        if (!board) {
+            throw new Error(`Could not find board by id: ${boardId}`)
+        }
+        const duplicatedGroup = { ...group, id: makeId() }
+        board.groups.push(duplicatedGroup)
+
+        await updateBoard(board)
+        return duplicatedGroup
+    } catch (err) {
+        logger.error('Cannot duplicate group', err)
         throw err
     }
 }

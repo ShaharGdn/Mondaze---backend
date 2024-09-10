@@ -10,6 +10,7 @@ export const boardController = {
 
 	getGroupById,
 	addGroup,
+	duplicateGroup,
 
 }
 
@@ -87,7 +88,7 @@ async function getGroupById(req, res) {
 async function addGroup(req, res) {
 	// const { loggedinUser } = req
 	const boardId = req.params.boardId
-	console.log('boardId:',boardId)
+	console.log('boardId:', boardId)
 	const pos = req.body.position
 	try {
 		const addedGroup = await boardService.addGroup(boardId, pos)
@@ -95,6 +96,18 @@ async function addGroup(req, res) {
 	} catch (err) {
 		logger.error('Failed to add group', err)
 		res.status(400).send({ err: 'Failed to add group' })
+	}
+}
+
+async function duplicateGroup(req, res) {
+	const { loggedinUser, body: group } = req
+	const boardId = req.params.boardId
+	try {
+		const duplicatedGroup = await boardService.duplicateGroup(boardId, group)
+		res.json(duplicatedGroup)
+	} catch (err) {
+		logger.error('Failed to duplicate group', err)
+		res.status(400).send({ err: 'Failed to duplicate group' })
 	}
 }
 
