@@ -1,11 +1,9 @@
 import { ObjectId } from 'mongodb'
 
 import { logger } from '../../services/logger.service.js'
-import { makeId } from '../../services/util.service.js'
+import { getRandomColor, makeId } from '../../services/util.service.js'
 import { dbService } from '../../services/db.service.js'
 import { asyncLocalStorage } from '../../services/als.service.js'
-
-const PAGE_SIZE = 3
 
 export const boardService = {
     query,
@@ -14,8 +12,8 @@ export const boardService = {
     updateBoard,
     removeBoard,
 
-    // getGroupById,
-    // addGroup,
+    getGroupById,
+    addGroup,
     // duplicateGroup,
     // updateGroup,
     // removeGroup,
@@ -36,21 +34,21 @@ async function query(filterBy = { txt: '' }) {
         const boards = await collection.find(criteria).toArray()
         return boards
     } catch (err) {
-        logger.error('cannot find boards', err)
+        logger.error('cannot get boards', err)
         throw err
     }
 }
 
 async function getBoardById(boardId) {
     try {
-        const criteria = { _id: ObjectId.createFromHexString(boardId) }
+        const criteria = { _id: new ObjectId(boardId) }
         const collection = await dbService.getCollection('board')
 
         const board = await collection.findOne(criteria)
         // board.activities.createdAt = board._id.getTimestamp() // later for activities
         return board
     } catch (err) {
-        logger.error(`while finding board ${boardId}`, err)
+        logger.error(`Cannot get board by id: ${boardId}`, err)
         throw err
     }
 }
@@ -62,7 +60,7 @@ async function addBoard(board) {
         await collection.insertOne(board)
         return board
     } catch (err) {
-        logger.error('cannot insert board', err)
+        logger.error('Cannot add board', err)
         throw err
     }
 }
@@ -80,12 +78,17 @@ async function updateBoard(board) {
     }
 
     try {
-        const criteria = { _id: ObjectId.createFromHexString(board._id) }
+        // const criteria = { _id: ObjectId.createFromHexString(board._id) }
+        console.log('board._id from updateBoard:',board._id)
+        const criteria = { _id: _getFormattedId(board._id) }
+
         const collection = await dbService.getCollection('board')
-        await collection.updateOne(criteria, { $set: boardToSave })
+        // await collection.updateOne(criteria, { $set: boardToSave })
+        const res = await collection.updateOne(criteria, { $set: boardToSave })
+        console.log('res:',res)
         return board
     } catch (err) {
-        logger.error(`cannot update board ${board._id}`, err)
+        logger.error(`Cannot update board ${board._id}`, err)
         throw err
     }
 }
@@ -93,15 +96,62 @@ async function updateBoard(board) {
 async function removeBoard(boardId) {
     // const { loggedinUser } = asyncLocalStorage.getStore()
     try {
-        const criteria = { _id: ObjectId.createFromHexString(boardId) }
+        const criteria = { _id: new ObjectId(boardId) }
         const collection = await dbService.getCollection('board')
         await collection.deleteOne(criteria)
         return boardId
     } catch (err) {
-        logger.error(`cannot remove board ${boardId}`, err)
+        logger.error(`Cannot remove board ${boardId}`, err)
         throw err
     }
 }
+
+// GROUP
+
+async function getGroupById(boardId, groupId) {
+    try {
+        const board = await getBoardById(boardId)
+        if (!board) {
+            throw new Error(`Could not find board by id: ${boardId}`)
+        }
+        return board.groups.find(group => group.id === groupId)
+
+    } catch (err) {
+        logger.error(`Cannot get group by id: ${groupId}`, err)
+        throw err
+    }
+}
+
+async function addGroup(boardId, pos) {
+    try {
+        const board = await getBoardById(boardId)
+        console.log('board._id from addGroup:',board._id)
+        if (!board) {
+            throw new Error(`Could not find board by id: ${boardId}`)
+        }
+        const newGroup = {
+            id: makeId(),
+            title: 'New Group',
+            archivedAt: null,
+            pulses: [],
+            style: { color: getRandomColor() },
+            type: board.type,
+        }
+        if (pos === 'start') board.groups.unshift(newGroup)
+        else board.groups.push(newGroup)
+
+        await updateBoard(board)
+        return newGroup
+    } catch (err) {
+        logger.error('Cannot add group', err)
+        throw err
+    }
+}
+
+
+
+
+
 
 // async function addBoardMsg(boardId, msg) {
 // 	try {
@@ -131,6 +181,14 @@ async function removeBoard(boardId) {
 // 		throw err
 // 	}
 // }
+
+
+function _getFormattedId(id) {
+    return (typeof id === 'string') ? new ObjectId(id) : id
+
+    const convertedId = (typeof id === 'string') ? id : id.$oid;
+    return new ObjectId(convertedId);
+}
 
 function _buildCriteria(filterBy) {
     const criteria = {

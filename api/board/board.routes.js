@@ -2,30 +2,27 @@ import express from 'express'
 
 import { requireAuth } from '../../middlewares/requireAuth.middleware.js'
 import { log } from '../../middlewares/logger.middleware.js'
-
-import { getBoards, getBoardById, addBoard, updateBoard, removeBoard } from './board.controller.js'
+// import { getBoards, getBoardById, addBoard, updateBoard, removeBoard, getGroupById } from './board.controller.js'
+import { boardController } from './board.controller.js'
 
 const router = express.Router()
-
 // We can add a middleware for the entire router:
 // router.use(requireAuth)
 
 // BOARD
-router.get('/', log, getBoards)
-router.get('/:id', log, getBoardById)
-router.post('/', log, requireAuth, addBoard)
-router.put('/:id', requireAuth, updateBoard)
-router.delete('/:id', requireAuth, removeBoard)
+router.get('/', log, boardController.getBoards)
+router.get('/:id', log, boardController.getBoardById)
+router.post('/', log, requireAuth, boardController.addBoard)
+router.put('/:id', requireAuth, boardController.updateBoard)
+router.delete('/:id', requireAuth, boardController.removeBoard)
 
-// GROUP  - should be params or query?
-// router.get('/boardId/group/:id', log, getGroupById)
+// GROUP 
+router.get('/group/:boardId/:groupId', log, boardController.getGroupById)
+router.post('/group/:boardId', requireAuth, boardController.addGroup)
+// router.post('/group/:boardId/duplicate/:groupId', log, boardController.duplicateGroup)
 
-// router.get('/group/:boardId/:groupId', log, getGroupById) // is there a difference?
-
-// router.post('/boardId/group/', log, addGroup)
-// router.post('/boardId/group/:id', log, duplicateGroup)
-// router.put('/boardId/group/:id', updateGroup)
-// router.delete('/boardId/group/:id', removeGroup)
+// router.put('/:boardId/group/:id', updateGroup)
+// router.delete('/:boardId/group/:id', removeGroup)
 
 // // PULSE
 // router.get('/pulse/:boardId/:groupId/:pulseId', log, getGroupById) // is there a difference?
