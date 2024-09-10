@@ -20,14 +20,10 @@ router.delete('/:id', requireAuth, boardController.removeBoard)
 router.get('/group/:boardId/:groupId', log, boardController.getGroupById)
 router.post('/group/:boardId', requireAuth, boardController.addGroup)
 router.post('/group/:boardId/duplicate/', requireAuth, boardController.duplicateGroup)
-// router.post('/group/:boardId/duplicate/:groupId', requireAuth, boardController.duplicateGroup)
-
-// router.put('/:boardId/group/:id', updateGroup)
+router.put('/group/:boardId', requireAuth, boardController.updateGroup)
 // router.delete('/:boardId/group/:id', removeGroup)
 
 // // PULSE
-// router.get('/pulse/:boardId/:groupId/:pulseId', log, getGroupById) // is there a difference?
-
 
 // router.get('/boardId/group/groupId/pulse/:id', log, getPulseById)
 // router.post('/boardId/group/groupId/pulse/', log, addPulse)
