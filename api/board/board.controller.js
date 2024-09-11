@@ -2,12 +2,14 @@ import { logger } from '../../services/logger.service.js'
 import { boardService } from './board.service.js'
 
 export const boardController = {
+	// BOARDS
 	getBoards,
+	// BOARD
 	getBoardById,
 	addBoard,
 	updateBoard,
 	removeBoard,
-
+	// GROUP
 	getGroupById,
 	addGroup,
 	duplicateGroup,
@@ -127,12 +129,12 @@ async function updateGroup(req, res) {
 
 async function removeGroup(req, res) {
 	try {
-		const boardId = req.params.id
-		const removedId = await boardService.removeBoard(boardId)
-		res.send(removedId)
+		const { boardId, groupId } = req.params
+		const removedGroupId = await boardService.removeGroup(boardId, groupId)
+		res.send(removedGroupId)
 	} catch (err) {
-		logger.error('Failed to remove board', err)
-		res.status(400).send({ err: 'Failed to remove board' })
+		logger.error('Failed to remove group', err)
+		res.status(400).send({ err: 'Failed to remove group' })
 	}
 }
 

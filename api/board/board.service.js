@@ -6,17 +6,19 @@ import { dbService } from '../../services/db.service.js'
 import { asyncLocalStorage } from '../../services/als.service.js'
 
 export const boardService = {
+    // BOARDS
     query,
+    // BOARD
     getBoardById,
     addBoard,
     updateBoard,
     removeBoard,
-
+    // GROUP
     getGroupById,
     addGroup,
     duplicateGroup,
     updateGroup,
-    // removeGroup,
+    removeGroup,
 
     // getPulseById,
     // addPulse,
@@ -66,7 +68,7 @@ async function addBoard(board) {
 }
 
 async function updateBoard(board) {
-    const boardToSave = { 
+    const boardToSave = {
         title: board.title,
         isStarred: board.isStarred,
         archivedAt: board.archivedAt,
@@ -167,7 +169,6 @@ async function updateGroup(boardId, updatedGroup) {
         if (!board) {
             throw new Error(`Could not find board by id: ${boardId}`)
         }
-
         const groupToSave = {
             id: updatedGroup.id,
             title: updatedGroup.title || '',
@@ -176,12 +177,10 @@ async function updateGroup(boardId, updatedGroup) {
             pulses: updatedGroup.pulses || [],
             style: updatedGroup.style || { color: getRandomColor() }
         }
-
         const updatedGroups = board.groups.map(group => group.id === groupToSave.id ? groupToSave : group)
         const newBoard = { ...board, groups: updatedGroups }
 
         await updateBoard(newBoard)
-
         // const criteria = { _id: _getFormattedId(boardId) }
         // const collection = await dbService.getCollection('board')
         // await collection.updateOne(criteria, { $set: newBoard })
@@ -192,29 +191,23 @@ async function updateGroup(boardId, updatedGroup) {
     }
 }
 
-// async function updateBoard(board) {
-//     const boardToSave = { //needed?
-//         title: board.title,
-//         isStarred: board.isStarred,
-//         archivedAt: board.archivedAt,
-//         folder: board.folder,
-//         style: board.style,
-//         members: board.members,
-//         groups: board.groups,
-//         cmpsOrder: board.cmpsOrder
-//     }
+async function removeGroup(boardId, groupId) {
+    try {
+        const board = await getBoardById(boardId)
+        if (!board) {
+            throw new Error(`Could not find board by id: ${boardId}`)
+        }
+        const updatedGroups = board.groups.filter(group => group.id !== groupId)
+        const newBoard = { ...board, groups: updatedGroups }
 
-//     try {
-//         const criteria = { _id: _getFormattedId(board._id) }
+        await updateBoard(newBoard)
+        return groupId
+    } catch (err) {
+        logger.error(`Cannot remove group ${groupId}`, err)
+        throw err
+    }
+}
 
-//         const collection = await dbService.getCollection('board')
-//         await collection.updateOne(criteria, { $set: boardToSave })
-//         return board
-//     } catch (err) {
-//         logger.error(`Cannot update board ${board._id}`, err)
-//         throw err
-//     }
-// }
 
 
 
