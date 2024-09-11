@@ -25,7 +25,7 @@ export const boardService = {
     // PULSE
     getPulseById,
     addPulse,
-    // updatePulse,
+    updatePulse,
     // removePulse,
 
     // addBoardMsg,
@@ -252,6 +252,32 @@ async function addPulse(boardId, groupId, pulse) {
         return pulseToAdd
     } catch (err) {
         logger.error('Cannot add pulse', err)
+        throw err
+    }
+}
+
+async function updatePulse(boardId, groupId, pulse) {
+    try {
+        const pulseToSave = {
+            id: pulse.id,
+            title: pulse.title,
+            status: pulse.status,
+            priority: pulse.priority,
+            isDone: pulse.isDone,
+            dueDate: pulse.dueDate,
+            memberIds: pulse.memberIds,
+        }
+        const group = await getGroupById(boardId, groupId)
+        if (!group) {
+            throw new Error(`Could not find group by id: ${groupId}`)
+        }
+        const updatedPulses = group.pulses.map(pulse => pulse.id === pulseToSave.id ? pulseToSave : pulse)
+        const updatedGroup = { ...group, pulses: updatedPulses }
+        await updateGroup(boardId, updatedGroup)
+
+        return pulseToSave
+    } catch (err) {
+        logger.error(`Cannot update pulse ${pulse.id}`, err)
         throw err
     }
 }

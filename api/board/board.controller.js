@@ -18,6 +18,7 @@ export const boardController = {
 	// PULSE
 	getPulseById,
 	addPulse,
+	updatePulse,
 
 }
 
@@ -164,6 +165,18 @@ async function addPulse(req, res) {
 	} catch (err) {
 		logger.error('Failed to add pulse', err)
 		res.status(400).send({ err: 'Failed to add pulse' })
+	}
+}
+
+async function updatePulse(req, res) {
+	const { loggedinUser, body: pulse } = req
+	const { boardId, groupId } = req.params
+	try {
+		const updatedPulse = await boardService.updatePulse(boardId, groupId, pulse)
+		res.json(updatedPulse)
+	} catch (err) {
+		logger.error('Failed to update pulse', err)
+		res.status(400).send({ err: 'Failed to update pulse' })
 	}
 }
 
