@@ -12,6 +12,7 @@ export const boardController = {
 	addGroup,
 	duplicateGroup,
 	updateGroup,
+	removeGroup,
 
 }
 
@@ -121,6 +122,17 @@ async function updateGroup(req, res) {
 	} catch (err) {
 		logger.error('Failed to update group', err)
 		res.status(400).send({ err: 'Failed to update group' })
+	}
+}
+
+async function removeGroup(req, res) {
+	try {
+		const boardId = req.params.id
+		const removedId = await boardService.removeBoard(boardId)
+		res.send(removedId)
+	} catch (err) {
+		logger.error('Failed to remove board', err)
+		res.status(400).send({ err: 'Failed to remove board' })
 	}
 }
 

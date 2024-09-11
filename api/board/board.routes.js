@@ -21,7 +21,7 @@ router.get('/group/:boardId/:groupId', log, boardController.getGroupById)
 router.post('/group/:boardId', requireAuth, boardController.addGroup)
 router.post('/group/:boardId/duplicate/', requireAuth, boardController.duplicateGroup)
 router.put('/group/:boardId', requireAuth, boardController.updateGroup)
-// router.delete('/:boardId/group/:id', removeGroup)
+// router.delete('/group/:boardId/:groupId', requireAuth, boardController.removeGroup)
 
 // // PULSE
 

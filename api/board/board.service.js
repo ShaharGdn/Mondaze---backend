@@ -66,7 +66,7 @@ async function addBoard(board) {
 }
 
 async function updateBoard(board) {
-    const boardToSave = { //needed?
+    const boardToSave = { 
         title: board.title,
         isStarred: board.isStarred,
         archivedAt: board.archivedAt,
@@ -78,14 +78,10 @@ async function updateBoard(board) {
     }
 
     try {
-        // const criteria = { _id: ObjectId.createFromHexString(board._id) }
-        console.log('board._id from updateBoard:', board._id)
         const criteria = { _id: _getFormattedId(board._id) }
 
         const collection = await dbService.getCollection('board')
-        // await collection.updateOne(criteria, { $set: boardToSave })
-        const res = await collection.updateOne(criteria, { $set: boardToSave })
-        console.log('res:', res)
+        await collection.updateOne(criteria, { $set: boardToSave })
         return board
     } catch (err) {
         logger.error(`Cannot update board ${board._id}`, err)
@@ -153,7 +149,8 @@ async function duplicateGroup(boardId, group) {
         if (!board) {
             throw new Error(`Could not find board by id: ${boardId}`)
         }
-        const duplicatedGroup = { ...group, id: makeId() }
+        const duplicatedPulses = group.pulses.map(pulse => pulse = { ...pulse, id: makeId() })
+        const duplicatedGroup = { ...group, id: makeId(), pulses: duplicatedPulses }
         board.groups.push(duplicatedGroup)
 
         await updateBoard(board)
@@ -171,7 +168,7 @@ async function updateGroup(boardId, updatedGroup) {
             throw new Error(`Could not find board by id: ${boardId}`)
         }
 
-        const groupToSave = { //is this needed?
+        const groupToSave = {
             id: updatedGroup.id,
             title: updatedGroup.title || '',
             archivedAt: updatedGroup.archivedAt || null,
@@ -187,13 +184,39 @@ async function updateGroup(boardId, updatedGroup) {
 
         // const criteria = { _id: _getFormattedId(boardId) }
         // const collection = await dbService.getCollection('board')
-        // await collection.updateOne(criteria, { $set: boardToSave })
+        // await collection.updateOne(criteria, { $set: newBoard })
         return groupToSave
     } catch (err) {
         logger.error(`Cannot update group ${groupToSave.id}`, err)
         throw err
     }
 }
+
+// async function updateBoard(board) {
+//     const boardToSave = { //needed?
+//         title: board.title,
+//         isStarred: board.isStarred,
+//         archivedAt: board.archivedAt,
+//         folder: board.folder,
+//         style: board.style,
+//         members: board.members,
+//         groups: board.groups,
+//         cmpsOrder: board.cmpsOrder
+//     }
+
+//     try {
+//         const criteria = { _id: _getFormattedId(board._id) }
+
+//         const collection = await dbService.getCollection('board')
+//         await collection.updateOne(criteria, { $set: boardToSave })
+//         return board
+//     } catch (err) {
+//         logger.error(`Cannot update board ${board._id}`, err)
+//         throw err
+//     }
+// }
+
+
 
 // async function addBoardMsg(boardId, msg) {
 // 	try {
