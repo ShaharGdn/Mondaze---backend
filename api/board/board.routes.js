@@ -26,7 +26,7 @@ router.delete('/group/:boardId/:groupId', requireAuth, boardController.removeGro
 router.get('/pulse/:boardId/:groupId/:pulseId', log, boardController.getPulseById)
 router.post('/pulse/:boardId/:groupId', requireAuth, boardController.addPulse)
 router.put('/pulse/:boardId/:groupId', log, requireAuth, boardController.updatePulse)
-// router.delete('/boardId/group/groupId/pulse/:id', removePulse)
+router.delete('/pulse/:boardId/:groupId/:pulseId', log, requireAuth, boardController.removePulse)
 
 // router.post('/:id/msg', requireAuth, addBoardMsg)
 // router.delete('/:id/msg/:msgId', requireAuth, removeBoardMsg)

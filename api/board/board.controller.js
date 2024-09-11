@@ -19,6 +19,7 @@ export const boardController = {
 	getPulseById,
 	addPulse,
 	updatePulse,
+	removePulse,
 
 }
 
@@ -177,6 +178,17 @@ async function updatePulse(req, res) {
 	} catch (err) {
 		logger.error('Failed to update pulse', err)
 		res.status(400).send({ err: 'Failed to update pulse' })
+	}
+}
+
+async function removePulse(req, res) {
+	try {
+		const { boardId, groupId, pulseId } = req.params
+		const removedPulseId = await boardService.removePulse(boardId, groupId, pulseId)
+		res.send(removedPulseId)
+	} catch (err) {
+		logger.error('Failed to remove pulse', err)
+		res.status(400).send({ err: 'Failed to remove pulse' })
 	}
 }
 

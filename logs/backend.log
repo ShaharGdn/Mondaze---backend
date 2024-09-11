@@ -1033,3 +1033,31 @@
     "groupId": "23Ye4R"
   }
 }
+11.9.2024, 22:10:48 - INFO - server.js loaded...
+11.9.2024, 22:10:48 - INFO - Server is running on port: 3030
+11.9.2024, 22:10:50 - INFO - server.js loaded...
+11.9.2024, 22:10:50 - INFO - Server is running on port: 3030
+11.9.2024, 22:10:52 - INFO - server.js loaded...
+11.9.2024, 22:10:52 - INFO - Server is running on port: 3030
+11.9.2024, 22:11:21 - INFO - server.js loaded...
+11.9.2024, 22:11:21 - INFO - Server is running on port: 3030
+11.9.2024, 22:11:52 - INFO - server.js loaded...
+11.9.2024, 22:11:52 - INFO - Server is running on port: 3030
+11.9.2024, 22:11:54 - INFO - server.js loaded...
+11.9.2024, 22:11:54 - INFO - Server is running on port: 3030
+11.9.2024, 22:12:08 - INFO - server.js loaded...
+11.9.2024, 22:12:08 - INFO - Server is running on port: 3030
+11.9.2024, 22:14:43 - INFO - server.js loaded...
+11.9.2024, 22:14:43 - INFO - Server is running on port: 3030
+11.9.2024, 22:17:16 - INFO - server.js loaded...
+11.9.2024, 22:17:16 - INFO - Server is running on port: 3030
+11.9.2024, 22:17:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "DELETE",
+  "body": {},
+  "params": {
+    "boardId": "66ddeac5ec591b0eacc9a4eb",
+    "groupId": "23Ye4R",
+    "pulseId": "LdV6Wl"
+  }
+}
