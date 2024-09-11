@@ -2,7 +2,6 @@ import express from 'express'
 
 import { requireAuth } from '../../middlewares/requireAuth.middleware.js'
 import { log } from '../../middlewares/logger.middleware.js'
-// import { getBoards, getBoardById, addBoard, updateBoard, removeBoard, getGroupById } from './board.controller.js'
 import { boardController } from './board.controller.js'
 
 const router = express.Router()
@@ -23,10 +22,9 @@ router.post('/group/:boardId/duplicate/', requireAuth, boardController.duplicate
 router.put('/group/:boardId', requireAuth, boardController.updateGroup)
 router.delete('/group/:boardId/:groupId', requireAuth, boardController.removeGroup)
 
-// // PULSE
-
-// router.get('/boardId/group/groupId/pulse/:id', log, getPulseById)
-// router.post('/boardId/group/groupId/pulse/', log, addPulse)
+// PULSE
+router.get('/pulse/:boardId/:groupId/:pulseId', log, boardController.getPulseById)
+router.post('/pulse/:boardId/:groupId', log, boardController.addPulse)
 // router.put('/boardId/group/groupId/pulse/:id', updatePulse)
 // router.delete('/boardId/group/groupId/pulse/:id', removePulse)
 

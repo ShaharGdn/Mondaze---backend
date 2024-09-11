@@ -911,3 +911,93 @@
 11.9.2024, 16:30:46 - INFO - Server is running on port: 3030
 11.9.2024, 16:30:55 - INFO - server.js loaded...
 11.9.2024, 16:30:55 - INFO - Server is running on port: 3030
+11.9.2024, 18:07:28 - INFO - server.js loaded...
+11.9.2024, 18:07:28 - INFO - Server is running on port: 3030
+11.9.2024, 18:07:30 - INFO - server.js loaded...
+11.9.2024, 18:07:30 - INFO - Server is running on port: 3030
+11.9.2024, 18:07:36 - INFO - server.js loaded...
+11.9.2024, 18:07:36 - INFO - Server is running on port: 3030
+11.9.2024, 18:07:38 - INFO - server.js loaded...
+11.9.2024, 18:07:38 - INFO - Server is running on port: 3030
+11.9.2024, 18:12:26 - INFO - server.js loaded...
+11.9.2024, 18:12:26 - INFO - Server is running on port: 3030
+11.9.2024, 18:32:32 - INFO - server.js loaded...
+11.9.2024, 18:32:32 - INFO - Server is running on port: 3030
+11.9.2024, 18:32:41 - INFO - server.js loaded...
+11.9.2024, 18:32:41 - INFO - Server is running on port: 3030
+11.9.2024, 18:32:50 - INFO - server.js loaded...
+11.9.2024, 18:32:50 - INFO - Server is running on port: 3030
+11.9.2024, 18:35:06 - INFO - server.js loaded...
+11.9.2024, 18:35:06 - INFO - Server is running on port: 3030
+11.9.2024, 18:36:28 - INFO - server.js loaded...
+11.9.2024, 18:36:28 - INFO - Server is running on port: 3030
+11.9.2024, 18:36:31 - INFO - server.js loaded...
+11.9.2024, 18:36:31 - INFO - Server is running on port: 3030
+11.9.2024, 18:41:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "boardId": "66ddeac5ec591b0eacc9a4eb",
+    "groupId": "S1d7mT",
+    "pulseId": "qZ8kR9"
+  }
+}
+11.9.2024, 18:57:55 - INFO - server.js loaded...
+11.9.2024, 18:57:55 - INFO - Server is running on port: 3030
+11.9.2024, 18:58:05 - INFO - server.js loaded...
+11.9.2024, 18:58:05 - INFO - Server is running on port: 3030
+11.9.2024, 18:58:20 - INFO - server.js loaded...
+11.9.2024, 18:58:20 - INFO - Server is running on port: 3030
+11.9.2024, 18:58:31 - INFO - server.js loaded...
+11.9.2024, 18:58:31 - INFO - Server is running on port: 3030
+11.9.2024, 18:58:59 - INFO - server.js loaded...
+11.9.2024, 18:58:59 - INFO - Server is running on port: 3030
+11.9.2024, 19:02:05 - INFO - server.js loaded...
+11.9.2024, 19:02:05 - INFO - Server is running on port: 3030
+11.9.2024, 19:03:27 - INFO - server.js loaded...
+11.9.2024, 19:03:27 - INFO - Server is running on port: 3030
+11.9.2024, 20:05:06 - INFO - server.js loaded...
+11.9.2024, 20:05:06 - INFO - Server is running on port: 3030
+11.9.2024, 20:09:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "ADDED PULSE!",
+    "status": "dnn8390",
+    "priority": "hgh3899",
+    "dueDate": "2025-12-02",
+    "memberIds": [
+      "u101",
+      "u102"
+    ],
+    "isDone": false
+  },
+  "params": {
+    "boardId": "66ddeac5ec591b0eacc9a4eb",
+    "groupId": "23Ye4R"
+  }
+}
+11.9.2024, 20:09:21 - ERROR - Cannot add pulse | ReferenceError: group is not defined
+11.9.2024, 20:09:21 - ERROR - Failed to add pulse | ReferenceError: group is not defined
+11.9.2024, 20:09:35 - INFO - server.js loaded...
+11.9.2024, 20:09:35 - INFO - Server is running on port: 3030
+11.9.2024, 20:09:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "ADDED PULSE!",
+    "status": "dnn8390",
+    "priority": "hgh3899",
+    "dueDate": "2025-12-02",
+    "memberIds": [
+      "u101",
+      "u102"
+    ],
+    "isDone": false
+  },
+  "params": {
+    "boardId": "66ddeac5ec591b0eacc9a4eb",
+    "groupId": "23Ye4R"
+  }
+}

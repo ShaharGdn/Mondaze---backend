@@ -8,11 +8,13 @@ import { asyncLocalStorage } from '../../services/als.service.js'
 export const boardService = {
     // BOARDS
     query,
+
     // BOARD
     getBoardById,
     addBoard,
     updateBoard,
     removeBoard,
+
     // GROUP
     getGroupById,
     addGroup,
@@ -20,8 +22,9 @@ export const boardService = {
     updateGroup,
     removeGroup,
 
-    // getPulseById,
-    // addPulse,
+    // PULSE
+    getPulseById,
+    addPulse,
     // updatePulse,
     // removePulse,
 
@@ -29,6 +32,7 @@ export const boardService = {
     // removeBoardMsg,
 }
 
+/// BOARDS ///
 async function query(filterBy = { txt: '' }) {
     try {
         const criteria = { title: { $regex: filterBy.txt, $options: 'i' } }
@@ -41,6 +45,7 @@ async function query(filterBy = { txt: '' }) {
     }
 }
 
+/// BOARD ///
 async function getBoardById(boardId) {
     try {
         const criteria = { _id: new ObjectId(boardId) }
@@ -104,7 +109,7 @@ async function removeBoard(boardId) {
     }
 }
 
-// GROUP
+/// GROUP ///
 
 async function getGroupById(boardId, groupId) {
     try {
@@ -126,7 +131,7 @@ async function addGroup(boardId, pos) {
         if (!board) {
             throw new Error(`Could not find board by id: ${boardId}`)
         }
-        const newGroup = {
+        const groupToAdd = {
             id: makeId(),
             title: 'New Group',
             archivedAt: null,
@@ -134,11 +139,11 @@ async function addGroup(boardId, pos) {
             style: { color: getRandomColor() },
             type: board.type,
         }
-        if (pos === 'start') board.groups.unshift(newGroup)
-        else board.groups.push(newGroup)
+        if (pos === 'start') board.groups.unshift(groupToAdd)
+        else board.groups.push(groupToAdd)
 
         await updateBoard(board)
-        return newGroup
+        return groupToAdd
     } catch (err) {
         logger.error('Cannot add group', err)
         throw err
@@ -204,6 +209,49 @@ async function removeGroup(boardId, groupId) {
         return groupId
     } catch (err) {
         logger.error(`Cannot remove group ${groupId}`, err)
+        throw err
+    }
+}
+
+/// PULSE ///
+
+async function getPulseById(boardId, groupId, pulseId) {
+    try {
+        const group = await getGroupById(boardId, groupId)
+        return group.pulses.find(pulse => pulse.id === pulseId)
+    } catch (err) {
+        logger.error(`Cannot get pulse by id: ${pulseId}`, err)
+        throw err
+    }
+}
+
+async function addPulse(boardId, groupId, pulse) {
+    try {
+        const board = await getBoardById(boardId)
+        if (!board) {
+            throw new Error(`Could not find board by id: ${boardId}`)
+        }
+
+        const groupIdx = board.groups.findIndex(group => group.id === groupId)
+        if (groupIdx < 0) {
+            throw new Error(`Could not find group by id: ${groupId}`)
+        }
+
+        const pulseToAdd = {
+            id: makeId(),
+            title: pulse.title || `New ${board.type}`,
+            status: pulse.status || '',
+            priority: pulse.priority || '',
+            isDone: pulse.isDone || false,
+            dueDate: pulse.dueDate || '',
+            memberIds: pulse.memberIds || [],
+        }
+        board.groups[groupIdx].pulses.push(pulseToAdd)
+
+        await updateBoard(board)
+        return pulseToAdd
+    } catch (err) {
+        logger.error('Cannot add pulse', err)
         throw err
     }
 }

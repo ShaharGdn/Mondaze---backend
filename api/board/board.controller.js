@@ -15,9 +15,13 @@ export const boardController = {
 	duplicateGroup,
 	updateGroup,
 	removeGroup,
+	// PULSE
+	getPulseById,
+	addPulse,
 
 }
 
+/// BOARDS ///
 async function getBoards(req, res) {
 	try {
 		const filterBy = {
@@ -31,6 +35,7 @@ async function getBoards(req, res) {
 	}
 }
 
+/// BOARD ///
 async function getBoardById(req, res) {
 	try {
 		const boardId = req.params.id
@@ -78,6 +83,7 @@ async function removeBoard(req, res) {
 	}
 }
 
+/// GROUP ///
 async function getGroupById(req, res) {
 	try {
 		const { boardId, groupId } = req.params
@@ -92,7 +98,6 @@ async function getGroupById(req, res) {
 async function addGroup(req, res) {
 	// const { loggedinUser } = req
 	const boardId = req.params.boardId
-	console.log('boardId:', boardId)
 	const pos = req.body.position
 	try {
 		const addedGroup = await boardService.addGroup(boardId, pos)
@@ -135,6 +140,30 @@ async function removeGroup(req, res) {
 	} catch (err) {
 		logger.error('Failed to remove group', err)
 		res.status(400).send({ err: 'Failed to remove group' })
+	}
+}
+
+/// PULSE ///
+async function getPulseById(req, res) {
+	try {
+		const { boardId, groupId, pulseId } = req.params
+		const pulse = await boardService.getPulseById(boardId, groupId, pulseId)
+		res.json(pulse)
+	} catch (err) {
+		logger.error('Failed to get pulse', err)
+		res.status(400).send({ err: 'Failed to get pulse' })
+	}
+}
+
+async function addPulse(req, res) {
+	const { loggedinUser, body: pulse } = req
+	const { boardId, groupId } = req.params
+	try {
+		const addedPulse = await boardService.addPulse(boardId, groupId, pulse)
+		res.json(addedPulse)
+	} catch (err) {
+		logger.error('Failed to add pulse', err)
+		res.status(400).send({ err: 'Failed to add pulse' })
 	}
 }
 
