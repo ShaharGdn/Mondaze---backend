@@ -64,7 +64,6 @@ async function addBoard(req, res) {
 
 async function updateBoard(req, res) {
 	const { loggedinUser, body: board } = req
-	// const boardId = req.params.id // to check
 	try {
 		const updatedBoard = await boardService.updateBoard(board)
 		res.json(updatedBoard)
