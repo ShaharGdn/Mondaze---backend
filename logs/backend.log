@@ -1061,3 +1061,919 @@
     "pulseId": "LdV6Wl"
   }
 }
+12.9.2024, 19:00:30 - INFO - server.js loaded...
+12.9.2024, 19:00:30 - INFO - Server is running on port: 3030
+12.9.2024, 19:01:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 19:01:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 19:02:05 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+12.9.2024, 19:02:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "Leads Board 👻",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": null,
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "S7Q384",
+        "archivedAt": null,
+        "type": "Lead",
+        "pulses": [
+          {
+            "id": "Uv2MXo",
+            "title": "Lead 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "fS2iLd",
+            "title": "Lead 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "TSqpMx",
+            "title": "Lead 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "zdvbIY",
+        "archivedAt": null,
+        "type": "Lead",
+        "pulses": [
+          {
+            "id": "xO9aIf",
+            "title": "Lead 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "MdaXMv",
+            "title": "Lead 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "NumberInput",
+      "TextInput"
+    ],
+    "type": "Lead"
+  },
+  "params": {}
+}
+12.9.2024, 19:02:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 19:02:49 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+}
+12.9.2024, 19:02:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+12.9.2024, 19:02:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 19:18:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 19:18:18 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+}
+12.9.2024, 19:18:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+}
+12.9.2024, 19:18:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 19:19:31 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+}
+12.9.2024, 19:19:31 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 19:22:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "ASDFAS",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": null,
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "eOy3bK",
+        "archivedAt": null,
+        "type": "Item",
+        "pulses": [
+          {
+            "id": "uM8sti",
+            "title": "Item 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "cEq98H",
+            "title": "Item 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "QdS7RP",
+            "title": "Item 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "mtxppp",
+        "archivedAt": null,
+        "type": "Item",
+        "pulses": [
+          {
+            "id": "Rd8x4C",
+            "title": "Item 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "39ZhtP",
+            "title": "Item 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "NumberInput",
+      "TextInput"
+    ],
+    "type": "Item"
+  },
+  "params": {}
+}
+12.9.2024, 19:22:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e315547ea197fe4a301bb4"
+  }
+}
+12.9.2024, 19:23:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 19:23:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 19:23:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 19:30:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 19:30:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 19:30:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 19:30:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 19:34:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 19:35:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "xbvMP",
+    "title": "יככי",
+    "status": "dft3488",
+    "priority": "dft3489",
+    "isDone": false,
+    "dueDate": "",
+    "memberIds": [
+      "u102"
+    ]
+  },
+  "params": {
+    "boardId": "66e310a27ea197fe4a301bb3",
+    "groupId": "kkJIi"
+  }
+}
+12.9.2024, 19:47:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 19:47:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 19:47:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "YyUmh",
+    "title": "asdfjkhk",
+    "status": "dft3488",
+    "priority": "dft3489",
+    "isDone": false,
+    "dueDate": "",
+    "memberIds": []
+  },
+  "params": {
+    "boardId": "66e310a27ea197fe4a301bb3",
+    "groupId": "kkJIi"
+  }
+}
+12.9.2024, 19:47:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 19:47:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "YyUmh",
+    "title": "asdfjkhkfhfh",
+    "status": "dft3488",
+    "priority": "dft3489",
+    "isDone": false,
+    "dueDate": "",
+    "memberIds": []
+  },
+  "params": {
+    "boardId": "66e310a27ea197fe4a301bb3",
+    "groupId": "kkJIi"
+  }
+}
+12.9.2024, 19:47:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 19:48:35 - ERROR - Cannot get board by id: [object Object] | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+12.9.2024, 19:48:35 - ERROR - Cannot duplicate group | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+12.9.2024, 19:48:35 - ERROR - Failed to duplicate group | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+12.9.2024, 20:05:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 20:05:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 20:06:01 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 20:06:01 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 20:06:14 - INFO - server.js loaded...
+12.9.2024, 20:06:14 - INFO - Server is running on port: 3030
+12.9.2024, 20:06:26 - ERROR - Cannot get board by id: [object Object] | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+12.9.2024, 20:06:26 - ERROR - Cannot duplicate group | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+12.9.2024, 20:06:26 - ERROR - Failed to duplicate group | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+12.9.2024, 20:08:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 20:08:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 20:08:28 - INFO - server.js loaded...
+12.9.2024, 20:08:28 - INFO - Server is running on port: 3030
+12.9.2024, 20:09:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 20:09:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 20:09:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "kJmZp",
+    "title": "asdfjkhkfhfhfghfh",
+    "status": "dft3488",
+    "priority": "dft3489",
+    "isDone": false,
+    "dueDate": "",
+    "memberIds": []
+  },
+  "params": {
+    "boardId": "66e310a27ea197fe4a301bb3",
+    "groupId": "5iNm4"
+  }
+}
+12.9.2024, 20:09:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 20:10:34 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 20:10:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 20:10:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 20:10:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 20:10:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 20:10:56 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "xbvMP",
+    "title": "יככיfhgdh",
+    "status": "dft3488",
+    "priority": "dft3489",
+    "isDone": false,
+    "dueDate": "",
+    "memberIds": [
+      "u102"
+    ]
+  },
+  "params": {
+    "boardId": "66e310a27ea197fe4a301bb3",
+    "groupId": "kkJIi"
+  }
+}
+12.9.2024, 20:11:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "DELETE",
+  "body": {},
+  "params": {
+    "boardId": "66e310a27ea197fe4a301bb3",
+    "groupId": "kkJIi",
+    "pulseId": "YyUmh"
+  }
+}
+12.9.2024, 20:11:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "DELETE",
+  "body": {},
+  "params": {
+    "boardId": "66e310a27ea197fe4a301bb3",
+    "groupId": "5iNm4",
+    "pulseId": "ixV4f"
+  }
+}
+12.9.2024, 20:11:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "BWb1R",
+    "title": "fhgfhgfh",
+    "status": "stk4530",
+    "priority": "dft3489",
+    "isDone": false,
+    "dueDate": "",
+    "memberIds": []
+  },
+  "params": {
+    "boardId": "66e310a27ea197fe4a301bb3",
+    "groupId": "5iNm4"
+  }
+}
+12.9.2024, 20:11:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "BWb1R",
+    "title": "fhgfhgfh",
+    "status": "stk4530",
+    "priority": "crt5664",
+    "isDone": false,
+    "dueDate": "",
+    "memberIds": []
+  },
+  "params": {
+    "boardId": "66e310a27ea197fe4a301bb3",
+    "groupId": "5iNm4"
+  }
+}
+12.9.2024, 20:11:12 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "kJmZp",
+    "title": "asdfjkhkfhfhfghfh",
+    "status": "dft3488",
+    "priority": "dft3489",
+    "isDone": false,
+    "dueDate": "2024-09-03",
+    "memberIds": []
+  },
+  "params": {
+    "boardId": "66e310a27ea197fe4a301bb3",
+    "groupId": "5iNm4"
+  }
+}
+12.9.2024, 21:43:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 21:43:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+12.9.2024, 21:52:47 - INFO - server.js loaded...
+12.9.2024, 21:52:47 - INFO - Server is running on port: 3030
+12.9.2024, 22:02:27 - INFO - server.js loaded...
+12.9.2024, 22:02:27 - INFO - Server is running on port: 3030
+12.9.2024, 22:05:51 - INFO - server.js loaded...
+12.9.2024, 22:05:51 - INFO - Server is running on port: 3030
+12.9.2024, 23:10:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+12.9.2024, 23:10:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+13.9.2024, 12:47:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+13.9.2024, 12:47:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+13.9.2024, 13:04:07 - INFO - server.js loaded...
+13.9.2024, 13:04:07 - INFO - Server is running on port: 3030
+13.9.2024, 13:15:16 - INFO - server.js loaded...
+13.9.2024, 13:15:16 - INFO - Server is running on port: 3030
+13.9.2024, 13:18:10 - INFO - server.js loaded...
+13.9.2024, 13:18:10 - INFO - Server is running on port: 3030
+13.9.2024, 13:20:55 - INFO - server.js loaded...
+13.9.2024, 13:20:55 - INFO - Server is running on port: 3030
+13.9.2024, 13:23:49 - INFO - server.js loaded...
+13.9.2024, 13:23:49 - INFO - Server is running on port: 3030
+13.9.2024, 13:24:40 - INFO - server.js loaded...
+13.9.2024, 13:24:40 - INFO - Server is running on port: 3030
+13.9.2024, 13:27:12 - INFO - server.js loaded...
+13.9.2024, 13:27:12 - INFO - Server is running on port: 3030
+13.9.2024, 13:37:07 - INFO - server.js loaded...
+13.9.2024, 13:37:07 - INFO - Server is running on port: 3030
+13.9.2024, 13:39:43 - INFO - server.js loaded...
+13.9.2024, 13:39:43 - INFO - Server is running on port: 3030
+13.9.2024, 13:40:38 - INFO - server.js loaded...
+13.9.2024, 13:40:38 - INFO - Server is running on port: 3030
+13.9.2024, 13:45:27 - INFO - server.js loaded...
+13.9.2024, 13:45:28 - INFO - Server is running on port: 3030
+13.9.2024, 13:48:24 - INFO - server.js loaded...
+13.9.2024, 13:48:24 - INFO - Server is running on port: 3030
+13.9.2024, 13:49:02 - INFO - server.js loaded...
+13.9.2024, 13:49:02 - INFO - Server is running on port: 3030
+13.9.2024, 13:50:20 - INFO - Server is running on port: 3030
+13.9.2024, 13:50:20 - INFO - server.js loaded...
+13.9.2024, 13:50:40 - INFO - server.js loaded...
+13.9.2024, 13:50:40 - INFO - Server is running on port: 3030
+13.9.2024, 13:50:45 - INFO - server.js loaded...
+13.9.2024, 13:50:45 - INFO - Server is running on port: 3030
+13.9.2024, 13:51:37 - INFO - server.js loaded...
+13.9.2024, 13:51:37 - INFO - Server is running on port: 3030
+13.9.2024, 13:51:46 - INFO - server.js loaded...
+13.9.2024, 13:51:46 - INFO - Server is running on port: 3030
+13.9.2024, 13:53:03 - INFO - server.js loaded...
+13.9.2024, 13:53:03 - INFO - Server is running on port: 3030

@@ -1,6 +1,17 @@
-import {userService} from './user.service.js'
-import {logger} from '../../services/logger.service.js'
-import {socketService} from '../../services/socket.service.js'
+import { userService } from './user.service.js'
+import { logger } from '../../services/logger.service.js'
+import { ObjectId } from 'mongodb'
+import { socketService } from '../../services/socket.service.js'
+
+export async function getUsers(req, res) {
+    try {
+        const users = await userService.query()
+        res.send(users)
+    } catch (err) {
+        logger.error('Failed to get users', err)
+        res.status(400).send({ err: 'Failed to get users' })
+    }
+}
 
 export async function getUser(req, res) {
     try {
@@ -12,24 +23,10 @@ export async function getUser(req, res) {
     }
 }
 
-export async function getUsers(req, res) {
-    try {
-        const filterBy = {
-            txt: req.query?.txt || '',
-            minBalance: +req.query?.minBalance || 0
-        }
-        const users = await userService.query(filterBy)
-        res.send(users)
-    } catch (err) {
-        logger.error('Failed to get users', err)
-        res.status(400).send({ err: 'Failed to get users' })
-    }
-}
-
 export async function deleteUser(req, res) {
     try {
         await userService.remove(req.params.id)
-        res.send({ msg: 'Deleted successfully' })
+        res.send({ msg: 'User deleted successfully' })
     } catch (err) {
         logger.error('Failed to delete user', err)
         res.status(400).send({ err: 'Failed to delete user' })
@@ -39,7 +36,12 @@ export async function deleteUser(req, res) {
 export async function updateUser(req, res) {
     try {
         const user = req.body
-        const savedUser = await userService.update(user)
+        const userToUpdate = {
+            _id: new ObjectId(user._id),
+            fullname: user.fullname || '',
+            imgUrl: user.imgUrl || "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+        }
+        const savedUser = await userService.update(userToUpdate)
         res.send(savedUser)
     } catch (err) {
         logger.error('Failed to update user', err)

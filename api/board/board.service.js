@@ -137,7 +137,6 @@ async function addGroup(boardId, pos) {
             archivedAt: null,
             pulses: [],
             style: { color: getRandomColor() },
-            type: board.type,
         }
         if (pos === 'start') board.groups.unshift(groupToAdd)
         else board.groups.push(groupToAdd)
@@ -178,7 +177,6 @@ async function updateGroup(boardId, updatedGroup) {
             id: updatedGroup.id,
             title: updatedGroup.title || '',
             archivedAt: updatedGroup.archivedAt || null,
-            type: updatedGroup.type || board.type,
             pulses: updatedGroup.pulses || [],
             style: updatedGroup.style || { color: getRandomColor() }
         }
