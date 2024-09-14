@@ -46,13 +46,40 @@ async function query(filterBy = { txt: '' }) {
 }
 
 /// BOARD ///
-async function getBoardById(boardId) {
+async function getBoardById(boardId, filterBy = { txt: '' }) {
     try {
         const criteria = { _id: new ObjectId(boardId) }
         const collection = await dbService.getCollection('board')
-
         const board = await collection.findOne(criteria)
-        // board.activities.createdAt = board._id.getTimestamp() // later for activities
+
+        if (!board) {
+            throw new Error(`Could not find board by id: ${boardId}`)
+        }
+
+        if (filterBy.txt) {
+            const searchTxt = filterBy.txt.toLowerCase()
+
+            // const groupsByGroupTitle = board.groups.filter(group => {
+            //     return group.title.toLowerCase().includes(searchTxt)
+            // })
+            // const groupsByPulseTitle = board.groups.filter(group => group.pulses.some(pulse => {
+            //     return pulse.title.toLowerCase().includes(searchTxt)
+            // }))
+
+            board.groups = board.groups.filter(group => {
+                return (
+                    group.title.toLowerCase().includes(searchTxt) ||
+                    group.pulses.some(pulse =>
+                        pulse.title.toLowerCase().includes(searchTxt
+                        ))
+                )
+            }).map(group => {
+                group.pulses = group.pulses.filter(pulse => {
+                    return pulse.title.toLowerCase().includes(searchTxt)
+                })
+                return group
+            })
+        }
         return board
     } catch (err) {
         logger.error(`Cannot get board by id: ${boardId}`, err)
@@ -243,6 +270,8 @@ async function addPulse(boardId, groupId, pulse) {
             isDone: pulse.isDone || false,
             dueDate: pulse.dueDate || '',
             memberIds: pulse.memberIds || [],
+            updates: pulse.updates || [],
+
         }
         board.groups[groupIdx].pulses.push(pulseToAdd)
 
@@ -264,6 +293,7 @@ async function updatePulse(boardId, groupId, pulse) {
             isDone: pulse.isDone,
             dueDate: pulse.dueDate,
             memberIds: pulse.memberIds,
+            updates: pulse.updates,
         }
         const group = await getGroupById(boardId, groupId)
         if (!group) {

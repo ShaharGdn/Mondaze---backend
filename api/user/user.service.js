@@ -79,6 +79,7 @@ async function add(user) {
             password: user.password,
             fullname: user.fullname,
             imgUrl: user.imgUrl || "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+            updates: user.updates || []
         }
         const collection = await dbService.getCollection('user')
         await collection.insertOne(userToAdd)

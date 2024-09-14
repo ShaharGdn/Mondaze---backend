@@ -2730,3 +2730,2296 @@
 }
 13.9.2024, 18:28:35 - DEBUG - auth.service - login with username: Muki
 13.9.2024, 18:28:35 - INFO - User login:  | {"_id":"66e459fd67b41780422e61fc","username":"Muki","fullname":"Muki Mu","imgUrl":"https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"}
+14.9.2024, 11:45:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+14.9.2024, 11:45:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 11:47:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+14.9.2024, 11:47:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 11:58:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "TSihL"
+  }
+}
+14.9.2024, 11:58:13 - ERROR - Cannot get board by id: TSihL | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+14.9.2024, 11:58:13 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+14.9.2024, 11:58:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 11:58:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 11:58:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 11:58:32 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 12:00:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 12:00:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 12:00:32 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 12:00:32 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 12:00:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 12:00:39 - ERROR - Cannot get board by id: TSihL | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+14.9.2024, 12:00:39 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+14.9.2024, 12:00:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "TSihL"
+  }
+}
+14.9.2024, 12:00:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 12:00:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 12:00:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 12:00:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+}
+14.9.2024, 12:00:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+14.9.2024, 12:00:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 12:00:58 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 12:01:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 12:01:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 12:01:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 12:05:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 12:05:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 12:06:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 12:06:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 12:07:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 12:07:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 12:08:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 12:08:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 12:12:54 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 12:12:54 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 12:23:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 12:23:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 12:25:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 12:25:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 12:33:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 12:33:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 12:36:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 12:36:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 13:06:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 13:06:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 13:07:59 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 13:07:59 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 13:12:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 13:12:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 13:12:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 13:12:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 13:14:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 13:14:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 13:19:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 13:19:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 14:18:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 14:18:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 14:20:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 14:20:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 14:23:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 14:24:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 14:24:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 14:24:16 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 14:24:16 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 14:24:18 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 14:24:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 14:42:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 14:42:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 14:42:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+}
+14.9.2024, 14:42:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 14:53:26 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 14:54:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 15:15:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 15:16:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "Task 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "dueDate": "2024-11-24",
+    "dateRange": {
+      "from": "2024-09-24T00:00:00.000Z",
+      "to": "2024-09-30T00:00:00.000Z"
+    },
+    "memberIds": [],
+    "isDone": false,
+    "updates": [
+      {
+        "createdBy": null,
+        "createdAt": "2024-09-14T12:16:22.424Z",
+        "content": "<p>gfdhdfghfdhgfdgh</p>",
+        "id": "8Hmj6a"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "S1d7mT6"
+  }
+}
+14.9.2024, 15:16:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 15:16:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "Task 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "memberIds": [],
+    "updates": [
+      {
+        "createdBy": null,
+        "createdAt": "2024-09-14T12:16:35.296Z",
+        "content": "<p>dfghdfhgdfhg</p><p><br></p><p><br></p>",
+        "id": "VEOMVn"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "S1d7mT6"
+  }
+}
+14.9.2024, 15:16:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 15:16:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "Task 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "memberIds": [],
+    "updates": [
+      {
+        "createdBy": null,
+        "createdAt": "2024-09-14T12:16:38.944Z",
+        "content": "<p>fjhghkhgkj</p>",
+        "id": "lWiUz2"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "S1d7mT6"
+  }
+}
+14.9.2024, 15:16:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 15:16:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 15:16:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 15:16:49 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 15:16:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "Task 1hgkjghjkghjk",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "memberIds": []
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "S1d7mT6"
+  }
+}
+14.9.2024, 15:16:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 15:17:28 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 15:17:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "TEST",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": null,
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "yNRcRB",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "D0uPET",
+            "title": "Task 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "HaqnQL",
+            "title": "Task 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "9YGD0n",
+            "title": "Task 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "Xzv524",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "i3P4z0",
+            "title": "Task 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "AzN91z",
+            "title": "Task 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "NumberInput",
+      "TextInput"
+    ],
+    "type": "Task"
+  },
+  "params": {}
+}
+14.9.2024, 15:17:54 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 15:18:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 15:18:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "D0uPET",
+    "title": "Task 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "dueDate": "2024-09-24",
+    "dateRange": {
+      "from": "2024-09-24T00:00:00.000Z",
+      "to": "2024-09-30T00:00:00.000Z"
+    },
+    "memberIds": [
+      "u101"
+    ],
+    "isDone": "",
+    "updates": [
+      {
+        "createdBy": null,
+        "createdAt": "2024-09-14T12:18:03.073Z",
+        "content": "<p>dsfgdsgfsdfg</p>",
+        "id": "qGxWoB"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e57ef067b41780422e61fd",
+    "groupId": "yNRcRB"
+  }
+}
+14.9.2024, 15:18:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 16:04:05 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 16:04:05 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 16:04:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 16:04:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 16:05:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 16:05:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 16:08:12 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 16:08:12 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 16:32:18 - INFO - server.js loaded...
+14.9.2024, 16:32:18 - INFO - Server is running on port: 3030
+14.9.2024, 16:33:31 - INFO - server.js loaded...
+14.9.2024, 16:33:31 - INFO - Server is running on port: 3030
+14.9.2024, 16:36:26 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 16:36:26 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 16:36:56 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 16:37:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "D0uPET",
+    "title": "Task 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": "",
+    "dueDate": "2024-09-24",
+    "memberIds": [
+      "u101"
+    ],
+    "updates": [
+      {
+        "createdBy": null,
+        "createdAt": "2024-09-14T13:37:02.315Z",
+        "content": "<p>גדכעדגכעדגעכ</p>",
+        "id": "ZGnFEl"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e57ef067b41780422e61fd",
+    "groupId": "yNRcRB"
+  }
+}
+14.9.2024, 16:37:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 16:37:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "D0uPET",
+    "title": "Task 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": "",
+    "dueDate": "2024-09-24",
+    "memberIds": [
+      "u101"
+    ],
+    "updates": [
+      {
+        "createdBy": null,
+        "createdAt": "2024-09-14T13:37:11.067Z",
+        "content": "<p>דגכדגכעדגעכ</p>",
+        "id": "9RQjvq"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e57ef067b41780422e61fd",
+    "groupId": "yNRcRB"
+  }
+}
+14.9.2024, 16:37:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 16:37:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "D0uPET",
+    "title": "Task 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": "",
+    "dueDate": "2024-09-24",
+    "memberIds": [
+      "u101"
+    ],
+    "updates": [
+      {
+        "createdBy": null,
+        "createdAt": "2024-09-14T13:37:17.931Z",
+        "content": "<p>דגכעדגכעדע</p>",
+        "id": "qnU2Fy"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e57ef067b41780422e61fd",
+    "groupId": "yNRcRB"
+  }
+}
+14.9.2024, 16:37:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 16:37:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 16:37:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 16:37:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "D0uPET",
+    "title": "Task 1שגכדשגכ",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": "",
+    "dueDate": "2024-09-24",
+    "memberIds": [
+      "u101"
+    ]
+  },
+  "params": {
+    "boardId": "66e57ef067b41780422e61fd",
+    "groupId": "yNRcRB"
+  }
+}
+14.9.2024, 16:37:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 16:37:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 16:37:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 16:37:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "9YGD0n",
+    "title": "Task 3",
+    "status": "woi5432",
+    "priority": "hgh3899",
+    "dueDate": "2024-09-10",
+    "dateRange": {
+      "from": "2024-11-02T00:00:00.000Z",
+      "to": "2024-12-01T00:00:00.000Z"
+    },
+    "memberIds": [],
+    "isDone": false
+  },
+  "params": {
+    "boardId": "66e57ef067b41780422e61fd",
+    "groupId": "yNRcRB"
+  }
+}
+14.9.2024, 16:37:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "9YGD0n",
+    "title": "Task 3",
+    "status": "dft3488",
+    "priority": "hgh3899",
+    "isDone": false,
+    "dueDate": "2024-09-10",
+    "memberIds": []
+  },
+  "params": {
+    "boardId": "66e57ef067b41780422e61fd",
+    "groupId": "yNRcRB"
+  }
+}
+14.9.2024, 16:37:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "9YGD0n",
+    "title": "Task 3",
+    "status": "dft3488",
+    "priority": "hgh3899",
+    "isDone": false,
+    "dueDate": "2024-09-10",
+    "memberIds": [
+      "u102"
+    ]
+  },
+  "params": {
+    "boardId": "66e57ef067b41780422e61fd",
+    "groupId": "yNRcRB"
+  }
+}
+14.9.2024, 16:38:26 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 16:38:26 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 16:41:40 - INFO - server.js loaded...
+14.9.2024, 16:41:40 - INFO - Server is running on port: 3030
+14.9.2024, 16:41:48 - INFO - server.js loaded...
+14.9.2024, 16:41:48 - INFO - Server is running on port: 3030
+14.9.2024, 17:01:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 17:01:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:01:49 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e57ef067b41780422e61fd"
+  }
+}
+14.9.2024, 17:01:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "Ykpx8",
+    "title": "כגעדגכע",
+    "status": "dft3488",
+    "priority": "dft3489",
+    "isDone": false,
+    "dueDate": "",
+    "memberIds": [],
+    "updates": [
+      {
+        "createdBy": null,
+        "createdAt": "2024-09-14T14:01:52.108Z",
+        "content": "<p>דגכעדגכע</p>",
+        "id": "q0jvsR"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e57ef067b41780422e61fd",
+    "groupId": "A47Iy"
+  }
+}
+14.9.2024, 17:02:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:02:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:03:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "TEST",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": null,
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "4PqpKj",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "89YYt2",
+            "title": "Task 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "zP6Fue",
+            "title": "Task 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "ev9AFq",
+            "title": "Task 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "Kj5X4L",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "gKRLyK",
+            "title": "Task 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "PYIoHj",
+            "title": "Task 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "NumberInput",
+      "TextInput"
+    ],
+    "type": "Task"
+  },
+  "params": {}
+}
+14.9.2024, 17:03:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e5979d5b1ca64d97fb73db"
+  }
+}
+14.9.2024, 17:03:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e5979d5b1ca64d97fb73db"
+  }
+}
+14.9.2024, 17:03:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "PYIoHj",
+    "title": "Task 4",
+    "status": "stk4530",
+    "priority": "low7891",
+    "dueDate": "2024-09-14",
+    "memberIds": [
+      "u102"
+    ],
+    "isDone": "",
+    "updates": [
+      {
+        "createdBy": null,
+        "createdAt": "2024-09-14T14:03:19.163Z",
+        "content": "<p>שדגכשדכגשדכג</p>",
+        "id": "VPcYnu"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e5979d5b1ca64d97fb73db",
+    "groupId": "Kj5X4L"
+  }
+}
+14.9.2024, 17:04:29 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:04:29 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e5979d5b1ca64d97fb73db"
+  }
+}
+14.9.2024, 17:04:31 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:04:31 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e5979d5b1ca64d97fb73db"
+  }
+}
+14.9.2024, 17:06:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e5979d5b1ca64d97fb73db"
+  }
+}
+14.9.2024, 17:06:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:20:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e5979d5b1ca64d97fb73db"
+  }
+}
+14.9.2024, 17:20:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:20:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:20:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e5979d5b1ca64d97fb73db"
+  }
+}
+14.9.2024, 17:22:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e5979d5b1ca64d97fb73db"
+  }
+}
+14.9.2024, 17:22:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:22:41 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e5979d5b1ca64d97fb73db"
+  }
+}
+14.9.2024, 17:22:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "gKRLyK",
+    "title": "Task 3",
+    "status": "dnn8390",
+    "priority": "hgh3899",
+    "dueDate": "2024-10-05",
+    "memberIds": [
+      "u101",
+      "u102",
+      "u103"
+    ],
+    "isDone": true,
+    "updates": [
+      {
+        "createdBy": {},
+        "createdAt": "2024-09-14T14:22:44.029Z",
+        "content": "<p>asdfasdf</p>",
+        "id": "V1yDJh"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e5979d5b1ca64d97fb73db",
+    "groupId": "Kj5X4L"
+  }
+}
+14.9.2024, 17:22:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e5979d5b1ca64d97fb73db"
+  }
+}
+14.9.2024, 17:24:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "TSihL"
+  }
+}
+14.9.2024, 17:24:00 - ERROR - Cannot get board by id: TSihL | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+14.9.2024, 17:24:00 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+14.9.2024, 17:24:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:24:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:24:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 17:24:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 17:24:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "Task 1hgkjghjkghjk",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "memberIds": [],
+    "updates": [
+      {
+        "createdBy": {},
+        "createdAt": "2024-09-14T14:24:11.765Z",
+        "content": "<p>dsfgsdfgsdfg</p>",
+        "id": "Vnw2Gu"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "S1d7mT6"
+  }
+}
+14.9.2024, 17:24:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 17:24:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "sds",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "memberIds": [],
+    "updates": [
+      {
+        "createdBy": {},
+        "createdAt": "2024-09-14T14:24:11.765Z",
+        "content": "<p>dsfgsdfgsdfg</p>",
+        "id": "Vnw2Gu"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "S1d7mT6"
+  }
+}
+14.9.2024, 17:24:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 17:24:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "sds",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "memberIds": [],
+    "updates": [
+      {
+        "createdBy": {},
+        "createdAt": "2024-09-14T14:24:36.996Z",
+        "content": "",
+        "id": "14s4fp"
+      },
+      {
+        "createdBy": {},
+        "createdAt": "2024-09-14T14:24:11.765Z",
+        "content": "<p>dsfgsdfgsdfg</p>",
+        "id": "Vnw2Gu"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "S1d7mT6"
+  }
+}
+14.9.2024, 17:24:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 17:25:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 17:25:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:25:01 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 17:25:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+14.9.2024, 17:25:08 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 17:25:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "sdsfghfgh",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "memberIds": [],
+    "updates": [
+      {
+        "createdBy": {},
+        "createdAt": "2024-09-14T14:24:36.996Z",
+        "content": "",
+        "id": "14s4fp"
+      },
+      {
+        "createdBy": {},
+        "createdAt": "2024-09-14T14:24:11.765Z",
+        "content": "<p>dsfgsdfgsdfg</p>",
+        "id": "Vnw2Gu"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "S1d7mT6"
+  }
+}
+14.9.2024, 17:25:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 17:25:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "sdsfghfgh",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "memberIds": [],
+    "updates": [
+      {
+        "createdBy": {},
+        "createdAt": "2024-09-14T14:24:11.765Z",
+        "content": "<p>dsfgsdfgsdfg</p>",
+        "id": "Vnw2Gu"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "S1d7mT6"
+  }
+}
+14.9.2024, 17:25:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 17:26:47 - INFO - server.js loaded...
+14.9.2024, 17:26:47 - INFO - Server is running on port: 3030
+14.9.2024, 17:27:05 - INFO - server.js loaded...
+14.9.2024, 17:27:05 - INFO - Server is running on port: 3030
+14.9.2024, 17:30:30 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 17:30:30 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:32:31 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 17:32:31 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:33:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:33:49 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:33:49 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:34:29 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:34:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:34:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:38:30 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:38:30 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:38:49 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:38:49 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:38:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 17:38:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:41:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:41:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:42:30 - INFO - {
+  "baseUrl": "/api/auth",
+  "method": "POST",
+  "body": {
+    "username": "Muki",
+    "password": "Muki"
+  },
+  "params": {}
+} | 66e459fd67b41780422e61fc
+14.9.2024, 17:42:30 - DEBUG - auth.service - login with username: Muki | 66e459fd67b41780422e61fc
+14.9.2024, 17:42:30 - INFO - User login:  | {"_id":"66e459fd67b41780422e61fc","username":"Muki","fullname":"Muki Mu","imgUrl":"https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"} | 66e459fd67b41780422e61fc
+14.9.2024, 17:43:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:43:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:43:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:43:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:43:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:43:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:43:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:43:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:43:23 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 17:43:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:43:26 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+}
+14.9.2024, 17:43:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+14.9.2024, 17:43:28 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 17:43:30 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 17:45:33 - INFO - {
+  "baseUrl": "/api/auth",
+  "method": "POST",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+14.9.2024, 18:14:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 18:14:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 18:51:35 - INFO - server.js loaded...
+14.9.2024, 18:51:35 - INFO - Server is running on port: 3030
+14.9.2024, 18:52:21 - INFO - server.js loaded...
+14.9.2024, 18:52:21 - INFO - Server is running on port: 3030
+14.9.2024, 20:53:44 - INFO - server.js loaded...
+14.9.2024, 20:53:44 - INFO - Server is running on port: 3030
+14.9.2024, 20:54:23 - INFO - server.js loaded...
+14.9.2024, 20:54:23 - INFO - Server is running on port: 3030
+14.9.2024, 20:55:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "TSihL"
+  }
+}
+14.9.2024, 20:55:40 - ERROR - Cannot get board by id: TSihL | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+14.9.2024, 20:55:40 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+14.9.2024, 20:55:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 20:55:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 20:55:51 - ERROR - Cannot get board by id: 66e448bbc6fc7d1897d85c45 | TypeError: Cannot read properties of undefined (reading 'txt')
+14.9.2024, 20:55:51 - ERROR - Cannot add group | TypeError: Cannot read properties of undefined (reading 'txt')
+14.9.2024, 20:55:51 - ERROR - Failed to add group | TypeError: Cannot read properties of undefined (reading 'txt')
+14.9.2024, 20:56:12 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 20:56:12 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+14.9.2024, 20:56:16 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 20:56:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+}
+14.9.2024, 20:56:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+}
+14.9.2024, 20:56:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 20:56:26 - ERROR - Cannot get board by id: 66e448bbc6fc7d1897d85c45 | TypeError: Cannot read properties of undefined (reading 'txt')
+14.9.2024, 20:56:26 - ERROR - Cannot add group | TypeError: Cannot read properties of undefined (reading 'txt')
+14.9.2024, 20:56:26 - ERROR - Failed to add group | TypeError: Cannot read properties of undefined (reading 'txt')
+14.9.2024, 20:56:28 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+14.9.2024, 20:56:29 - ERROR - Cannot get board by id: 66ddeac5ec591b0eacc9a4eb | TypeError: Cannot read properties of undefined (reading 'txt')
+14.9.2024, 20:56:29 - ERROR - Cannot add group | TypeError: Cannot read properties of undefined (reading 'txt')
+14.9.2024, 20:56:29 - ERROR - Failed to add group | TypeError: Cannot read properties of undefined (reading 'txt')
+14.9.2024, 20:56:30 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 20:56:44 - ERROR - Cannot get board by id: 66e448bbc6fc7d1897d85c45 | TypeError: Cannot read properties of undefined (reading 'txt')
+14.9.2024, 20:56:44 - ERROR - Cannot add group | TypeError: Cannot read properties of undefined (reading 'txt')
+14.9.2024, 20:56:44 - ERROR - Failed to add group | TypeError: Cannot read properties of undefined (reading 'txt')
+14.9.2024, 20:57:30 - INFO - server.js loaded...
+14.9.2024, 20:57:30 - INFO - Server is running on port: 3030
+14.9.2024, 20:58:23 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "nwwuy",
+    "title": "dog",
+    "status": "dft3488",
+    "priority": "dft3489",
+    "isDone": false,
+    "dueDate": "",
+    "memberIds": [],
+    "updates": []
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "PkgSO"
+  }
+}
+14.9.2024, 20:58:23 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+14.9.2024, 20:58:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}

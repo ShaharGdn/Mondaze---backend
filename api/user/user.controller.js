@@ -40,6 +40,7 @@ export async function updateUser(req, res) {
             _id: new ObjectId(user._id),
             fullname: user.fullname || '',
             imgUrl: user.imgUrl || "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+            updates: user.updates || []
         }
         const savedUser = await userService.update(userToUpdate)
         res.send(savedUser)
