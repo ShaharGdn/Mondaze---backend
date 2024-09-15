@@ -5023,3 +5023,1527 @@
     "id": "66e448bbc6fc7d1897d85c45"
   }
 }
+15.9.2024, 10:16:58 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 10:16:58 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 10:22:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 10:22:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 11:51:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:51:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 11:53:41 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:53:41 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 11:53:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:53:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:53:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:53:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:53:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:53:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:54:30 - INFO - server.js loaded...
+15.9.2024, 11:54:30 - INFO - Server is running on port: 3030
+15.9.2024, 11:54:32 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 11:54:32 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 11:54:34 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:54:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:54:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:54:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:54:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:54:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:54:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:54:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:54:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:54:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 11:55:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:55:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:56:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:56:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 11:57:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:57:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 11:58:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:58:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "AcO45e4",
+    "title": "Task 2",
+    "status": "dnn8390",
+    "priority": "mdm1126",
+    "dueDate": "2024-12-13",
+    "dateRange": {
+      "from": "2024-10-01T00:00:00.000Z",
+      "to": "2024-11-14T00:00:00.000Z"
+    },
+    "memberIds": [],
+    "isDone": true,
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-15T08:58:03.936Z",
+        "content": "<p>asdfasfd</p>",
+        "id": "aR66rC"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "S1d7mT6"
+  }
+}
+15.9.2024, 11:58:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:58:30 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "AcO45e4",
+    "title": "Task 2sadf",
+    "status": "dnn8390",
+    "priority": "mdm1126",
+    "isDone": true,
+    "dueDate": "2024-12-13",
+    "memberIds": [],
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-15T08:58:03.936Z",
+        "content": "<p>asdfasfd</p>",
+        "id": "aR66rC"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "S1d7mT6"
+  }
+}
+15.9.2024, 11:58:30 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:58:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 11:58:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:02:29 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:02:29 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 12:02:30 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:03:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:03:41 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:03:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:03:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:03:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:03:54 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:03:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:04:01 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:04:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:05:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:05:16 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:05:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:06:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:06:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:06:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:06:49 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:06:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:06:54 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:08:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:10:31 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:10:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:10:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:10:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 12:12:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:08 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 12:12:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:56 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:56 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:56 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:56 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:12:59 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 12:12:59 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:14:05 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:50:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:50:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+}
+15.9.2024, 12:51:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 12:51:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 12:51:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+15.9.2024, 12:51:12 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 12:51:12 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:22:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:22:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:23:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:24:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:25:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:25:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:25:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:25:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:26:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:26:21 - ERROR - Cannot get board by id: TSihL | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+15.9.2024, 13:26:21 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+15.9.2024, 13:26:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "TSihL"
+  }
+}
+15.9.2024, 13:26:26 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:26:26 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:26:54 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:26:54 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:27:05 - INFO - server.js loaded...
+15.9.2024, 13:27:05 - INFO - Server is running on port: 3030
+15.9.2024, 13:27:08 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:27:17 - INFO - server.js loaded...
+15.9.2024, 13:27:17 - INFO - Server is running on port: 3030
+15.9.2024, 13:27:28 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:27:28 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:29:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:29:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:29:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:29:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:29:59 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:30:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:30:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:30:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:31:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:35:52 - INFO - New connected socket [id: s4CGCGxIG-QvBvd_AAAB]
+15.9.2024, 13:36:44 - INFO - Socket disconnected [id: undefined]
+15.9.2024, 13:37:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:38:56 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:41:05 - INFO - server.js loaded...
+15.9.2024, 13:41:05 - INFO - Server is running on port: 3030
+15.9.2024, 13:41:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:41:23 - INFO - server.js loaded...
+15.9.2024, 13:41:23 - INFO - Server is running on port: 3030
+15.9.2024, 13:44:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:46:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:46:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:47:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:47:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:54:31 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 13:59:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:01:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:03:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "TSihL"
+  }
+}
+15.9.2024, 14:03:52 - ERROR - Cannot get board by id: TSihL | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+15.9.2024, 14:03:52 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+15.9.2024, 14:03:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:04:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:04:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:04:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:04:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "TSihL"
+  }
+}
+15.9.2024, 14:04:36 - ERROR - Cannot get board by id: TSihL | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+15.9.2024, 14:04:36 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+15.9.2024, 14:04:59 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:04:59 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "TSihL"
+  }
+}
+15.9.2024, 14:04:59 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+15.9.2024, 14:04:59 - ERROR - Cannot get board by id: TSihL | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+15.9.2024, 14:05:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:05:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:05:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:05:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:05:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:05:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "TSihL"
+  }
+}
+15.9.2024, 14:05:20 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+15.9.2024, 14:05:20 - ERROR - Cannot get board by id: TSihL | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+15.9.2024, 14:05:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:05:45 - ERROR - Cannot get board by id: TSihL | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+15.9.2024, 14:05:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "TSihL"
+  }
+}
+15.9.2024, 14:05:45 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+15.9.2024, 14:05:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:05:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:06:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:06:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "TSihL"
+  }
+}
+15.9.2024, 14:06:36 - ERROR - Cannot get board by id: TSihL | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+15.9.2024, 14:06:36 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+15.9.2024, 14:06:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:06:52 - ERROR - Cannot get board by id: TSihL | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+15.9.2024, 14:06:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "TSihL"
+  }
+}
+15.9.2024, 14:06:52 - ERROR - Failed to get board | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+15.9.2024, 14:06:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:06:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:07:01 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:07:01 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:07:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:07:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:13:26 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:25:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:25:49 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:28:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:28:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:28:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:28:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:28:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:28:54 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:29:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:29:49 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:30:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:45:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:45:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:45:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 14:45:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 19:32:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 19:32:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 20:41:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 20:41:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 20:42:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 20:42:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 20:42:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 20:44:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+}
+15.9.2024, 20:45:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 20:52:54 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 20:52:54 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 21:15:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 21:15:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 22:18:05 - INFO - {
+  "baseUrl": "/api/auth",
+  "method": "POST",
+  "body": {
+    "fullname": "",
+    "username": "Muki",
+    "password": "Muki",
+    "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+    "updates": []
+  },
+  "params": {}
+}
+15.9.2024, 22:18:05 - DEBUG - auth.service - login with username: Muki
+15.9.2024, 22:18:05 - INFO - User login:  | {"_id":"66e459fd67b41780422e61fc","username":"Muki","fullname":"Muki Mu","imgUrl":"https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"}
+15.9.2024, 22:18:30 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+15.9.2024, 22:18:30 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+15.9.2024, 22:18:47 - INFO - {
+  "baseUrl": "/api/auth",
+  "method": "POST",
+  "body": {
+    "fullname": "",
+    "username": "sdfgsdgf",
+    "password": "sdfsgf",
+    "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+    "updates": []
+  },
+  "params": {}
+} | 66e459fd67b41780422e61fc
+15.9.2024, 22:18:47 - DEBUG - auth.service - login with username: sdfgsdgf | 66e459fd67b41780422e61fc
+15.9.2024, 22:18:47 - ERROR - Failed to Login Invalid username or password | 66e459fd67b41780422e61fc
+15.9.2024, 22:18:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+15.9.2024, 22:18:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+15.9.2024, 22:20:08 - INFO - {
+  "baseUrl": "/api/auth",
+  "method": "POST",
+  "body": {
+    "fullname": "",
+    "username": "Muki",
+    "password": "Muki",
+    "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+    "updates": []
+  },
+  "params": {}
+} | 66e459fd67b41780422e61fc
+15.9.2024, 22:20:08 - DEBUG - auth.service - login with username: Muki | 66e459fd67b41780422e61fc
+15.9.2024, 22:20:09 - INFO - User login:  | {"_id":"66e459fd67b41780422e61fc","username":"Muki","fullname":"Muki Mu","imgUrl":"https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"} | 66e459fd67b41780422e61fc
+15.9.2024, 22:20:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+15.9.2024, 22:20:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+15.9.2024, 22:38:49 - INFO - server.js loaded...
+15.9.2024, 22:38:49 - INFO - Server is running on port: 3030
+15.9.2024, 22:38:58 - INFO - server.js loaded...
+15.9.2024, 22:38:58 - INFO - Server is running on port: 3030
+15.9.2024, 22:39:01 - INFO - server.js loaded...
+15.9.2024, 22:39:01 - INFO - Server is running on port: 3030
