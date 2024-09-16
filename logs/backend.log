@@ -6547,3 +6547,2387 @@
 15.9.2024, 22:38:58 - INFO - Server is running on port: 3030
 15.9.2024, 22:39:01 - INFO - server.js loaded...
 15.9.2024, 22:39:01 - INFO - Server is running on port: 3030
+15.9.2024, 22:43:21 - DEBUG - auth.service - signup with username: Lola, fullname: Lola Marsh | 66e459fd67b41780422e61fc
+15.9.2024, 22:43:21 - DEBUG - auth.route - new account created: {"username":"Lola","password":"$2b$10$muYG1q24.CsToJQ0G8gZSOzp6hRBZ2H3njN9lqnVAAWLHRytWf3iq","fullname":"Lola Marsh","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","updates":[],"_id":"66e738d94a6350d549a8ec9e"} | 66e459fd67b41780422e61fc
+15.9.2024, 22:43:21 - DEBUG - auth.service - login with username: Lola | 66e459fd67b41780422e61fc
+15.9.2024, 22:43:21 - INFO - User signup: | {"_id":"66e738d94a6350d549a8ec9e","username":"Lola","fullname":"Lola Marsh","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","updates":[]} | 66e459fd67b41780422e61fc
+15.9.2024, 22:43:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+15.9.2024, 22:43:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+15.9.2024, 22:58:05 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+15.9.2024, 22:58:05 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+15.9.2024, 22:58:20 - INFO - {
+  "baseUrl": "/api/auth",
+  "method": "POST",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 22:58:26 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+15.9.2024, 22:58:26 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+15.9.2024, 22:58:33 - INFO - {
+  "baseUrl": "/api/auth",
+  "method": "POST",
+  "body": {},
+  "params": {}
+}
+15.9.2024, 22:58:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+15.9.2024, 22:58:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+15.9.2024, 22:58:59 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+15.9.2024, 22:58:59 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+15.9.2024, 22:59:47 - INFO - {
+  "baseUrl": "/api/auth",
+  "method": "POST",
+  "body": {
+    "fullname": "",
+    "username": "Lola",
+    "password": "Lola",
+    "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+    "updates": []
+  },
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+15.9.2024, 22:59:47 - DEBUG - auth.service - login with username: Lola | 66e738d94a6350d549a8ec9e
+15.9.2024, 22:59:47 - INFO - User login:  | {"_id":"66e738d94a6350d549a8ec9e","username":"Lola","fullname":"Lola Marsh","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","updates":[]} | 66e738d94a6350d549a8ec9e
+15.9.2024, 22:59:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+15.9.2024, 22:59:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+15.9.2024, 23:01:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+15.9.2024, 23:01:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+15.9.2024, 23:01:34 - INFO - {
+  "baseUrl": "/api/auth",
+  "method": "POST",
+  "body": {
+    "fullname": "",
+    "username": "Lola",
+    "password": "Lola",
+    "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+    "updates": []
+  },
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+15.9.2024, 23:01:34 - DEBUG - auth.service - login with username: Lola | 66e738d94a6350d549a8ec9e
+15.9.2024, 23:01:34 - INFO - User login:  | {"_id":"66e738d94a6350d549a8ec9e","username":"Lola","fullname":"Lola Marsh","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","updates":[]} | 66e738d94a6350d549a8ec9e
+15.9.2024, 23:01:34 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+15.9.2024, 23:01:34 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+16.9.2024, 10:18:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+16.9.2024, 10:18:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+16.9.2024, 10:19:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e738d94a6350d549a8ec9e
+16.9.2024, 10:19:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e738d94a6350d549a8ec9e
+16.9.2024, 10:19:08 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "Task 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "dueDate": "2024-11-24",
+    "dateRange": {
+      "from": "2024-09-24T00:00:00.000Z",
+      "to": "2024-09-30T00:00:00.000Z"
+    },
+    "memberIds": [],
+    "isDone": false,
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "66e738d94a6350d549a8ec9e",
+          "fullname": "Lola Marsh",
+          "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-16T07:19:08.561Z",
+        "content": "<p>hi i'm lola</p>",
+        "id": "Je1mcR"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e738d94a6350d549a8ec9e
+16.9.2024, 10:19:08 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e738d94a6350d549a8ec9e
+16.9.2024, 10:19:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+16.9.2024, 10:19:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+16.9.2024, 10:28:34 - INFO - {
+  "baseUrl": "/api/auth",
+  "method": "POST",
+  "body": {
+    "fullname": "",
+    "username": "Muki",
+    "password": "Muki",
+    "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+    "updates": []
+  },
+  "params": {}
+} | 66e738d94a6350d549a8ec9e
+16.9.2024, 10:28:34 - DEBUG - auth.service - login with username: Muki | 66e738d94a6350d549a8ec9e
+16.9.2024, 10:28:34 - INFO - User login:  | {"_id":"66e459fd67b41780422e61fc","username":"Muki","fullname":"Muki Mu","imgUrl":"https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"} | 66e738d94a6350d549a8ec9e
+16.9.2024, 10:28:34 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 10:28:34 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 10:28:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 10:28:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 10:28:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "AcO45e4",
+    "title": "Task 2sadf",
+    "status": "dnn8390",
+    "priority": "mdm1126",
+    "isDone": true,
+    "dueDate": "2024-12-13",
+    "memberIds": [],
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "66e459fd67b41780422e61fc",
+          "username": "Muki",
+          "fullname": "Muki Mu",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"
+        },
+        "createdAt": "2024-09-16T07:28:52.770Z",
+        "content": "<p>Hi</p>",
+        "id": "vpvplh"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-15T08:58:03.936Z",
+        "content": "<p>asdfasfd</p>",
+        "id": "aR66rC"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 10:28:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 10:29:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 10:29:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 10:29:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 10:29:29 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 10:29:31 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 10:29:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 10:29:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 10:29:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 10:29:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 10:29:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "Task 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "memberIds": [],
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "66e459fd67b41780422e61fc",
+          "username": "Muki",
+          "fullname": "Muki Mu",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"
+        },
+        "createdAt": "2024-09-16T07:29:53.362Z",
+        "content": "<p>i'm muki</p>",
+        "id": "jKFYI0"
+      },
+      {
+        "createdBy": {
+          "_id": "66e738d94a6350d549a8ec9e",
+          "fullname": "Lola Marsh",
+          "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-16T07:19:08.561Z",
+        "content": "<p>hi i'm lola</p>",
+        "id": "Je1mcR"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 10:29:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:13:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:13:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:16:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:16:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:18:58 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:19:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:19:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:19:12 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:19:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:19:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:19:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:22:31 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:28:38 - INFO - {
+  "baseUrl": "/api/auth",
+  "method": "POST",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:28:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:28:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:29:58 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:30:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:30:31 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:44:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:45:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:58:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:58:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:58:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:58:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 11:58:59 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 12:50:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 12:58:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 12:58:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:06:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:06:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:30:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:30:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:31:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:31:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:31:56 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:31:56 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:32:01 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:32:01 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:34:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:34:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:36:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:36:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:51:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:51:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:51:49 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:51:58 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:52:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:52:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:52:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:52:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:55:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:55:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:55:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:55:24 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:55:31 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:56:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:57:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:57:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:57:18 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:57:23 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:57:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:59:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 13:59:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 14:44:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 14:44:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 15:02:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 15:04:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 15:05:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 15:05:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 15:05:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 15:06:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 15:17:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 15:17:26 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 15:20:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 15:20:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 17:52:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 17:52:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 19:34:24 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 19:34:24 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 19:41:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 19:41:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 19:57:12 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "Task 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "memberIds": [
+      "u101"
+    ],
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "66e459fd67b41780422e61fc",
+          "username": "Muki",
+          "fullname": "Muki Mu",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"
+        },
+        "createdAt": "2024-09-16T07:29:53.362Z",
+        "content": "<p>i'm muki</p>",
+        "id": "jKFYI0"
+      },
+      {
+        "createdBy": {
+          "_id": "66e738d94a6350d549a8ec9e",
+          "fullname": "Lola Marsh",
+          "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-16T07:19:08.561Z",
+        "content": "<p>hi i'm lola</p>",
+        "id": "Je1mcR"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:41:32 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "Task 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "memberIds": [
+      "u101"
+    ],
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "66e459fd67b41780422e61fc",
+          "username": "Muki",
+          "fullname": "Muki Mu",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"
+        },
+        "createdAt": "2024-09-16T07:29:53.362Z",
+        "content": "<p>i'm muki</p>",
+        "id": "jKFYI0"
+      },
+      {
+        "createdBy": {
+          "_id": "66e738d94a6350d549a8ec9e",
+          "fullname": "Lola Marsh",
+          "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-16T07:19:08.561Z",
+        "content": "<p>hi i'm lola</p>",
+        "id": "Je1mcR"
+      }
+    ],
+    "dateRange": {
+      "from": "2024-09-03T00:00:00.000Z",
+      "to": "2024-09-20T00:00:00.000Z"
+    }
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:41:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "Task 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "memberIds": [
+      "u101"
+    ],
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "66e459fd67b41780422e61fc",
+          "username": "Muki",
+          "fullname": "Muki Mu",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"
+        },
+        "createdAt": "2024-09-16T07:29:53.362Z",
+        "content": "<p>i'm muki</p>",
+        "id": "jKFYI0"
+      },
+      {
+        "createdBy": {
+          "_id": "66e738d94a6350d549a8ec9e",
+          "fullname": "Lola Marsh",
+          "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-16T07:19:08.561Z",
+        "content": "<p>hi i'm lola</p>",
+        "id": "Je1mcR"
+      }
+    ],
+    "dateRange": {
+      "from": "2024-09-03T00:00:00.000Z",
+      "to": "2024-09-20T00:00:00.000Z"
+    }
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:41:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "Task 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "memberIds": [
+      "u101"
+    ],
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "66e459fd67b41780422e61fc",
+          "username": "Muki",
+          "fullname": "Muki Mu",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"
+        },
+        "createdAt": "2024-09-16T07:29:53.362Z",
+        "content": "<p>i'm muki</p>",
+        "id": "jKFYI0"
+      },
+      {
+        "createdBy": {
+          "_id": "66e738d94a6350d549a8ec9e",
+          "fullname": "Lola Marsh",
+          "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-16T07:19:08.561Z",
+        "content": "<p>hi i'm lola</p>",
+        "id": "Je1mcR"
+      }
+    ],
+    "dateRange": {
+      "from": "2024-09-03T00:00:00.000Z",
+      "to": "2024-09-13T00:00:00.000Z"
+    }
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:41:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "LdV6Wl",
+    "title": "Task 3",
+    "status": "dnn8390",
+    "priority": "hgh3899",
+    "dueDate": "2024-10-05",
+    "memberIds": [],
+    "isDone": false,
+    "dateRange": {
+      "from": "2024-09-02T00:00:00.000Z",
+      "to": "2024-09-05T00:00:00.000Z"
+    }
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "23Ye4R2"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:41:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "qZ8kR93",
+    "title": "Task 3",
+    "status": "stk4530",
+    "priority": "hgh3899",
+    "dueDate": "2024-09-10",
+    "dateRange": {
+      "from": "2024-09-16T00:00:00.000Z",
+      "to": "2024-09-17T00:00:00.000Z"
+    },
+    "memberIds": [],
+    "isDone": false
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:42:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "Task 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "memberIds": [
+      "u101"
+    ],
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "66e459fd67b41780422e61fc",
+          "username": "Muki",
+          "fullname": "Muki Mu",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"
+        },
+        "createdAt": "2024-09-16T07:29:53.362Z",
+        "content": "<p>i'm muki</p>",
+        "id": "jKFYI0"
+      },
+      {
+        "createdBy": {
+          "_id": "66e738d94a6350d549a8ec9e",
+          "fullname": "Lola Marsh",
+          "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-16T07:19:08.561Z",
+        "content": "<p>hi i'm lola</p>",
+        "id": "Je1mcR"
+      }
+    ],
+    "number": null
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:42:05 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "AcO45e4",
+    "title": "Task 2",
+    "status": "dnn8390",
+    "priority": "mdm1126",
+    "dueDate": "2024-12-13",
+    "dateRange": {
+      "from": "2024-10-01T00:00:00.000Z",
+      "to": "2024-11-14T00:00:00.000Z"
+    },
+    "memberIds": [],
+    "isDone": true,
+    "number": 5
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:42:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "qZ8kR93",
+    "title": "Task 3",
+    "status": "stk4530",
+    "priority": "hgh3899",
+    "isDone": false,
+    "dueDate": "2024-09-10",
+    "memberIds": [],
+    "number": 55
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:44:23 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:44:28 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "AcO45e4",
+    "title": "Task 2sadf",
+    "status": "dnn8390",
+    "priority": "mdm1126",
+    "isDone": true,
+    "dueDate": "2024-12-13",
+    "memberIds": [],
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "66e459fd67b41780422e61fc",
+          "username": "Muki",
+          "fullname": "Muki Mu",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"
+        },
+        "createdAt": "2024-09-16T07:28:52.770Z",
+        "content": "<p>Hi</p>",
+        "id": "vpvplh"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-15T08:58:03.936Z",
+        "content": "<p>asdfasfd</p>",
+        "id": "aR66rC"
+      }
+    ],
+    "dateRange": {
+      "from": "2024-09-04T00:00:00.000Z",
+      "to": "2024-09-12T00:00:00.000Z"
+    }
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:44:29 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:44:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "xxRiO",
+    "title": "sdf",
+    "status": "dft3488",
+    "priority": "dft3489",
+    "isDone": false,
+    "dueDate": "",
+    "memberIds": [],
+    "updates": [],
+    "dateRange": {
+      "from": "2024-09-03T00:00:00.000Z",
+      "to": "2024-09-04T00:00:00.000Z"
+    }
+  },
+  "params": {
+    "boardId": "66ddeac5ec591b0eacc9a4eb",
+    "groupId": "S1d7mT"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:44:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "test",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": {
+      "_id": "",
+      "fullname": "Guest",
+      "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+      "updates": []
+    },
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "0gymCM",
+        "archivedAt": null,
+        "type": "Item",
+        "pulses": [
+          {
+            "id": "bzmBnT",
+            "title": "Item 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "7mKk5b",
+            "title": "Item 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "Wq8iTW",
+            "title": "Item 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "5Yv6hl",
+        "archivedAt": null,
+        "type": "Item",
+        "pulses": [
+          {
+            "id": "h3vv5O",
+            "title": "Item 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "Ea0SFw",
+            "title": "Item 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "views": [],
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "NumberInput",
+      "TextInput"
+    ],
+    "type": "Item"
+  },
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:44:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e86e8b4a6350d549a8ec9f"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:44:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "h3vv5O",
+    "title": "Item 3",
+    "status": "dnn8390",
+    "priority": "hgh3899",
+    "dueDate": "2024-10-05",
+    "memberIds": [
+      "u101",
+      "u102",
+      "u103"
+    ],
+    "isDone": true,
+    "dateRange": {
+      "from": "2024-09-10T00:00:00.000Z",
+      "to": "2024-09-12T00:00:00.000Z"
+    }
+  },
+  "params": {
+    "boardId": "66e86e8b4a6350d549a8ec9f",
+    "groupId": "5Yv6hl"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:44:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "h3vv5O",
+    "title": "Item 3",
+    "status": "dnn8390",
+    "priority": "hgh3899",
+    "isDone": false,
+    "dueDate": "2024-10-05",
+    "memberIds": [
+      "u101",
+      "u102",
+      "u103"
+    ]
+  },
+  "params": {
+    "boardId": "66e86e8b4a6350d549a8ec9f",
+    "groupId": "5Yv6hl"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:44:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "h3vv5O",
+    "title": "Item 3",
+    "status": "dnn8390",
+    "priority": "crt5664",
+    "isDone": false,
+    "dueDate": "2024-10-05",
+    "memberIds": [
+      "u101",
+      "u102",
+      "u103"
+    ]
+  },
+  "params": {
+    "boardId": "66e86e8b4a6350d549a8ec9f",
+    "groupId": "5Yv6hl"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:44:54 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "Ea0SFw",
+    "title": "Item 4",
+    "status": "stk4530",
+    "priority": "hgh3899",
+    "dueDate": "2024-09-14",
+    "memberIds": [
+      "u102"
+    ],
+    "isDone": false
+  },
+  "params": {
+    "boardId": "66e86e8b4a6350d549a8ec9f",
+    "groupId": "5Yv6hl"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:44:58 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "Ea0SFw",
+    "title": "Item 4",
+    "status": "dnn8390",
+    "priority": "hgh3899",
+    "isDone": true,
+    "dueDate": "2024-09-14",
+    "memberIds": [
+      "u102"
+    ]
+  },
+  "params": {
+    "boardId": "66e86e8b4a6350d549a8ec9f",
+    "groupId": "5Yv6hl"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:44:59 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "Ea0SFw",
+    "title": "Item 4",
+    "status": "woi5432",
+    "priority": "hgh3899",
+    "isDone": false,
+    "dueDate": "2024-09-14",
+    "memberIds": [
+      "u102"
+    ]
+  },
+  "params": {
+    "boardId": "66e86e8b4a6350d549a8ec9f",
+    "groupId": "5Yv6hl"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:45:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "h3vv5O",
+    "title": "Item 3",
+    "status": "dnn8390",
+    "priority": "crt5664",
+    "isDone": false,
+    "dueDate": "2024-10-11",
+    "memberIds": [
+      "u101",
+      "u102",
+      "u103"
+    ]
+  },
+  "params": {
+    "boardId": "66e86e8b4a6350d549a8ec9f",
+    "groupId": "5Yv6hl"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:45:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "Ea0SFw",
+    "title": "Item 4",
+    "status": "woi5432",
+    "priority": "hgh3899",
+    "isDone": false,
+    "dueDate": "2024-09-19",
+    "memberIds": [
+      "u102"
+    ]
+  },
+  "params": {
+    "boardId": "66e86e8b4a6350d549a8ec9f",
+    "groupId": "5Yv6hl"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:45:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "Ea0SFw",
+    "title": "Item 4",
+    "status": "woi5432",
+    "priority": "hgh3899",
+    "isDone": false,
+    "dueDate": "2024-09-20",
+    "memberIds": [
+      "u102"
+    ]
+  },
+  "params": {
+    "boardId": "66e86e8b4a6350d549a8ec9f",
+    "groupId": "5Yv6hl"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:45:12 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "Ea0SFw",
+    "title": "Item 4",
+    "status": "woi5432",
+    "priority": "hgh3899",
+    "isDone": false,
+    "dueDate": "2024-09-02",
+    "memberIds": [
+      "u102"
+    ]
+  },
+  "params": {
+    "boardId": "66e86e8b4a6350d549a8ec9f",
+    "groupId": "5Yv6hl"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:45:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "h3vv5O",
+    "title": "Item 3",
+    "status": "dnn8390",
+    "priority": "crt5664",
+    "isDone": false,
+    "dueDate": "2024-10-11",
+    "memberIds": [
+      "u101",
+      "u102",
+      "u103"
+    ],
+    "text": "asdfasdf"
+  },
+  "params": {
+    "boardId": "66e86e8b4a6350d549a8ec9f",
+    "groupId": "5Yv6hl"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:51:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:51:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e86e8b4a6350d549a8ec9f"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:54:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:54:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e86e8b4a6350d549a8ec9f"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:55:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:55:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:55:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:55:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:57:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:57:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:57:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 20:57:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 21:06:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 21:06:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 21:44:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "AcO45e4",
+    "title": "Task 2",
+    "status": "dnn8390",
+    "priority": "mdm1126",
+    "isDone": true,
+    "dueDate": "2024-12-13",
+    "memberIds": [
+      "u102"
+    ],
+    "updates": null
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 21:44:16 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "qZ8kR93",
+    "title": "Task 3",
+    "status": "stk4530",
+    "priority": "hgh3899",
+    "isDone": false,
+    "dueDate": "2024-09-10",
+    "memberIds": [
+      "u102"
+    ],
+    "updates": null
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 21:44:18 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "qZ8kR93",
+    "title": "Task 3",
+    "status": "stk4530",
+    "priority": "hgh3899",
+    "isDone": false,
+    "dueDate": "2024-09-10",
+    "memberIds": [
+      "u102",
+      "u101"
+    ],
+    "updates": null
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 21:44:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "qZ8kR93",
+    "title": "Task 3",
+    "status": "stk4530",
+    "priority": "hgh3899",
+    "isDone": false,
+    "dueDate": "2024-09-10",
+    "memberIds": [
+      "u102",
+      "u101",
+      "u103"
+    ],
+    "updates": null
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 21:44:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 21:44:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "AcO45e4",
+    "title": "Task 2",
+    "status": "dnn8390",
+    "priority": "mdm1126",
+    "isDone": true,
+    "dueDate": "2024-12-13",
+    "memberIds": [
+      "u102"
+    ],
+    "updates": null,
+    "dateRange": {
+      "from": "2024-09-04T00:00:00.000Z",
+      "to": "2024-09-18T00:00:00.000Z"
+    }
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 21:45:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 21:45:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 21:56:56 - INFO - server.js loaded...
+16.9.2024, 21:56:56 - INFO - Server is running on port: 3030
+16.9.2024, 21:58:52 - INFO - server.js loaded...
+16.9.2024, 21:58:52 - INFO - Server is running on port: 3030
+16.9.2024, 21:59:58 - INFO - server.js loaded...
+16.9.2024, 21:59:58 - INFO - Server is running on port: 3030
+16.9.2024, 22:00:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+16.9.2024, 22:00:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 22:00:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "Task 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "memberIds": [
+      "u101"
+    ],
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "66e459fd67b41780422e61fc",
+          "username": "Muki",
+          "fullname": "Muki Mu",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"
+        },
+        "createdAt": "2024-09-16T07:29:53.362Z",
+        "content": "<p>i'm muki</p>",
+        "id": "jKFYI0"
+      },
+      {
+        "createdBy": {
+          "_id": "66e738d94a6350d549a8ec9e",
+          "fullname": "Lola Marsh",
+          "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-16T07:19:08.561Z",
+        "content": "<p>hi i'm lola</p>",
+        "id": "Je1mcR"
+      }
+    ],
+    "dateRange": {
+      "from": "2024-09-11T00:00:00.000Z",
+      "to": "2024-09-13T00:00:00.000Z"
+    }
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 22:00:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "AcO45e4",
+    "title": "Task 2",
+    "status": "dnn8390",
+    "priority": "mdm1126",
+    "isDone": true,
+    "dueDate": "2024-12-13",
+    "memberIds": [
+      "u102"
+    ],
+    "updates": null,
+    "dateRange": {
+      "from": "2024-09-11T00:00:00.000Z",
+      "to": "2024-09-25T00:00:00.000Z"
+    }
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 22:00:29 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "qZ8kR93",
+    "title": "Task 3",
+    "status": "stk4530",
+    "priority": "hgh3899",
+    "isDone": false,
+    "dueDate": "2024-09-10",
+    "memberIds": [
+      "u102",
+      "u101",
+      "u103"
+    ],
+    "updates": null,
+    "dateRange": {
+      "from": "2024-09-01T00:00:00.000Z",
+      "to": "2024-09-27T00:00:00.000Z"
+    }
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 22:00:34 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "Task 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "dateRange": {
+      "from": "2024-09-11T00:00:00.000Z",
+      "to": "2024-09-13T00:00:00.000Z"
+    },
+    "memberIds": [
+      "u101"
+    ],
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "66e459fd67b41780422e61fc",
+          "username": "Muki",
+          "fullname": "Muki Mu",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"
+        },
+        "createdAt": "2024-09-16T07:29:53.362Z",
+        "content": "<p>i'm muki</p>",
+        "id": "jKFYI0"
+      },
+      {
+        "createdBy": {
+          "_id": "66e738d94a6350d549a8ec9e",
+          "fullname": "Lola Marsh",
+          "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-16T07:19:08.561Z",
+        "content": "<p>hi i'm lola</p>",
+        "id": "Je1mcR"
+      }
+    ],
+    "text": "כגעיגכעי"
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 22:00:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "AcO45e4",
+    "title": "Task 2",
+    "status": "dnn8390",
+    "priority": "mdm1126",
+    "isDone": true,
+    "dueDate": "2024-12-13",
+    "dateRange": {
+      "from": "2024-09-11T00:00:00.000Z",
+      "to": "2024-09-25T00:00:00.000Z"
+    },
+    "memberIds": [
+      "u102"
+    ],
+    "updates": null,
+    "text": "גכעיגכעיכגי"
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 22:00:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T5",
+    "title": "Task 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "dateRange": {
+      "from": "2024-09-11T00:00:00.000Z",
+      "to": "2024-09-13T00:00:00.000Z"
+    },
+    "text": "כגעיגכעי",
+    "memberIds": [
+      "u101"
+    ],
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "66e459fd67b41780422e61fc",
+          "username": "Muki",
+          "fullname": "Muki Mu",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"
+        },
+        "createdAt": "2024-09-16T07:29:53.362Z",
+        "content": "<p>i'm muki</p>",
+        "id": "jKFYI0"
+      },
+      {
+        "createdBy": {
+          "_id": "66e738d94a6350d549a8ec9e",
+          "fullname": "Lola Marsh",
+          "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-16T07:19:08.561Z",
+        "content": "<p>hi i'm lola</p>",
+        "id": "Je1mcR"
+      }
+    ],
+    "number": 4
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 22:00:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "AcO45e4",
+    "title": "Task 2",
+    "status": "dnn8390",
+    "priority": "mdm1126",
+    "isDone": true,
+    "dueDate": "2024-12-13",
+    "dateRange": {
+      "from": "2024-09-11T00:00:00.000Z",
+      "to": "2024-09-25T00:00:00.000Z"
+    },
+    "text": "גכעיגכעיכגי",
+    "memberIds": [
+      "u102"
+    ],
+    "updates": null,
+    "number": 5
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc
+16.9.2024, 22:00:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "qZ8kR93",
+    "title": "Task 3",
+    "status": "stk4530",
+    "priority": "hgh3899",
+    "isDone": false,
+    "dueDate": "2024-09-10",
+    "dateRange": {
+      "from": "2024-09-01T00:00:00.000Z",
+      "to": "2024-09-27T00:00:00.000Z"
+    },
+    "memberIds": [
+      "u102",
+      "u101",
+      "u103"
+    ],
+    "updates": null,
+    "number": 6
+  },
+  "params": {
+    "boardId": "66deb7d6e2c67a8c29670bb7",
+    "groupId": "S1d7mT6"
+  }
+} | 66e459fd67b41780422e61fc

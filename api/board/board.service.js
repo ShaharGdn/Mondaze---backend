@@ -58,14 +58,7 @@ async function getBoardById(boardId, filterBy = { txt: '' }) {
 
         if (filterBy.txt) {
             const searchTxt = filterBy.txt.toLowerCase()
-
-            // const groupsByGroupTitle = board.groups.filter(group => {
-            //     return group.title.toLowerCase().includes(searchTxt)
-            // })
-            // const groupsByPulseTitle = board.groups.filter(group => group.pulses.some(pulse => {
-            //     return pulse.title.toLowerCase().includes(searchTxt)
-            // }))
-
+            
             board.groups = board.groups.filter(group => {
                 return (
                     group.title.toLowerCase().includes(searchTxt) ||
@@ -211,9 +204,6 @@ async function updateGroup(boardId, updatedGroup) {
         const newBoard = { ...board, groups: updatedGroups }
 
         await updateBoard(newBoard)
-        // const criteria = { _id: _getFormattedId(boardId) }
-        // const collection = await dbService.getCollection('board')
-        // await collection.updateOne(criteria, { $set: newBoard })
         return groupToSave
     } catch (err) {
         logger.error(`Cannot update group ${groupToSave.id}`, err)
@@ -269,6 +259,9 @@ async function addPulse(boardId, groupId, pulse) {
             priority: pulse.priority || '',
             isDone: pulse.isDone || false,
             dueDate: pulse.dueDate || '',
+            dateRange: pulse.dateRange || '',
+            number: pulse.number || '',
+            text: pulse.text || '',
             memberIds: pulse.memberIds || [],
             updates: pulse.updates || [],
 
@@ -292,6 +285,9 @@ async function updatePulse(boardId, groupId, pulse) {
             priority: pulse.priority,
             isDone: pulse.isDone,
             dueDate: pulse.dueDate,
+            dateRange: pulse.dateRange,
+            number: pulse.number,
+            text: pulse.text,
             memberIds: pulse.memberIds,
             updates: pulse.updates,
         }
@@ -325,9 +321,6 @@ async function removePulse(boardId, groupId, pulseId) {
         throw err
     }
 }
-
-
-
 
 // async function addBoardMsg(boardId, msg) {
 // 	try {
