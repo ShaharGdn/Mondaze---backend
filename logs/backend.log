@@ -8931,3 +8931,155 @@
     "groupId": "S1d7mT6"
   }
 } | 66e459fd67b41780422e61fc
+17.9.2024, 11:42:08 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+17.9.2024, 11:42:08 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+17.9.2024, 11:46:01 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+17.9.2024, 11:46:01 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+17.9.2024, 12:17:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+17.9.2024, 12:17:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+17.9.2024, 12:20:18 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+17.9.2024, 12:20:18 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+17.9.2024, 12:20:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e86e8b4a6350d549a8ec9f"
+  }
+} | 66e459fd67b41780422e61fc
+17.9.2024, 12:20:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+17.9.2024, 12:20:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+} | 66e459fd67b41780422e61fc
+17.9.2024, 12:55:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+} | 66e459fd67b41780422e61fc
+17.9.2024, 15:20:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+17.9.2024, 15:20:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+} | 66e459fd67b41780422e61fc
+17.9.2024, 15:37:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e459fd67b41780422e61fc
+17.9.2024, 15:37:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e310a27ea197fe4a301bb3"
+  }
+} | 66e459fd67b41780422e61fc
+17.9.2024, 15:43:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+17.9.2024, 15:43:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66e459fd67b41780422e61fc
+17.9.2024, 15:43:08 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66e459fd67b41780422e61fc
+17.9.2024, 15:43:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66e459fd67b41780422e61fc
+17.9.2024, 15:45:42 - INFO - server.js loaded...
+17.9.2024, 15:45:42 - INFO - Server is running on port: 3030
+17.9.2024, 15:46:11 - INFO - server.js loaded...
+17.9.2024, 15:46:11 - INFO - Server is running on port: 3030

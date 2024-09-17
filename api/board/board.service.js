@@ -58,7 +58,7 @@ async function getBoardById(boardId, filterBy = { txt: '' }) {
 
         if (filterBy.txt) {
             const searchTxt = filterBy.txt.toLowerCase()
-            
+
             board.groups = board.groups.filter(group => {
                 return (
                     group.title.toLowerCase().includes(searchTxt) ||
@@ -262,6 +262,9 @@ async function addPulse(boardId, groupId, pulse) {
             dateRange: pulse.dateRange || '',
             number: pulse.number || '',
             text: pulse.text || '',
+            email: pulse.email || '',
+            phone: pulse.phone || '',
+            file: pulse.file || null,
             memberIds: pulse.memberIds || [],
             updates: pulse.updates || [],
 
@@ -288,6 +291,9 @@ async function updatePulse(boardId, groupId, pulse) {
             dateRange: pulse.dateRange,
             number: pulse.number,
             text: pulse.text,
+            email: pulse.email,
+            phone: pulse.phone,
+            file: pulse.file,
             memberIds: pulse.memberIds,
             updates: pulse.updates,
         }
