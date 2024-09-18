@@ -9,31 +9,57 @@ export function setupSocketAPI(http) {
             origin: '*',
         }
     })
+
     gIo.on('connection', socket => {
         logger.info(`New connected socket [id: ${socket.id}]`)
-        socket.on('disconnect', socket => {
+
+        // When the client disconnects
+        socket.on('disconnect', () => {
             logger.info(`Socket disconnected [id: ${socket.id}]`)
         })
-        socket.on('chat-set-topic', topic => {
-            if (socket.myTopic === topic) return
-            if (socket.myTopic) {
-                socket.leave(socket.myTopic)
-                logger.info(`Socket is leaving topic ${socket.myTopic} [id: ${socket.id}]`)
-            }
-            socket.join(topic)
-            socket.myTopic = topic
+        // pulse sockets
+        socket.on('add-pulse', data => {
+            console.log('Emitting add-pulse event:', data)
+            socket.broadcast.emit('add-pulse', data)
         })
-        socket.on('chat-send-msg', msg => {
-            logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
-            // emits to all sockets:
-            // gIo.emit('chat addMsg', msg)
-            // emits only to sockets in the same room
-            gIo.to(socket.myTopic).emit('chat-add-msg', msg)
+        socket.on('update-pulse', data => {
+            console.log('Emitting update-pulse event:', data)
+            socket.broadcast.emit('update-pulse', data)
         })
-        socket.on('user-watch', userId => {
-            logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
-            socket.join('watching:' + userId)
+        socket.on('remove-pulse', data => {
+            console.log('Emitting remove-pulse event:', data)
+            socket.broadcast.emit('remove-pulse', data)
         })
+
+        // group sockets
+        socket.on('add-group', data => {
+            console.log('Emitting add-group event:', data)
+            socket.broadcast.emit('add-group', data)
+        })
+        socket.on('update-group', data => {
+            console.log('Emitting update-group event:', data)
+            socket.broadcast.emit('update-group', data)
+        })
+        socket.on('remove-group', data => {
+            console.log('Emitting remove-group event:', data)
+            socket.broadcast.emit('remove-group', data)
+        })
+
+        // board sockets
+        socket.on('add-board', data => {
+            console.log('Emitting add-board event:', data)
+            socket.broadcast.emit('add-board', data)
+        })
+        socket.on('update-board', data => {
+            console.log('Emitting update-board event:', data)
+            socket.broadcast.emit('update-board', data)
+        })
+        socket.on('remove-board', data => {
+            console.log('Emitting remove-board event:', data)
+            socket.broadcast.emit('remove-board', data)
+        })
+
+
         socket.on('set-user-socket', userId => {
             logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
             socket.userId = userId
@@ -42,7 +68,6 @@ export function setupSocketAPI(http) {
             logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
             delete socket.userId
         })
-
     })
 }
 
