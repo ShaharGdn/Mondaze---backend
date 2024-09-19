@@ -27781,3 +27781,3884 @@
     "id": "66ea6a44119e8156709d9186"
   }
 } | 66e82ab5f548c6172ff2cc19
+18.9.2024, 21:52:43 - INFO - server.js loaded...
+18.9.2024, 21:52:43 - INFO - Server is running on port: 3030
+18.9.2024, 21:53:15 - INFO - server.js loaded...
+18.9.2024, 21:53:15 - INFO - Server is running on port: 3030
+18.9.2024, 21:57:30 - INFO - server.js loaded...
+18.9.2024, 21:57:30 - INFO - Server is running on port: 3030
+18.9.2024, 21:57:36 - INFO - server.js loaded...
+18.9.2024, 21:57:36 - INFO - Server is running on port: 3030
+18.9.2024, 21:58:01 - INFO - server.js loaded...
+18.9.2024, 21:58:01 - INFO - Server is running on port: 3030
+18.9.2024, 21:58:02 - INFO - server.js loaded...
+18.9.2024, 21:58:02 - INFO - Server is running on port: 3030
+18.9.2024, 21:58:21 - INFO - server.js loaded...
+18.9.2024, 21:58:21 - INFO - Server is running on port: 3030
+18.9.2024, 21:58:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 21:58:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 21:58:25 - INFO - New connected socket [id: gPhTNOpePF0xg5yQAAAB]
+18.9.2024, 21:58:25 - INFO - Setting socket.userId =  for socket [id: gPhTNOpePF0xg5yQAAAB]
+18.9.2024, 21:58:35 - INFO - Socket disconnected [id: gPhTNOpePF0xg5yQAAAB]
+18.9.2024, 21:58:36 - INFO - New connected socket [id: DzrSOrTG2DsOZ7cmAAAD]
+18.9.2024, 21:58:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 21:58:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 21:58:36 - INFO - Setting socket.userId =  for socket [id: DzrSOrTG2DsOZ7cmAAAD]
+18.9.2024, 21:58:53 - INFO - Socket disconnected [id: DzrSOrTG2DsOZ7cmAAAD]
+18.9.2024, 21:58:53 - INFO - New connected socket [id: GFyz1OjgLQ_z1BXfAAAF]
+18.9.2024, 21:58:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 21:58:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 21:58:53 - INFO - Setting socket.userId =  for socket [id: GFyz1OjgLQ_z1BXfAAAF]
+18.9.2024, 21:59:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb0a22fd5f025d1bc2f980"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 21:59:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb0a22fd5f025d1bc2f980"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 21:59:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 21:59:46 - INFO - Socket disconnected [id: GFyz1OjgLQ_z1BXfAAAF]
+18.9.2024, 21:59:47 - INFO - New connected socket [id: o4QdtCLd2C5fedL2AAAH]
+18.9.2024, 21:59:47 - INFO - Setting socket.userId =  for socket [id: o4QdtCLd2C5fedL2AAAH]
+18.9.2024, 21:59:48 - INFO - Socket disconnected [id: o4QdtCLd2C5fedL2AAAH]
+18.9.2024, 21:59:49 - INFO - New connected socket [id: l1_v3OYE_9q1IxfpAAAJ]
+18.9.2024, 21:59:49 - INFO - Setting socket.userId =  for socket [id: l1_v3OYE_9q1IxfpAAAJ]
+18.9.2024, 22:00:08 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:08 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:30 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "DELETE",
+  "body": {},
+  "params": {
+    "boardId": "66e986cbd023e41ee2205b54",
+    "groupId": "zicuaT",
+    "pulseId": "1gDGx"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "DELETE",
+  "body": {},
+  "params": {
+    "boardId": "66e986cbd023e41ee2205b54",
+    "groupId": "zicuaT",
+    "pulseId": "DtOS5"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb0a22fd5f025d1bc2f980"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb0a22fd5f025d1bc2f980"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb0a1cfd5f025d1bc2f97f"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb0a1cfd5f025d1bc2f97f"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9bb4a5c105c3c8a7f0f6b"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:41 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9bb4a5c105c3c8a7f0f6b"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ea6a44119e8156709d9186"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ea6a44119e8156709d9186"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9b03049c668c96d778cfb"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9b03049c668c96d778cfb"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9ae5449c668c96d778cfa"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9ae5449c668c96d778cfa"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9ac4b49c668c96d778cf9"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9ac4b49c668c96d778cf9"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:59 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:00:59 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:01:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "TUHoC",
+    "title": "t",
+    "status": "woi5432",
+    "priority": "dft3489",
+    "isDone": false,
+    "dueDate": "",
+    "dateRange": "",
+    "number": "",
+    "text": "",
+    "email": "",
+    "phone": "",
+    "file": null,
+    "memberIds": [],
+    "updates": []
+  },
+  "params": {
+    "boardId": "66e986cbd023e41ee2205b54",
+    "groupId": "zicuaT"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:05:22 - INFO - Socket disconnected [id: l1_v3OYE_9q1IxfpAAAJ]
+18.9.2024, 22:05:22 - INFO - New connected socket [id: Ja-yFXpjHvauQVMHAAAL]
+18.9.2024, 22:05:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:05:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:05:22 - INFO - Setting socket.userId =  for socket [id: Ja-yFXpjHvauQVMHAAAL]
+18.9.2024, 22:05:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:05:47 - INFO - Socket disconnected [id: Ja-yFXpjHvauQVMHAAAL]
+18.9.2024, 22:05:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:05:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:05:47 - INFO - New connected socket [id: MgYZtuV5pGbTsa0dAAAN]
+18.9.2024, 22:05:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:05:47 - INFO - Setting socket.userId =  for socket [id: MgYZtuV5pGbTsa0dAAAN]
+18.9.2024, 22:07:38 - INFO - Socket disconnected [id: MgYZtuV5pGbTsa0dAAAN]
+18.9.2024, 22:07:41 - INFO - New connected socket [id: MqBmsVpU1JJyI7SsAAAP]
+18.9.2024, 22:07:41 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:07:41 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:07:42 - INFO - Setting socket.userId =  for socket [id: MqBmsVpU1JJyI7SsAAAP]
+18.9.2024, 22:07:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:10:11 - INFO - server.js loaded...
+18.9.2024, 22:10:11 - INFO - Server is running on port: 3030
+18.9.2024, 22:10:11 - INFO - New connected socket [id: vto_Tobee-cHh--RAAAB]
+18.9.2024, 22:10:14 - INFO - Socket disconnected [id: vto_Tobee-cHh--RAAAB]
+18.9.2024, 22:10:15 - INFO - New connected socket [id: c8mPF7M1KrKuOJQ4AAAD]
+18.9.2024, 22:10:15 - INFO - Setting socket.userId =  for socket [id: c8mPF7M1KrKuOJQ4AAAD]
+18.9.2024, 22:10:18 - INFO - Socket disconnected [id: c8mPF7M1KrKuOJQ4AAAD]
+18.9.2024, 22:10:19 - INFO - New connected socket [id: a_jRvqalCjbNY9b7AAAF]
+18.9.2024, 22:10:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:10:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:10:19 - INFO - Setting socket.userId =  for socket [id: a_jRvqalCjbNY9b7AAAF]
+18.9.2024, 22:10:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:10:33 - INFO - Socket disconnected [id: a_jRvqalCjbNY9b7AAAF]
+18.9.2024, 22:10:33 - INFO - New connected socket [id: YvAOaz0uG1mE_o4ZAAAH]
+18.9.2024, 22:10:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:10:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:10:34 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:10:34 - INFO - Setting socket.userId =  for socket [id: YvAOaz0uG1mE_o4ZAAAH]
+18.9.2024, 22:10:39 - INFO - server.js loaded...
+18.9.2024, 22:10:39 - INFO - Server is running on port: 3030
+18.9.2024, 22:10:39 - INFO - New connected socket [id: QZuAiY-ojMsE6iCHAAAB]
+18.9.2024, 22:11:09 - INFO - server.js loaded...
+18.9.2024, 22:11:09 - INFO - Server is running on port: 3030
+18.9.2024, 22:11:10 - INFO - New connected socket [id: 14DzldDfpZRJ54kbAAAB]
+18.9.2024, 22:11:13 - INFO - server.js loaded...
+18.9.2024, 22:11:13 - INFO - Server is running on port: 3030
+18.9.2024, 22:11:15 - INFO - New connected socket [id: VegCN-Jfm8slI5kTAAAB]
+18.9.2024, 22:11:15 - INFO - Socket disconnected [id: VegCN-Jfm8slI5kTAAAB]
+18.9.2024, 22:11:16 - INFO - New connected socket [id: Q-H58Ffu8aswUy62AAAD]
+18.9.2024, 22:11:16 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:11:16 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:11:16 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:11:16 - INFO - Setting socket.userId =  for socket [id: Q-H58Ffu8aswUy62AAAD]
+18.9.2024, 22:11:21 - INFO - Socket disconnected [id: Q-H58Ffu8aswUy62AAAD]
+18.9.2024, 22:11:22 - INFO - New connected socket [id: WqsYO73x4eQ9aSIqAAAF]
+18.9.2024, 22:11:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:11:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:11:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:11:22 - INFO - Setting socket.userId =  for socket [id: WqsYO73x4eQ9aSIqAAAF]
+18.9.2024, 22:11:55 - INFO - server.js loaded...
+18.9.2024, 22:11:55 - INFO - Server is running on port: 3030
+18.9.2024, 22:11:56 - INFO - New connected socket [id: P2T1HRz03GtkexxeAAAB]
+18.9.2024, 22:12:20 - INFO - Socket disconnected [id: P2T1HRz03GtkexxeAAAB]
+18.9.2024, 22:12:20 - INFO - New connected socket [id: 4-GBA6dHDmf3OpzwAAAD]
+18.9.2024, 22:12:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:12:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:12:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:12:21 - INFO - Setting socket.userId =  for socket [id: 4-GBA6dHDmf3OpzwAAAD]
+18.9.2024, 22:12:55 - INFO - Socket disconnected [id: 4-GBA6dHDmf3OpzwAAAD]
+18.9.2024, 22:12:56 - INFO - New connected socket [id: bZBLOpb8KvodunslAAAF]
+18.9.2024, 22:12:56 - INFO - Setting socket.userId =  for socket [id: bZBLOpb8KvodunslAAAF]
+18.9.2024, 22:12:56 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:12:56 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:12:56 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:40 - INFO - server.js loaded...
+18.9.2024, 22:14:40 - INFO - Server is running on port: 3030
+18.9.2024, 22:14:52 - INFO - New connected socket [id: 6J2Q-1vk2dZ9NrXiAAAB]
+18.9.2024, 22:14:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:52 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:52 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:52 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:52 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:52 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:52 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:52 - ERROR - Cannot get board by id: 66e986cbd023e41ee2205b54 | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:52 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:52 - ERROR - Cannot get board by id: 66e986cbd023e41ee2205b54 | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:52 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:52 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:52 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:52 - INFO - Setting socket.userId =  for socket [id: 6J2Q-1vk2dZ9NrXiAAAB]
+18.9.2024, 22:14:58 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:58 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:58 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:58 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:14:58 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:15:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "New Board",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": {
+      "_id": "",
+      "fullname": "Guest",
+      "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+      "updates": []
+    },
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "8x4Stb",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "2ClxSP",
+            "title": "Task 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "liqhkO",
+            "title": "Task 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "UknPPB",
+            "title": "Task 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "8KXXNC",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "0gVxyY",
+            "title": "Task 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "xU2h7u",
+            "title": "Task 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "views": [],
+    "type": "Task",
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "TextInput",
+      "NumberInput",
+      "FilesPicker"
+    ]
+  },
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:15:07 - ERROR - Cannot add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:15:07 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:15:07 - ERROR - Failed to add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:15:07 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:15:56 - INFO - Socket disconnected [id: 6J2Q-1vk2dZ9NrXiAAAB]
+18.9.2024, 22:15:56 - INFO - New connected socket [id: HGTkxJR0T8G3OGguAAAD]
+18.9.2024, 22:15:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:15:57 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:15:57 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:15:57 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:15:57 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:15:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:15:57 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:15:57 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:15:57 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:15:57 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:15:57 - INFO - Setting socket.userId =  for socket [id: HGTkxJR0T8G3OGguAAAD]
+18.9.2024, 22:16:02 - INFO - Socket disconnected [id: HGTkxJR0T8G3OGguAAAD]
+18.9.2024, 22:16:03 - INFO - New connected socket [id: I03A6mu_rIGIrj9lAAAF]
+18.9.2024, 22:16:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:03 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:03 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:03 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:03 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:03 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:03 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:03 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:03 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:03 - INFO - Setting socket.userId =  for socket [id: I03A6mu_rIGIrj9lAAAF]
+18.9.2024, 22:16:31 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "New Board",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": {
+      "_id": "",
+      "fullname": "Guest",
+      "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+      "updates": []
+    },
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "tqt8Ia",
+        "archivedAt": null,
+        "type": "Lead",
+        "pulses": [
+          {
+            "id": "un4DQ4",
+            "title": "Lead 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "hsRSv0",
+            "title": "Lead 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "6cJQC4",
+            "title": "Lead 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "0QpUBH",
+        "archivedAt": null,
+        "type": "Lead",
+        "pulses": [
+          {
+            "id": "H58Bsg",
+            "title": "Lead 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "bIZydT",
+            "title": "Lead 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "views": [],
+    "type": "Lead",
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "EmailInput",
+      "PhoneInput",
+      "NumberInput",
+      "TextInput",
+      "FilesPicker"
+    ]
+  },
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:31 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:31 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:31 - ERROR - Failed to add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:31 - ERROR - Cannot add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:47 - INFO - Socket disconnected [id: I03A6mu_rIGIrj9lAAAF]
+18.9.2024, 22:16:47 - INFO - New connected socket [id: jG3gKgnvPy7XekohAAAH]
+18.9.2024, 22:16:47 - INFO - Setting socket.userId =  for socket [id: jG3gKgnvPy7XekohAAAH]
+18.9.2024, 22:16:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:50 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:50 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:50 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:50 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:50 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:50 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:50 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:16:50 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:28 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:28 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:28 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:28 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:28 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:28 - INFO - Socket disconnected [id: jG3gKgnvPy7XekohAAAH]
+18.9.2024, 22:17:33 - INFO - New connected socket [id: IxLsVkJF9fOxN3cgAAAJ]
+18.9.2024, 22:17:33 - INFO - Setting socket.userId =  for socket [id: IxLsVkJF9fOxN3cgAAAJ]
+18.9.2024, 22:17:33 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:33 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:33 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:33 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:33 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:33 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:33 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:33 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:53 - INFO - server.js loaded...
+18.9.2024, 22:17:53 - INFO - Server is running on port: 3030
+18.9.2024, 22:17:55 - INFO - New connected socket [id: 1Zh6V-jNk7rl_GmHAAAB]
+18.9.2024, 22:17:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:17:55 - INFO - Setting socket.userId =  for socket [id: 1Zh6V-jNk7rl_GmHAAAB]
+18.9.2024, 22:18:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "New Board",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": {
+      "_id": "",
+      "fullname": "Guest",
+      "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+      "updates": []
+    },
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "9pfqz2",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "MfVGEJ",
+            "title": "Task 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "iri9l2",
+            "title": "Task 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "S5JCnY",
+            "title": "Task 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "Xit88T",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "pukNTo",
+            "title": "Task 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "rcDBn5",
+            "title": "Task 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "views": [],
+    "type": "Task",
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "TextInput",
+      "NumberInput",
+      "FilesPicker"
+    ]
+  },
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb27689a2df4566b28d46b"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb27689a2df4566b28d46b"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:05 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "New Board",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": {
+      "_id": "",
+      "fullname": "Guest",
+      "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+      "updates": []
+    },
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "6ucrqX",
+        "archivedAt": null,
+        "type": "Lead",
+        "pulses": [
+          {
+            "id": "uxkRUt",
+            "title": "Lead 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "alGAsC",
+            "title": "Lead 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "dm8C1V",
+            "title": "Lead 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "LwDAWl",
+        "archivedAt": null,
+        "type": "Lead",
+        "pulses": [
+          {
+            "id": "ieswDS",
+            "title": "Lead 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "eyVNgq",
+            "title": "Lead 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "views": [],
+    "type": "Lead",
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "EmailInput",
+      "PhoneInput",
+      "NumberInput",
+      "TextInput",
+      "FilesPicker"
+    ]
+  },
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb276d9a2df4566b28d46c"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb276d9a2df4566b28d46c"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:08 - INFO - Socket disconnected [id: 1Zh6V-jNk7rl_GmHAAAB]
+18.9.2024, 22:18:08 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb276d9a2df4566b28d46c"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:08 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:08 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb276d9a2df4566b28d46c"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:08 - INFO - New connected socket [id: TQ2MrJbyPdoJWItMAAAD]
+18.9.2024, 22:18:09 - INFO - Setting socket.userId =  for socket [id: TQ2MrJbyPdoJWItMAAAD]
+18.9.2024, 22:18:42 - INFO - server.js loaded...
+18.9.2024, 22:18:42 - INFO - Server is running on port: 3030
+18.9.2024, 22:18:42 - INFO - New connected socket [id: jF2du8rZoIGwB8z1AAAB]
+18.9.2024, 22:18:44 - INFO - Socket disconnected [id: jF2du8rZoIGwB8z1AAAB]
+18.9.2024, 22:18:45 - INFO - New connected socket [id: NC1Ic-dgK9D9cz3GAAAD]
+18.9.2024, 22:18:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:45 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:45 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:45 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:45 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:45 - INFO - Setting socket.userId =  for socket [id: NC1Ic-dgK9D9cz3GAAAD]
+18.9.2024, 22:18:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb276d9a2df4566b28d46c"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:45 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:45 - ERROR - Cannot get board by id: 66eb276d9a2df4566b28d46c | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:45 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:45 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb276d9a2df4566b28d46c"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:45 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:45 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:45 - ERROR - Cannot get board by id: 66eb276d9a2df4566b28d46c | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:45 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:52 - INFO - Socket disconnected [id: NC1Ic-dgK9D9cz3GAAAD]
+18.9.2024, 22:18:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:53 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:53 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:53 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb276d9a2df4566b28d46c"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:53 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:53 - ERROR - Cannot get board by id: 66eb276d9a2df4566b28d46c | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:53 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:53 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:53 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb276d9a2df4566b28d46c"
+  }
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:53 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:53 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:53 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:53 - ERROR - Cannot get board by id: 66eb276d9a2df4566b28d46c | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:53 - INFO - New connected socket [id: 5VlXvQy77nHeemlWAAAF]
+18.9.2024, 22:18:53 - INFO - Setting socket.userId =  for socket [id: 5VlXvQy77nHeemlWAAAF]
+18.9.2024, 22:18:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "New Board",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": {
+      "_id": "",
+      "fullname": "Guest",
+      "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+      "updates": []
+    },
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "hb3jn5",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "mGg4Wf",
+            "title": "Task 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "1klZbU",
+            "title": "Task 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "GfurFV",
+            "title": "Task 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "VZXKNK",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "udKgMK",
+            "title": "Task 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "leEvUf",
+            "title": "Task 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "views": [],
+    "type": "Task",
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "TextInput",
+      "NumberInput",
+      "FilesPicker"
+    ]
+  },
+  "params": {}
+} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:57 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:57 - ERROR - Cannot add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:57 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:18:57 - ERROR - Failed to add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:19:20 - INFO - Socket disconnected [id: 5VlXvQy77nHeemlWAAAF]
+18.9.2024, 22:19:20 - INFO - New connected socket [id: tFbs-sIjx39nxo9SAAAH]
+18.9.2024, 22:19:20 - INFO - Setting socket.userId =  for socket [id: tFbs-sIjx39nxo9SAAAH]
+18.9.2024, 22:19:37 - DEBUG - auth.service - signup with username: shahar gadon, fullname: shahar gadon | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:19:37 - ERROR - Cannot find user by username: shahar gadon | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:19:37 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:19:37 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:19:37 - ERROR - Failed to signup TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:19:39 - DEBUG - auth.service - signup with username: shahar gadon, fullname: shahar gadon | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:19:39 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:19:39 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:19:39 - ERROR - Cannot find user by username: shahar gadon | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:19:39 - ERROR - Failed to signup TypeError: Cannot read properties of undefined (reading 'startsWith') | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:20:15 - INFO - server.js loaded...
+18.9.2024, 22:20:15 - INFO - Server is running on port: 3030
+18.9.2024, 22:20:16 - INFO - New connected socket [id: 5a6zgcoxxTAwyvgvAAAB]
+18.9.2024, 22:20:17 - INFO - Socket disconnected [id: 5a6zgcoxxTAwyvgvAAAB]
+18.9.2024, 22:20:17 - INFO - New connected socket [id: ikc34NgUpkd8goulAAAD]
+18.9.2024, 22:20:17 - INFO - Setting socket.userId =  for socket [id: ikc34NgUpkd8goulAAAD]
+18.9.2024, 22:20:24 - DEBUG - auth.service - signup with username: admin, fullname: admin | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:20:24 - DEBUG - auth.route - new account created: {"username":"admin","password":"$2b$10$8uZ33iFHQzn4P7ZyjNcTqu3S2e4aps25iOzQem5aLNufMdvjuaOka","fullname":"admin","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","updates":[],"_id":"66eb27f8ced4ef4bc020b8ef"} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:20:24 - DEBUG - auth.service - login with username: admin | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:20:24 - INFO - User signup: | {"_id":"66eb27f8ced4ef4bc020b8ef","username":"admin","fullname":"admin","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","updates":[]} | 66e82ab5f548c6172ff2cc19
+18.9.2024, 22:20:24 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: ikc34NgUpkd8goulAAAD]
+18.9.2024, 22:20:24 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+18.9.2024, 22:20:24 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+18.9.2024, 22:20:30 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66eb27f8ced4ef4bc020b8ef
+18.9.2024, 22:20:30 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66eb27f8ced4ef4bc020b8ef
+18.9.2024, 22:27:28 - INFO - New connected socket [id: Y6USvrrDiHxXvoUeAAAF]
+18.9.2024, 22:27:28 - INFO - Setting socket.userId =  for socket [id: Y6USvrrDiHxXvoUeAAAF]
+18.9.2024, 22:27:30 - INFO - Socket disconnected [id: Y6USvrrDiHxXvoUeAAAF]
+18.9.2024, 22:28:06 - INFO - New connected socket [id: 78-1o_CNW1f1aB8GAAAH]
+18.9.2024, 22:28:06 - INFO - Setting socket.userId =  for socket [id: 78-1o_CNW1f1aB8GAAAH]
+18.9.2024, 22:28:08 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+18.9.2024, 22:28:08 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+18.9.2024, 22:28:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb276d9a2df4566b28d46c"
+  }
+} | 66eb27f8ced4ef4bc020b8ef
+18.9.2024, 22:28:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb276d9a2df4566b28d46c"
+  }
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 2:32:15 - INFO - Socket disconnected [id: 78-1o_CNW1f1aB8GAAAH]
+19.9.2024, 8:06:32 - INFO - server.js loaded...
+19.9.2024, 8:06:32 - INFO - Server is running on port: 3030
+19.9.2024, 8:06:33 - INFO - New connected socket [id: A3KH3B2LO4DpHMJHAAAB]
+19.9.2024, 8:06:44 - INFO - New connected socket [id: XK6JIBZO2KLdxapUAAAD]
+19.9.2024, 8:06:44 - INFO - Setting socket.userId =  for socket [id: XK6JIBZO2KLdxapUAAAD]
+19.9.2024, 8:06:47 - INFO - New connected socket [id: xqacH_9M0GBvDDd6AAAF]
+19.9.2024, 8:06:47 - INFO - Setting socket.userId =  for socket [id: xqacH_9M0GBvDDd6AAAF]
+19.9.2024, 8:06:48 - INFO - Socket disconnected [id: xqacH_9M0GBvDDd6AAAF]
+19.9.2024, 8:06:49 - INFO - Socket disconnected [id: XK6JIBZO2KLdxapUAAAD]
+19.9.2024, 8:06:52 - INFO - Socket disconnected [id: A3KH3B2LO4DpHMJHAAAB]
+19.9.2024, 8:06:52 - INFO - New connected socket [id: mZFUgVpb8k7uS6f4AAAH]
+19.9.2024, 8:06:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:06:52 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:06:52 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:06:52 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:06:52 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:06:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:06:52 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:06:52 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:06:52 - ERROR - Cannot get board by id: 66e986cbd023e41ee2205b54 | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:06:52 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:06:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:06:52 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:06:52 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:06:52 - ERROR - Cannot get board by id: 66e986cbd023e41ee2205b54 | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:06:52 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:06:52 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: mZFUgVpb8k7uS6f4AAAH]
+19.9.2024, 8:07:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "New Board",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": {
+      "_id": "66eb27f8ced4ef4bc020b8ef",
+      "fullname": "admin",
+      "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+      "updates": []
+    },
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "pzSpDm",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "FD2ugi",
+            "title": "Task 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "5Ix5pl",
+            "title": "Task 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "bqO6pK",
+            "title": "Task 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "Z98t7a",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "6QrJ4l",
+            "title": "Task 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "5c6gRR",
+            "title": "Task 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "views": [],
+    "type": "Task",
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "TextInput",
+      "NumberInput",
+      "FilesPicker"
+    ]
+  },
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:07:02 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:07:02 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:07:02 - ERROR - Cannot add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:07:02 - ERROR - Failed to add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:09:14 - INFO - Socket disconnected [id: mZFUgVpb8k7uS6f4AAAH]
+19.9.2024, 8:09:14 - INFO - New connected socket [id: MbixfxzVKloDXMlxAAAJ]
+19.9.2024, 8:09:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:09:15 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:09:15 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:09:15 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:09:15 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:09:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:09:15 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:09:15 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:09:15 - ERROR - Cannot get board by id: 66e986cbd023e41ee2205b54 | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:09:15 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:09:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:09:15 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:09:15 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:09:15 - ERROR - Cannot get board by id: 66e986cbd023e41ee2205b54 | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:09:15 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:09:15 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: MbixfxzVKloDXMlxAAAJ]
+19.9.2024, 8:13:36 - INFO - Socket disconnected [id: MbixfxzVKloDXMlxAAAJ]
+19.9.2024, 8:13:37 - INFO - New connected socket [id: CN40OvZ4YrSs29eLAAAL]
+19.9.2024, 8:13:37 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:37 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:37 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:37 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:37 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:37 - ERROR - Cannot get board by id: 66e986cbd023e41ee2205b54 | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:37 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:37 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:37 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: CN40OvZ4YrSs29eLAAAL]
+19.9.2024, 8:13:37 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:37 - ERROR - Cannot get board by id: 66e986cbd023e41ee2205b54 | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e986cbd023e41ee2205b54"
+  }
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:37 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:37 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:48 - INFO - Socket disconnected [id: CN40OvZ4YrSs29eLAAAL]
+19.9.2024, 8:13:48 - INFO - New connected socket [id: RTWVZKwjO9Wx65ShAAAN]
+19.9.2024, 8:13:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:48 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:48 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:48 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:48 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:48 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:48 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:48 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:48 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:13:48 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: RTWVZKwjO9Wx65ShAAAN]
+19.9.2024, 8:15:04 - INFO - Socket disconnected [id: RTWVZKwjO9Wx65ShAAAN]
+19.9.2024, 8:15:04 - INFO - New connected socket [id: TIJKQpdaTsbhjo22AAAP]
+19.9.2024, 8:15:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:15:04 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:15:04 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:15:04 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:15:04 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:15:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:15:04 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:15:04 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:15:04 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:15:04 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: TIJKQpdaTsbhjo22AAAP]
+19.9.2024, 8:15:04 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:17:09 - INFO - Socket disconnected [id: TIJKQpdaTsbhjo22AAAP]
+19.9.2024, 8:17:10 - INFO - New connected socket [id: iY08dj_CAiXyuHSGAAAR]
+19.9.2024, 8:17:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:17:10 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:17:10 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:17:10 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:17:10 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:17:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:17:10 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:17:10 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:17:10 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:17:10 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:17:10 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: iY08dj_CAiXyuHSGAAAR]
+19.9.2024, 8:17:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "New Board",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": {
+      "_id": "66eb27f8ced4ef4bc020b8ef",
+      "fullname": "admin",
+      "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+      "updates": []
+    },
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "iWchab",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "IAefSU",
+            "title": "Task 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "lNBWbu",
+            "title": "Task 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "LB5acP",
+            "title": "Task 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "7EXowX",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "F3q1o5",
+            "title": "Task 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "aulc52",
+            "title": "Task 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "views": [],
+    "type": "Task",
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "TextInput",
+      "NumberInput",
+      "FilesPicker"
+    ]
+  },
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:17:45 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:17:45 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:17:45 - ERROR - Cannot add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:17:45 - ERROR - Failed to add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:54 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:54 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "New Board",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": {
+      "_id": "66eb27f8ced4ef4bc020b8ef",
+      "fullname": "admin",
+      "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+      "updates": []
+    },
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "NesImg",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "zQbhnd",
+            "title": "Task 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "LwTLiu",
+            "title": "Task 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "8rqQAW",
+            "title": "Task 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "8zHqIv",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "mu7RNp",
+            "title": "Task 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "Q7IGRV",
+            "title": "Task 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "views": [],
+    "type": "Task",
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "TextInput",
+      "NumberInput",
+      "FilesPicker"
+    ]
+  },
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:54 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:54 - ERROR - Failed to add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:54 - ERROR - Cannot add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "New Board",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": {
+      "_id": "66eb27f8ced4ef4bc020b8ef",
+      "fullname": "admin",
+      "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+      "updates": []
+    },
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "b437FF",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "aQ4vIm",
+            "title": "Task 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "8LxpBx",
+            "title": "Task 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "MB2Ang",
+            "title": "Task 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "NlVgZG",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "G8ISyn",
+            "title": "Task 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "Wx2pes",
+            "title": "Task 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "views": [],
+    "type": "Task",
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "TextInput",
+      "NumberInput",
+      "FilesPicker"
+    ]
+  },
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:55 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:55 - ERROR - Cannot add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:55 - ERROR - Failed to add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:55 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:57 - INFO - Socket disconnected [id: iY08dj_CAiXyuHSGAAAR]
+19.9.2024, 8:19:57 - INFO - New connected socket [id: alJSgEDyD9-g_BUZAAAT]
+19.9.2024, 8:19:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:57 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:57 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:57 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:57 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:57 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:57 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:57 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:57 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:19:57 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: alJSgEDyD9-g_BUZAAAT]
+19.9.2024, 8:20:01 - INFO - Socket disconnected [id: alJSgEDyD9-g_BUZAAAT]
+19.9.2024, 8:20:01 - INFO - New connected socket [id: PXzCDHCjaSVrkba9AAAV]
+19.9.2024, 8:20:01 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:01 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:01 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:01 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:01 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:01 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:01 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:01 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:01 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:01 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:02 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: PXzCDHCjaSVrkba9AAAV]
+19.9.2024, 8:20:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "New Board",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": {
+      "_id": "66eb27f8ced4ef4bc020b8ef",
+      "fullname": "admin",
+      "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+      "updates": []
+    },
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "qCp0UF",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "bnCDvF",
+            "title": "Task 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "iV6GHq",
+            "title": "Task 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "bQkNhc",
+            "title": "Task 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "OQDFp7",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "0hleBA",
+            "title": "Task 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "EGMvMD",
+            "title": "Task 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "views": [],
+    "type": "Task",
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "TextInput",
+      "NumberInput",
+      "FilesPicker"
+    ]
+  },
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:09 - ERROR - Cannot add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:09 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:09 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:09 - ERROR - Failed to add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "New Board",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": {
+      "_id": "66eb27f8ced4ef4bc020b8ef",
+      "fullname": "admin",
+      "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+      "updates": []
+    },
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "jprohj",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "LtwG0e",
+            "title": "Task 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "Dd2X9l",
+            "title": "Task 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "YQ6Y07",
+            "title": "Task 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "Zs1wud",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "qvfXYX",
+            "title": "Task 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "dEM09W",
+            "title": "Task 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "views": [],
+    "type": "Task",
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "TextInput",
+      "NumberInput",
+      "FilesPicker"
+    ]
+  },
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:10 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:10 - ERROR - Cannot add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:10 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:10 - ERROR - Failed to add board | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:12 - INFO - Socket disconnected [id: PXzCDHCjaSVrkba9AAAV]
+19.9.2024, 8:20:13 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:13 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:13 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:13 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:13 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:13 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:13 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:13 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:13 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:20:13 - INFO - New connected socket [id: wd29Ucm4JBdLBLi9AAAX]
+19.9.2024, 8:20:13 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: wd29Ucm4JBdLBLi9AAAX]
+19.9.2024, 8:22:48 - INFO - Socket disconnected [id: wd29Ucm4JBdLBLi9AAAX]
+19.9.2024, 8:22:48 - INFO - New connected socket [id: 09Lt5d3sPDE7-2muAAAZ]
+19.9.2024, 8:22:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:22:48 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:22:48 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:22:48 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:22:48 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:22:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:22:48 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:22:48 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:22:48 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:22:48 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:22:48 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: 09Lt5d3sPDE7-2muAAAZ]
+19.9.2024, 8:23:22 - INFO - server.js loaded...
+19.9.2024, 8:23:22 - INFO - Server is running on port: 3030
+19.9.2024, 8:23:26 - INFO - New connected socket [id: cN-nnuGORgn3VStJAAAB]
+19.9.2024, 8:23:32 - INFO - Socket disconnected [id: cN-nnuGORgn3VStJAAAB]
+19.9.2024, 8:23:33 - INFO - New connected socket [id: OeAfkAyII3-9lDizAAAD]
+19.9.2024, 8:23:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:23:33 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:23:33 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:23:33 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:23:33 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:23:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:23:33 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:23:33 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:23:33 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:23:33 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:23:33 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: OeAfkAyII3-9lDizAAAD]
+19.9.2024, 8:33:24 - INFO - Socket disconnected [id: OeAfkAyII3-9lDizAAAD]
+19.9.2024, 8:33:34 - INFO - New connected socket [id: 90YPjt6rX-MxhwubAAAF]
+19.9.2024, 8:33:34 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:33:34 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:33:34 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:33:34 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:33:34 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:33:34 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:33:34 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:33:34 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:33:34 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:33:34 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:33:34 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: 90YPjt6rX-MxhwubAAAF]
+19.9.2024, 8:35:25 - INFO - server.js loaded...
+19.9.2024, 8:35:25 - INFO - Server is running on port: 3030
+19.9.2024, 8:35:29 - INFO - New connected socket [id: Fc0vS8ori2PRoi1jAAAB]
+19.9.2024, 8:36:05 - INFO - Socket disconnected [id: Fc0vS8ori2PRoi1jAAAB]
+19.9.2024, 8:36:07 - INFO - New connected socket [id: Poa-Ntu2YaaOHWjgAAAD]
+19.9.2024, 8:36:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:07 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: Poa-Ntu2YaaOHWjgAAAD]
+19.9.2024, 8:36:07 - INFO - Socket disconnected [id: Poa-Ntu2YaaOHWjgAAAD]
+19.9.2024, 8:36:08 - INFO - New connected socket [id: YjH20lwJKkOReO-7AAAF]
+19.9.2024, 8:36:09 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:09 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:09 - ERROR - cannot get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:09 - ERROR - Failed to get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:09 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:09 - ERROR - cannot get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:09 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:09 - ERROR - Failed to get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:10 - INFO - Socket disconnected [id: YjH20lwJKkOReO-7AAAF]
+19.9.2024, 8:36:10 - INFO - New connected socket [id: WKMtvvJz88g1-uNOAAAH]
+19.9.2024, 8:36:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:10 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: WKMtvvJz88g1-uNOAAAH]
+19.9.2024, 8:36:12 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:12 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:12 - ERROR - cannot get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:12 - ERROR - Failed to get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:12 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:12 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:12 - ERROR - Failed to get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:12 - ERROR - cannot get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "New Board",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": {
+      "_id": "66eb27f8ced4ef4bc020b8ef",
+      "fullname": "admin",
+      "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+      "updates": []
+    },
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "JaFJSM",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "w4Fhmk",
+            "title": "Task 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "3sc7ZD",
+            "title": "Task 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "AWeeMA",
+            "title": "Task 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "iYUYil",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "aMgX0q",
+            "title": "Task 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "1qon4N",
+            "title": "Task 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "views": [],
+    "type": "Task",
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "TextInput",
+      "NumberInput",
+      "FilesPicker"
+    ]
+  },
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:18 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:18 - ERROR - Failed to add board | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:18 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:36:18 - ERROR - Cannot add board | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:37:14 - INFO - Socket disconnected [id: WKMtvvJz88g1-uNOAAAH]
+19.9.2024, 8:37:14 - INFO - New connected socket [id: PXn28wHxiFt_0vEeAAAJ]
+19.9.2024, 8:37:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:37:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:37:15 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: PXn28wHxiFt_0vEeAAAJ]
+19.9.2024, 8:37:16 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:37:16 - ERROR - cannot get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:37:16 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:37:16 - ERROR - Failed to get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:37:16 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:37:16 - ERROR - cannot get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:37:16 - ERROR - Failed to get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:37:16 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:38:01 - INFO - Socket disconnected [id: PXn28wHxiFt_0vEeAAAJ]
+19.9.2024, 8:38:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:38:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:38:02 - INFO - New connected socket [id: yZ5cbmaTjokDNrxPAAAL]
+19.9.2024, 8:38:02 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: yZ5cbmaTjokDNrxPAAAL]
+19.9.2024, 8:38:03 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:38:03 - ERROR - cannot get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:38:03 - ERROR - Failed to get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:38:03 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:38:03 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:38:03 - ERROR - Failed to get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:38:03 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:38:03 - ERROR - cannot get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:22 - INFO - Socket disconnected [id: yZ5cbmaTjokDNrxPAAAL]
+19.9.2024, 8:41:23 - INFO - New connected socket [id: kwE2pbZR8JncO2ShAAAN]
+19.9.2024, 8:41:23 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:23 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:23 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: kwE2pbZR8JncO2ShAAAN]
+19.9.2024, 8:41:24 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:24 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:24 - ERROR - cannot get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:24 - ERROR - Failed to get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:25 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:25 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:25 - ERROR - Failed to get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:25 - ERROR - cannot get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:25 - INFO - Socket disconnected [id: kwE2pbZR8JncO2ShAAAN]
+19.9.2024, 8:41:25 - INFO - New connected socket [id: rrP5Z2CbzPAQzA0NAAAP]
+19.9.2024, 8:41:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:25 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: rrP5Z2CbzPAQzA0NAAAP]
+19.9.2024, 8:41:26 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:26 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:26 - ERROR - cannot get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:26 - ERROR - Failed to get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:27 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:27 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:27 - ERROR - cannot get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:41:27 - ERROR - Failed to get boards | MongoServerError: bad auth : authentication failed | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:49:05 - INFO - Socket disconnected [id: rrP5Z2CbzPAQzA0NAAAP]
+19.9.2024, 8:49:05 - INFO - New connected socket [id: xUSSMd-tWgE7Gp6uAAAR]
+19.9.2024, 8:49:45 - INFO - Server is running on port: 3030
+19.9.2024, 8:49:45 - INFO - server.js loaded...
+19.9.2024, 8:49:46 - INFO - New connected socket [id: Q1ZZgYGyig90U2cPAAAB]
+19.9.2024, 8:49:49 - INFO - Socket disconnected [id: Q1ZZgYGyig90U2cPAAAB]
+19.9.2024, 8:49:49 - INFO - New connected socket [id: 4Y3JLzZk_VYGlH74AAAD]
+19.9.2024, 8:49:49 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:49:49 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:49:49 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: 4Y3JLzZk_VYGlH74AAAD]
+19.9.2024, 8:50:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb27689a2df4566b28d46b"
+  }
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:50:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb27689a2df4566b28d46b"
+  }
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:50:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:50:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb276d9a2df4566b28d46c"
+  }
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:50:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb276d9a2df4566b28d46c"
+  }
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:50:12 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9ab1449c668c96d778cf8"
+  }
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:50:12 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9ab1449c668c96d778cf8"
+  }
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:50:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:50:55 - INFO - Socket disconnected [id: 4Y3JLzZk_VYGlH74AAAD]
+19.9.2024, 8:50:55 - INFO - New connected socket [id: DUK1XHHqjnTCqtDhAAAF]
+19.9.2024, 8:50:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:50:55 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:50:55 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: DUK1XHHqjnTCqtDhAAAF]
+19.9.2024, 8:51:18 - INFO - server.js loaded...
+19.9.2024, 8:51:18 - INFO - Server is running on port: 3030
+19.9.2024, 8:51:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:51:22 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:51:22 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:51:22 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:51:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:51:22 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:51:22 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:51:22 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:51:22 - ERROR - cannot get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:51:22 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:51:22 - INFO - New connected socket [id: _0tc0ekQ9S8sUFK8AAAB]
+19.9.2024, 8:51:22 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: _0tc0ekQ9S8sUFK8AAAB]
+19.9.2024, 8:52:07 - INFO - server.js loaded...
+19.9.2024, 8:52:07 - INFO - Server is running on port: 3030
+19.9.2024, 8:52:09 - INFO - New connected socket [id: H86UkM5rEfVMxMrDAAAB]
+19.9.2024, 8:52:11 - INFO - Socket disconnected [id: H86UkM5rEfVMxMrDAAAB]
+19.9.2024, 8:52:11 - INFO - New connected socket [id: dbc3ThaXHxBjqgOfAAAD]
+19.9.2024, 8:52:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:52:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eb27f8ced4ef4bc020b8ef
+19.9.2024, 8:52:11 - INFO - Setting socket.userId = 66eb27f8ced4ef4bc020b8ef for socket [id: dbc3ThaXHxBjqgOfAAAD]
