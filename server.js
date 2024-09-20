@@ -18,7 +18,7 @@ const app = express()
 const server = http.createServer(app)
 
 // Express App Config
-app.use(express.static('public'))
+// app.use(express.static('public'))
 app.use(cookieParser())
 app.use(express.json())
 
