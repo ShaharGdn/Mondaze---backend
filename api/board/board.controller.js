@@ -1,4 +1,6 @@
 import { logger } from '../../services/logger.service.js'
+import { getUsers } from '../user/user.controller.js'
+import { userService } from '../user/user.service.js'
 import { boardService } from './board.service.js'
 
 export const boardController = {
@@ -56,7 +58,9 @@ async function addBoard(req, res) {
 	const { loggedinUser, body: board } = req
 
 	try {
+		const users = await userService.query()
 		board.createdBy = loggedinUser
+		board.members = users
 		const addedBoard = await boardService.addBoard(board)
 		res.json(addedBoard)
 	} catch (err) {
