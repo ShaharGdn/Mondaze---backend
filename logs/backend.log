@@ -47069,3 +47069,2723 @@
 21.9.2024, 11:58:12 - INFO - New connected socket [id: galoP4vp-iT8Ial3AAAd]
 21.9.2024, 11:58:12 - INFO - New connected socket [id: U2asgsqRSz5J8nhdAAAe]
 21.9.2024, 11:58:12 - INFO - New connected socket [id: 75iIdbaIyTOVppuiAAAf]
+21.9.2024, 12:05:26 - INFO - Socket disconnected [id: 75iIdbaIyTOVppuiAAAf]
+21.9.2024, 12:05:27 - INFO - New connected socket [id: BBXJzeekMtLMbHNWAAAh]
+21.9.2024, 12:05:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 12:05:27 - INFO - Setting socket.userId = 66edba0af6b6243ec4bc1832 for socket [id: BBXJzeekMtLMbHNWAAAh]
+21.9.2024, 12:05:28 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 12:06:50 - INFO - Socket disconnected [id: BBXJzeekMtLMbHNWAAAh]
+21.9.2024, 12:06:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 12:06:51 - INFO - New connected socket [id: J_8kkQABpS7JbLoQAAAj]
+21.9.2024, 12:06:51 - INFO - Setting socket.userId = 66edba0af6b6243ec4bc1832 for socket [id: J_8kkQABpS7JbLoQAAAj]
+21.9.2024, 12:06:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 12:06:53 - INFO - Socket disconnected [id: J_8kkQABpS7JbLoQAAAj]
+21.9.2024, 12:06:53 - INFO - New connected socket [id: gle1_Yk7VpyYdUtNAAAl]
+21.9.2024, 12:06:54 - INFO - Setting socket.userId = 66edba0af6b6243ec4bc1832 for socket [id: gle1_Yk7VpyYdUtNAAAl]
+21.9.2024, 12:07:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 12:07:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 12:17:49 - INFO - Socket disconnected [id: gle1_Yk7VpyYdUtNAAAl]
+21.9.2024, 12:17:49 - INFO - New connected socket [id: PPwdN56OYvQa4upJAAAn]
+21.9.2024, 12:17:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 12:17:50 - INFO - Setting socket.userId = 66edba0af6b6243ec4bc1832 for socket [id: PPwdN56OYvQa4upJAAAn]
+21.9.2024, 12:17:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 12:17:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 12:17:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 12:18:38 - INFO - Socket disconnected [id: PPwdN56OYvQa4upJAAAn]
+21.9.2024, 12:18:38 - INFO - New connected socket [id: _-8udYQiZjIVFgM-AAAp]
+21.9.2024, 12:18:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 12:18:38 - INFO - Setting socket.userId = 66edba0af6b6243ec4bc1832 for socket [id: _-8udYQiZjIVFgM-AAAp]
+21.9.2024, 12:18:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 12:38:08 - INFO - Socket disconnected [id: U2asgsqRSz5J8nhdAAAe]
+21.9.2024, 12:38:49 - INFO - Socket disconnected [id: galoP4vp-iT8Ial3AAAd]
+21.9.2024, 12:38:51 - INFO - New connected socket [id: lZWt88ieAiJ_35BWAAAr]
+21.9.2024, 12:38:51 - INFO - Setting socket.userId =  for socket [id: lZWt88ieAiJ_35BWAAAr]
+21.9.2024, 12:38:57 - INFO - New connected socket [id: shaBqqc0h3c3CNP3AAAt]
+21.9.2024, 12:38:57 - INFO - Setting socket.userId =  for socket [id: shaBqqc0h3c3CNP3AAAt]
+21.9.2024, 12:39:28 - INFO - server.js loaded...
+21.9.2024, 12:39:28 - INFO - Server is running on port: 3030
+21.9.2024, 12:39:29 - INFO - New connected socket [id: xG5Mn09Q4e5WTHFnAAAB]
+21.9.2024, 12:39:30 - INFO - New connected socket [id: VFusFmJDpfUVeG-PAAAD]
+21.9.2024, 12:39:31 - INFO - New connected socket [id: N0lq6H5nxxS1OifRAAAF]
+21.9.2024, 12:39:32 - INFO - Socket disconnected [id: N0lq6H5nxxS1OifRAAAF]
+21.9.2024, 12:39:32 - INFO - New connected socket [id: 0iRU_1i-s8jnHaYXAAAH]
+21.9.2024, 12:39:32 - INFO - Setting socket.userId =  for socket [id: 0iRU_1i-s8jnHaYXAAAH]
+21.9.2024, 12:39:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 12:39:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 12:44:37 - INFO - New connected socket [id: 3mkDQq_QKOEXbBIjAAAJ]
+21.9.2024, 12:44:46 - INFO - Socket disconnected [id: 3mkDQq_QKOEXbBIjAAAJ]
+21.9.2024, 12:44:46 - INFO - New connected socket [id: sER2v1RI9TDcnEudAAAL]
+21.9.2024, 12:44:51 - INFO - Socket disconnected [id: sER2v1RI9TDcnEudAAAL]
+21.9.2024, 13:01:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "test board",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": {
+      "_id": "66edba0af6b6243ec4bc1832",
+      "fullname": "Michal Rotkop",
+      "imgUrl": "https://res.cloudinary.com/dlepgw0nz/image/upload/v1726855685/fq8lzcsp1mokpiuhzngc.jpg",
+      "updates": []
+    },
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "BxAZVZ",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "rH5zJi",
+            "title": "Task 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "p6Ju6P",
+            "title": "Task 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "GFhgE0",
+            "title": "Task 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "JwAiWI",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "yVncFE",
+            "title": "Task 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "9lCcRc",
+            "title": "Task 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "views": [],
+    "type": "Task",
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "TextInput",
+      "NumberInput",
+      "FilesPicker"
+    ]
+  },
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:01:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ee9970938f74fd0e09d039"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:01:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ee9970938f74fd0e09d039"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:01:32 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ee9970938f74fd0e09d039"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:01:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ee9970938f74fd0e09d039"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:01:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:02:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ee9970938f74fd0e09d039"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:02:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ee9970938f74fd0e09d039"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:02:34 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ec0c94a47eccc2124f2aaa"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:02:34 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ec0c94a47eccc2124f2aaa"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:02:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb0d1aa47eccc2124f2aa7"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:02:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb0d1aa47eccc2124f2aa7"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:02:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ee9970938f74fd0e09d039"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:02:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ee9970938f74fd0e09d039"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:02:44 - INFO - Socket disconnected [id: 0iRU_1i-s8jnHaYXAAAH]
+21.9.2024, 13:02:45 - INFO - New connected socket [id: ckUcvQjYsSlFHWk3AAAN]
+21.9.2024, 13:02:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:02:45 - INFO - Setting socket.userId =  for socket [id: ckUcvQjYsSlFHWk3AAAN]
+21.9.2024, 13:02:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:02:46 - INFO - Socket disconnected [id: ckUcvQjYsSlFHWk3AAAN]
+21.9.2024, 13:02:46 - INFO - New connected socket [id: OIrE81VydAxWVtjVAAAP]
+21.9.2024, 13:02:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:02:46 - INFO - Setting socket.userId =  for socket [id: OIrE81VydAxWVtjVAAAP]
+21.9.2024, 13:02:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:18:38 - INFO - Socket disconnected [id: VFusFmJDpfUVeG-PAAAD]
+21.9.2024, 13:18:38 - INFO - Socket disconnected [id: OIrE81VydAxWVtjVAAAP]
+21.9.2024, 13:18:39 - INFO - New connected socket [id: d_H_KXZsmiqBa_XtAAAS]
+21.9.2024, 13:18:39 - INFO - New connected socket [id: X1ZDEI1JrFfV601MAAAT]
+21.9.2024, 13:18:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:18:39 - INFO - Setting socket.userId =  for socket [id: d_H_KXZsmiqBa_XtAAAS]
+21.9.2024, 13:18:39 - INFO - Setting socket.userId =  for socket [id: X1ZDEI1JrFfV601MAAAT]
+21.9.2024, 13:18:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:18:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:18:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:19:04 - INFO - Socket disconnected [id: d_H_KXZsmiqBa_XtAAAS]
+21.9.2024, 13:19:04 - INFO - Socket disconnected [id: X1ZDEI1JrFfV601MAAAT]
+21.9.2024, 13:19:58 - INFO - New connected socket [id: g95GqtcsfLXBsqEpAAAV]
+21.9.2024, 13:19:58 - INFO - Setting socket.userId =  for socket [id: g95GqtcsfLXBsqEpAAAV]
+21.9.2024, 13:19:58 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:19:58 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:19:58 - INFO - New connected socket [id: n_Ze0_e_hzD7fyqKAAAX]
+21.9.2024, 13:19:58 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:19:58 - INFO - Setting socket.userId =  for socket [id: n_Ze0_e_hzD7fyqKAAAX]
+21.9.2024, 13:19:58 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:31:31 - INFO - Socket disconnected [id: n_Ze0_e_hzD7fyqKAAAX]
+21.9.2024, 13:31:31 - INFO - Socket disconnected [id: g95GqtcsfLXBsqEpAAAV]
+21.9.2024, 13:31:33 - INFO - New connected socket [id: XRwamRE65CD7pEJZAAAa]
+21.9.2024, 13:31:33 - INFO - New connected socket [id: dtMYsYM_JpSyUyjxAAAb]
+21.9.2024, 13:31:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:31:33 - INFO - Setting socket.userId =  for socket [id: dtMYsYM_JpSyUyjxAAAb]
+21.9.2024, 13:31:33 - INFO - Setting socket.userId =  for socket [id: XRwamRE65CD7pEJZAAAa]
+21.9.2024, 13:31:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:31:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:31:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:36:59 - INFO - Socket disconnected [id: dtMYsYM_JpSyUyjxAAAb]
+21.9.2024, 13:36:59 - INFO - Socket disconnected [id: XRwamRE65CD7pEJZAAAa]
+21.9.2024, 13:37:00 - INFO - New connected socket [id: Ck14nUY11sUuefXJAAAe]
+21.9.2024, 13:37:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:37:00 - INFO - Setting socket.userId =  for socket [id: Ck14nUY11sUuefXJAAAe]
+21.9.2024, 13:37:00 - INFO - New connected socket [id: oz4k_m0z7qN_WjwrAAAf]
+21.9.2024, 13:37:00 - INFO - Setting socket.userId =  for socket [id: oz4k_m0z7qN_WjwrAAAf]
+21.9.2024, 13:37:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:37:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:37:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:39:35 - INFO - Socket disconnected [id: Ck14nUY11sUuefXJAAAe]
+21.9.2024, 13:39:35 - INFO - Socket disconnected [id: oz4k_m0z7qN_WjwrAAAf]
+21.9.2024, 13:39:36 - INFO - New connected socket [id: EPTO0op_Pl__-cwyAAAi]
+21.9.2024, 13:39:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:39:36 - INFO - New connected socket [id: bhxBbCHXfeO2st-7AAAj]
+21.9.2024, 13:39:36 - INFO - Setting socket.userId =  for socket [id: EPTO0op_Pl__-cwyAAAi]
+21.9.2024, 13:39:36 - INFO - Setting socket.userId =  for socket [id: bhxBbCHXfeO2st-7AAAj]
+21.9.2024, 13:39:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:39:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:39:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:43:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:43:28 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:44:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:44:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:44:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:44:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:44:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:44:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:44:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:44:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:44:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:44:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:45:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:45:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:45:10 - INFO - Socket disconnected [id: bhxBbCHXfeO2st-7AAAj]
+21.9.2024, 13:45:10 - INFO - New connected socket [id: Hjs_yCuLAYsM-WwlAAAl]
+21.9.2024, 13:45:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:45:10 - INFO - Setting socket.userId =  for socket [id: Hjs_yCuLAYsM-WwlAAAl]
+21.9.2024, 13:45:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:45:20 - INFO - Socket disconnected [id: Hjs_yCuLAYsM-WwlAAAl]
+21.9.2024, 13:45:21 - INFO - New connected socket [id: Dik4GB7ZKC0iXD2KAAAn]
+21.9.2024, 13:45:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:45:21 - INFO - Setting socket.userId =  for socket [id: Dik4GB7ZKC0iXD2KAAAn]
+21.9.2024, 13:45:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:45:21 - INFO - Socket disconnected [id: Dik4GB7ZKC0iXD2KAAAn]
+21.9.2024, 13:45:22 - INFO - New connected socket [id: _bAXqnncDVcP4-XiAAAp]
+21.9.2024, 13:45:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:45:22 - INFO - Setting socket.userId =  for socket [id: _bAXqnncDVcP4-XiAAAp]
+21.9.2024, 13:45:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:45:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 13:45:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:13:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:13:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:15:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:15:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66deb7d6e2c67a8c29670bb7"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:15:23 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:15:23 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:46:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:46:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:48:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:48:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:50:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:50:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:53:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:53:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:53:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:53:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:55:06 - INFO - Socket disconnected [id: _bAXqnncDVcP4-XiAAAp]
+21.9.2024, 14:55:06 - INFO - Socket disconnected [id: EPTO0op_Pl__-cwyAAAi]
+21.9.2024, 14:55:07 - INFO - New connected socket [id: x9ODZIF2Y9g9kKCjAAAs]
+21.9.2024, 14:55:07 - INFO - New connected socket [id: nPhAOwnIknLbeCw_AAAt]
+21.9.2024, 14:55:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:55:07 - INFO - Setting socket.userId =  for socket [id: nPhAOwnIknLbeCw_AAAt]
+21.9.2024, 14:55:07 - INFO - Setting socket.userId =  for socket [id: x9ODZIF2Y9g9kKCjAAAs]
+21.9.2024, 14:55:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:55:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:55:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:55:34 - INFO - Socket disconnected [id: nPhAOwnIknLbeCw_AAAt]
+21.9.2024, 14:55:34 - INFO - Socket disconnected [id: x9ODZIF2Y9g9kKCjAAAs]
+21.9.2024, 14:55:34 - INFO - New connected socket [id: yPmbm4R5YGXOzG8qAAAw]
+21.9.2024, 14:55:34 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:55:34 - INFO - New connected socket [id: ta-hMD6N9Ufuh4oSAAAx]
+21.9.2024, 14:55:34 - INFO - Setting socket.userId =  for socket [id: yPmbm4R5YGXOzG8qAAAw]
+21.9.2024, 14:55:34 - INFO - Setting socket.userId =  for socket [id: ta-hMD6N9Ufuh4oSAAAx]
+21.9.2024, 14:55:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:55:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:55:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:57:17 - INFO - Socket disconnected [id: xG5Mn09Q4e5WTHFnAAAB]
+21.9.2024, 14:58:05 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:58:05 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:58:05 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:59:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 14:59:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:00:32 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:00:32 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:02:13 - INFO - Socket disconnected [id: ta-hMD6N9Ufuh4oSAAAx]
+21.9.2024, 15:02:13 - INFO - New connected socket [id: HpjOOsAXrOJC6Pk4AAAz]
+21.9.2024, 15:02:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:02:14 - INFO - Setting socket.userId =  for socket [id: HpjOOsAXrOJC6Pk4AAAz]
+21.9.2024, 15:02:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:03:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:03:06 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:04:58 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:04:58 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:05:04 - INFO - Socket disconnected [id: HpjOOsAXrOJC6Pk4AAAz]
+21.9.2024, 15:05:05 - INFO - New connected socket [id: v_aCmo1-3oIjcE4kAAA1]
+21.9.2024, 15:05:05 - INFO - Setting socket.userId =  for socket [id: v_aCmo1-3oIjcE4kAAA1]
+21.9.2024, 15:05:10 - INFO - Socket disconnected [id: v_aCmo1-3oIjcE4kAAA1]
+21.9.2024, 15:05:10 - INFO - New connected socket [id: Ldcscs_zWpMDVKZJAAA3]
+21.9.2024, 15:05:10 - INFO - Setting socket.userId =  for socket [id: Ldcscs_zWpMDVKZJAAA3]
+21.9.2024, 15:05:14 - INFO - Socket disconnected [id: Ldcscs_zWpMDVKZJAAA3]
+21.9.2024, 15:05:14 - INFO - New connected socket [id: auZPtPfk_Wg9-bmEAAA5]
+21.9.2024, 15:05:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:05:15 - INFO - Setting socket.userId =  for socket [id: auZPtPfk_Wg9-bmEAAA5]
+21.9.2024, 15:05:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:05:24 - INFO - Socket disconnected [id: auZPtPfk_Wg9-bmEAAA5]
+21.9.2024, 15:05:24 - INFO - New connected socket [id: 1-zdvJI2nJEIqLiJAAA7]
+21.9.2024, 15:05:24 - INFO - Setting socket.userId =  for socket [id: 1-zdvJI2nJEIqLiJAAA7]
+21.9.2024, 15:05:24 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:05:24 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:07:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:07:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:07:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:31:34 - INFO - Socket disconnected [id: 1-zdvJI2nJEIqLiJAAA7]
+21.9.2024, 15:31:34 - INFO - Socket disconnected [id: yPmbm4R5YGXOzG8qAAAw]
+21.9.2024, 15:39:36 - INFO - New connected socket [id: gxOju2eex6y1-0gpAAA-]
+21.9.2024, 15:39:36 - INFO - New connected socket [id: Ubg6i3-VmPJBjVLgAAA_]
+21.9.2024, 15:39:37 - INFO - New connected socket [id: x-RONrV3Y6F0bAIbAABC]
+21.9.2024, 15:39:37 - INFO - New connected socket [id: DX-_9s4U9XROEHHLAABD]
+21.9.2024, 15:39:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:39:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:39:37 - INFO - Setting socket.userId =  for socket [id: x-RONrV3Y6F0bAIbAABC]
+21.9.2024, 15:39:37 - INFO - Setting socket.userId =  for socket [id: DX-_9s4U9XROEHHLAABD]
+21.9.2024, 15:39:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:39:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:39:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:14 - INFO - Socket disconnected [id: DX-_9s4U9XROEHHLAABD]
+21.9.2024, 15:40:14 - INFO - New connected socket [id: dvgx6e4D8r-iLEorAABF]
+21.9.2024, 15:40:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:14 - INFO - Setting socket.userId =  for socket [id: dvgx6e4D8r-iLEorAABF]
+21.9.2024, 15:40:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:16 - INFO - Socket disconnected [id: dvgx6e4D8r-iLEorAABF]
+21.9.2024, 15:40:16 - INFO - New connected socket [id: pt15vUlDgJoVK0RoAABH]
+21.9.2024, 15:40:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:17 - INFO - Setting socket.userId =  for socket [id: pt15vUlDgJoVK0RoAABH]
+21.9.2024, 15:40:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:17 - INFO - Socket disconnected [id: pt15vUlDgJoVK0RoAABH]
+21.9.2024, 15:40:18 - INFO - New connected socket [id: zSBh8n-4SD9ZDPIpAABJ]
+21.9.2024, 15:40:18 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:18 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:18 - INFO - Setting socket.userId =  for socket [id: zSBh8n-4SD9ZDPIpAABJ]
+21.9.2024, 15:40:18 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:19 - INFO - Socket disconnected [id: zSBh8n-4SD9ZDPIpAABJ]
+21.9.2024, 15:40:19 - INFO - New connected socket [id: e9w-7GERCbMtihOnAABL]
+21.9.2024, 15:40:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:19 - INFO - Setting socket.userId =  for socket [id: e9w-7GERCbMtihOnAABL]
+21.9.2024, 15:40:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:20 - INFO - Socket disconnected [id: e9w-7GERCbMtihOnAABL]
+21.9.2024, 15:40:20 - INFO - New connected socket [id: --QFETbWWfp3qvSXAABN]
+21.9.2024, 15:40:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:21 - INFO - Setting socket.userId =  for socket [id: --QFETbWWfp3qvSXAABN]
+21.9.2024, 15:40:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:21 - INFO - Socket disconnected [id: gxOju2eex6y1-0gpAAA-]
+21.9.2024, 15:40:21 - INFO - Socket disconnected [id: Ubg6i3-VmPJBjVLgAAA_]
+21.9.2024, 15:40:21 - INFO - Socket disconnected [id: --QFETbWWfp3qvSXAABN]
+21.9.2024, 15:40:22 - INFO - New connected socket [id: N269VPc7hgTRxY5nAABP]
+21.9.2024, 15:40:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:22 - INFO - Setting socket.userId =  for socket [id: N269VPc7hgTRxY5nAABP]
+21.9.2024, 15:40:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:32 - INFO - Socket disconnected [id: N269VPc7hgTRxY5nAABP]
+21.9.2024, 15:40:32 - INFO - Socket disconnected [id: x-RONrV3Y6F0bAIbAABC]
+21.9.2024, 15:40:32 - INFO - New connected socket [id: NNPj61Bh3cR9VbobAABS]
+21.9.2024, 15:40:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:33 - INFO - Setting socket.userId =  for socket [id: NNPj61Bh3cR9VbobAABS]
+21.9.2024, 15:40:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:33 - INFO - New connected socket [id: tiDpilsh3-lAcCIUAABT]
+21.9.2024, 15:40:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:40:33 - INFO - Setting socket.userId =  for socket [id: tiDpilsh3-lAcCIUAABT]
+21.9.2024, 15:40:33 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:01 - INFO - Socket disconnected [id: NNPj61Bh3cR9VbobAABS]
+21.9.2024, 15:41:01 - INFO - New connected socket [id: FQPKwaSx4EfXxugkAABV]
+21.9.2024, 15:41:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:02 - INFO - Setting socket.userId =  for socket [id: FQPKwaSx4EfXxugkAABV]
+21.9.2024, 15:41:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:07 - INFO - Socket disconnected [id: FQPKwaSx4EfXxugkAABV]
+21.9.2024, 15:41:07 - INFO - New connected socket [id: ED15uo7Ezm-7dOwxAABX]
+21.9.2024, 15:41:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:07 - INFO - Setting socket.userId =  for socket [id: ED15uo7Ezm-7dOwxAABX]
+21.9.2024, 15:41:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:08 - INFO - Socket disconnected [id: ED15uo7Ezm-7dOwxAABX]
+21.9.2024, 15:41:08 - INFO - New connected socket [id: 32MUkhWisPKLJjtAAABZ]
+21.9.2024, 15:41:08 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:09 - INFO - Setting socket.userId =  for socket [id: 32MUkhWisPKLJjtAAABZ]
+21.9.2024, 15:41:09 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:09 - INFO - Socket disconnected [id: 32MUkhWisPKLJjtAAABZ]
+21.9.2024, 15:41:10 - INFO - New connected socket [id: 3nVhPgi-cqY5s2ezAABb]
+21.9.2024, 15:41:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:10 - INFO - Setting socket.userId =  for socket [id: 3nVhPgi-cqY5s2ezAABb]
+21.9.2024, 15:41:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:12 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:13 - INFO - Socket disconnected [id: 3nVhPgi-cqY5s2ezAABb]
+21.9.2024, 15:41:14 - INFO - New connected socket [id: 7CgGUOW318r4aTNSAABd]
+21.9.2024, 15:41:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:14 - INFO - Setting socket.userId =  for socket [id: 7CgGUOW318r4aTNSAABd]
+21.9.2024, 15:41:14 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:15 - INFO - Socket disconnected [id: 7CgGUOW318r4aTNSAABd]
+21.9.2024, 15:41:15 - INFO - New connected socket [id: oH4lYnLWrGJSi9EeAABf]
+21.9.2024, 15:41:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:15 - INFO - Setting socket.userId =  for socket [id: oH4lYnLWrGJSi9EeAABf]
+21.9.2024, 15:41:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:16 - INFO - Socket disconnected [id: oH4lYnLWrGJSi9EeAABf]
+21.9.2024, 15:41:16 - INFO - New connected socket [id: xG4sGI7bX90R9IQMAABh]
+21.9.2024, 15:41:16 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:16 - INFO - Setting socket.userId =  for socket [id: xG4sGI7bX90R9IQMAABh]
+21.9.2024, 15:41:16 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:20 - INFO - Socket disconnected [id: xG4sGI7bX90R9IQMAABh]
+21.9.2024, 15:41:20 - INFO - New connected socket [id: CWTZc_-PwOaMxmzjAABj]
+21.9.2024, 15:41:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:20 - INFO - Setting socket.userId =  for socket [id: CWTZc_-PwOaMxmzjAABj]
+21.9.2024, 15:41:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:22 - INFO - Socket disconnected [id: CWTZc_-PwOaMxmzjAABj]
+21.9.2024, 15:41:22 - INFO - New connected socket [id: K_kIdTjdkbYymXR1AABl]
+21.9.2024, 15:41:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:22 - INFO - Setting socket.userId =  for socket [id: K_kIdTjdkbYymXR1AABl]
+21.9.2024, 15:41:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:23 - INFO - Socket disconnected [id: K_kIdTjdkbYymXR1AABl]
+21.9.2024, 15:41:23 - INFO - New connected socket [id: Tc69oactmEd--2n9AABn]
+21.9.2024, 15:41:23 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:23 - INFO - Setting socket.userId =  for socket [id: Tc69oactmEd--2n9AABn]
+21.9.2024, 15:41:24 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:25 - INFO - Socket disconnected [id: Tc69oactmEd--2n9AABn]
+21.9.2024, 15:41:25 - INFO - New connected socket [id: RPvx4qAZs66teC-sAABp]
+21.9.2024, 15:41:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:25 - INFO - Setting socket.userId =  for socket [id: RPvx4qAZs66teC-sAABp]
+21.9.2024, 15:41:26 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:32 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:32 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:34 - INFO - Socket disconnected [id: RPvx4qAZs66teC-sAABp]
+21.9.2024, 15:41:34 - INFO - New connected socket [id: oohviKAye3t3Ul80AABr]
+21.9.2024, 15:41:35 - INFO - Setting socket.userId =  for socket [id: oohviKAye3t3Ul80AABr]
+21.9.2024, 15:41:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:36 - INFO - Socket disconnected [id: oohviKAye3t3Ul80AABr]
+21.9.2024, 15:41:36 - INFO - New connected socket [id: 31SoyOoM477TXoIwAABt]
+21.9.2024, 15:41:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:36 - INFO - Setting socket.userId =  for socket [id: 31SoyOoM477TXoIwAABt]
+21.9.2024, 15:41:36 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:37 - INFO - Socket disconnected [id: 31SoyOoM477TXoIwAABt]
+21.9.2024, 15:41:37 - INFO - New connected socket [id: Du-fkX1rlQ-QTsRqAABv]
+21.9.2024, 15:41:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:37 - INFO - Setting socket.userId =  for socket [id: Du-fkX1rlQ-QTsRqAABv]
+21.9.2024, 15:41:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:38 - INFO - Socket disconnected [id: Du-fkX1rlQ-QTsRqAABv]
+21.9.2024, 15:41:38 - INFO - New connected socket [id: Q1UZ31ttfMp5f4RRAABx]
+21.9.2024, 15:41:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:39 - INFO - Setting socket.userId =  for socket [id: Q1UZ31ttfMp5f4RRAABx]
+21.9.2024, 15:41:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:39 - INFO - Socket disconnected [id: Q1UZ31ttfMp5f4RRAABx]
+21.9.2024, 15:41:40 - INFO - New connected socket [id: t3XAHnXBTRQzLLYyAABz]
+21.9.2024, 15:41:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:40 - INFO - Setting socket.userId =  for socket [id: t3XAHnXBTRQzLLYyAABz]
+21.9.2024, 15:41:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:41 - INFO - Socket disconnected [id: t3XAHnXBTRQzLLYyAABz]
+21.9.2024, 15:41:41 - INFO - New connected socket [id: SMak9R1mjgfBmrxoAAB1]
+21.9.2024, 15:41:41 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:42 - INFO - Setting socket.userId =  for socket [id: SMak9R1mjgfBmrxoAAB1]
+21.9.2024, 15:41:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:56 - INFO - Socket disconnected [id: SMak9R1mjgfBmrxoAAB1]
+21.9.2024, 15:41:57 - INFO - New connected socket [id: kmO9H1moyFQ9-g_5AAB3]
+21.9.2024, 15:41:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:57 - INFO - Setting socket.userId =  for socket [id: kmO9H1moyFQ9-g_5AAB3]
+21.9.2024, 15:41:57 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:58 - INFO - Socket disconnected [id: kmO9H1moyFQ9-g_5AAB3]
+21.9.2024, 15:41:58 - INFO - New connected socket [id: 0dyrrDTQFJqQBIqIAAB5]
+21.9.2024, 15:41:58 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:58 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:58 - INFO - Setting socket.userId =  for socket [id: 0dyrrDTQFJqQBIqIAAB5]
+21.9.2024, 15:41:58 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:41:59 - INFO - Socket disconnected [id: 0dyrrDTQFJqQBIqIAAB5]
+21.9.2024, 15:42:00 - INFO - New connected socket [id: 7a0SbTlPBSon7WgyAAB7]
+21.9.2024, 15:42:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:42:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:42:00 - INFO - Setting socket.userId =  for socket [id: 7a0SbTlPBSon7WgyAAB7]
+21.9.2024, 15:42:00 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:42:32 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:42:32 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:45:40 - INFO - Socket disconnected [id: 7a0SbTlPBSon7WgyAAB7]
+21.9.2024, 15:45:41 - INFO - New connected socket [id: B4fd5A7zC40VxI9NAAB9]
+21.9.2024, 15:45:41 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:45:41 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:45:41 - INFO - Setting socket.userId =  for socket [id: B4fd5A7zC40VxI9NAAB9]
+21.9.2024, 15:45:41 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:45:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:45:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:45:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "4xvS6T",
+    "title": "Task 1sadfsf",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": false,
+    "dueDate": "2024-11-24",
+    "dateRange": {
+      "from": "2024-09-24T00:00:00.000Z",
+      "to": "2024-09-30T00:00:00.000Z"
+    },
+    "number": null,
+    "text": null,
+    "email": null,
+    "phone": null,
+    "file": null,
+    "memberIds": [
+      "u102",
+      "u103"
+    ],
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-21T12:45:52.506Z",
+        "content": "<p>dfgdfgd</p><p><br></p>",
+        "id": "CTBdzj"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66ddeac5ec591b0eacc9a4eb",
+    "groupId": "S1d7mT"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:45:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:45:52 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:47:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:47:42 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ddeac5ec591b0eacc9a4eb"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:49:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "New Board!",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": {
+      "_id": "",
+      "fullname": "Guest",
+      "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+      "updates": []
+    },
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [
+      {
+        "_id": "u101",
+        "fullname": "Michal Rotkop",
+        "imgUrl": "../src/assets/img/michal.jpg"
+      },
+      {
+        "_id": "u102",
+        "fullname": "Shahar Gadon",
+        "imgUrl": "../src/assets/img/shahar.jpg"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Shush",
+        "imgUrl": "../src/assets/img/shush.jpg"
+      }
+    ],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "Remr4p",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "pUA0p8",
+            "title": "Task 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101"
+            ],
+            "isDone": ""
+          },
+          {
+            "id": "IJuIgZ",
+            "title": "Task 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [
+              "u101",
+              "u102"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "il48Pd",
+            "title": "Task 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "rgh7Rl",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "l7XSB5",
+            "title": "Task 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [
+              "u101",
+              "u102",
+              "u103"
+            ],
+            "isDone": true
+          },
+          {
+            "id": "l76yhA",
+            "title": "Task 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [
+              "u102"
+            ],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "views": [],
+    "type": "Task",
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "TextInput",
+      "NumberInput",
+      "FilesPicker"
+    ]
+  },
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:49:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eec0c0938f74fd0e09d03a"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:49:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eec0c0938f74fd0e09d03a"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:49:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:49:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ee9970938f74fd0e09d039"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:49:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ee9970938f74fd0e09d039"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:49:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ec0d14a47eccc2124f2aab"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:49:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ec0d14a47eccc2124f2aab"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:59:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ec0d14a47eccc2124f2aab"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 15:59:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ec0d14a47eccc2124f2aab"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:12:31 - INFO - Socket disconnected [id: B4fd5A7zC40VxI9NAAB9]
+21.9.2024, 16:12:31 - INFO - New connected socket [id: wm8ekJT8fsGX9grhAAB_]
+21.9.2024, 16:12:31 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:12:31 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ec0d14a47eccc2124f2aab"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:12:31 - INFO - Setting socket.userId =  for socket [id: wm8ekJT8fsGX9grhAAB_]
+21.9.2024, 16:12:31 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ec0d14a47eccc2124f2aab"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:15:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ec0c94a47eccc2124f2aaa"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:15:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66ec0c94a47eccc2124f2aaa"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:15:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:15:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:16:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:16:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:16:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "AcO45e4",
+    "title": "Task 2sadfasfasfdasfdafsafsafd",
+    "status": "dnn8390",
+    "priority": "mdm1126",
+    "isDone": true,
+    "dueDate": "2024-12-13",
+    "dateRange": null,
+    "number": 453453535345345340,
+    "text": "",
+    "email": null,
+    "phone": null,
+    "file": null,
+    "memberIds": [],
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-21T13:16:44.956Z",
+        "content": "<p>fdsgdsgsdg</p>",
+        "id": "9cJtqR"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-19T10:37:45.464Z",
+        "content": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span><strong><em><s><u>asfdasfdasdfasfdasf</u></s></em></strong>safsfdafsafd</li></ol>",
+        "id": "nmwCjb"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-19T09:23:16.686Z",
+        "content": "<p>hiiiiiiiiii<strong>dadsfasdfa<u>asa</u></strong></p>",
+        "id": "jLNEud"
+      },
+      {
+        "createdBy": {
+          "_id": "66e459fd67b41780422e61fc",
+          "username": "Muki",
+          "fullname": "Muki Mu",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"
+        },
+        "createdAt": "2024-09-16T07:28:52.770Z",
+        "content": "<p>Hi</p>",
+        "id": "vpvplh"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-15T08:58:03.936Z",
+        "content": "<p>asdfasfd</p>",
+        "id": "aR66rC"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "S1d7mT6"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:16:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:16:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:16:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "AcO45e4",
+    "title": "Task 2sadfasfasfdasfdafsafsafd",
+    "status": "dnn8390",
+    "priority": "mdm1126",
+    "isDone": true,
+    "dueDate": "2024-12-13",
+    "dateRange": null,
+    "number": 453453535345345340,
+    "text": "",
+    "email": null,
+    "phone": null,
+    "file": null,
+    "memberIds": [],
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-21T13:16:46.739Z",
+        "content": "",
+        "id": "rKbZYi"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-21T13:16:44.956Z",
+        "content": "<p>fdsgdsgsdg</p>",
+        "id": "9cJtqR"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-19T10:37:45.464Z",
+        "content": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span><strong><em><s><u>asfdasfdasdfasfdasf</u></s></em></strong>safsfdafsafd</li></ol>",
+        "id": "nmwCjb"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-19T09:23:16.686Z",
+        "content": "<p>hiiiiiiiiii<strong>dadsfasdfa<u>asa</u></strong></p>",
+        "id": "jLNEud"
+      },
+      {
+        "createdBy": {
+          "_id": "66e459fd67b41780422e61fc",
+          "username": "Muki",
+          "fullname": "Muki Mu",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"
+        },
+        "createdAt": "2024-09-16T07:28:52.770Z",
+        "content": "<p>Hi</p>",
+        "id": "vpvplh"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-15T08:58:03.936Z",
+        "content": "<p>asdfasfd</p>",
+        "id": "aR66rC"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "S1d7mT6"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:16:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:16:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:16:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "AcO45e4",
+    "title": "Task 2sadfasfasfdasfdafsafsafd",
+    "status": "dnn8390",
+    "priority": "mdm1126",
+    "isDone": true,
+    "dueDate": "2024-12-13",
+    "dateRange": null,
+    "number": 453453535345345340,
+    "text": "",
+    "email": null,
+    "phone": null,
+    "file": null,
+    "memberIds": [],
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-21T13:16:48.347Z",
+        "content": "<p>jkhgkghjkg</p>",
+        "id": "QqxP6t"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-21T13:16:46.739Z",
+        "content": "",
+        "id": "rKbZYi"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-21T13:16:44.956Z",
+        "content": "<p>fdsgdsgsdg</p>",
+        "id": "9cJtqR"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-19T10:37:45.464Z",
+        "content": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span><strong><em><s><u>asfdasfdasdfasfdasf</u></s></em></strong>safsfdafsafd</li></ol>",
+        "id": "nmwCjb"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-19T09:23:16.686Z",
+        "content": "<p>hiiiiiiiiii<strong>dadsfasdfa<u>asa</u></strong></p>",
+        "id": "jLNEud"
+      },
+      {
+        "createdBy": {
+          "_id": "66e459fd67b41780422e61fc",
+          "username": "Muki",
+          "fullname": "Muki Mu",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"
+        },
+        "createdAt": "2024-09-16T07:28:52.770Z",
+        "content": "<p>Hi</p>",
+        "id": "vpvplh"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-15T08:58:03.936Z",
+        "content": "<p>asdfasfd</p>",
+        "id": "aR66rC"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "S1d7mT6"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:16:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:16:48 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:16:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "AcO45e4",
+    "title": "Task 2sadfasfasfdasfdafsafsafd",
+    "status": "dnn8390",
+    "priority": "mdm1126",
+    "isDone": true,
+    "dueDate": "2024-12-13",
+    "dateRange": null,
+    "number": 453453535345345340,
+    "text": "",
+    "email": null,
+    "phone": null,
+    "file": null,
+    "memberIds": [],
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-21T13:16:50.203Z",
+        "content": "<p>ghjkghkghkj</p>",
+        "id": "DaYXia"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-21T13:16:48.347Z",
+        "content": "<p>jkhgkghjkg</p>",
+        "id": "QqxP6t"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-21T13:16:46.739Z",
+        "content": "",
+        "id": "rKbZYi"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-21T13:16:44.956Z",
+        "content": "<p>fdsgdsgsdg</p>",
+        "id": "9cJtqR"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-19T10:37:45.464Z",
+        "content": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span><strong><em><s><u>asfdasfdasdfasfdasf</u></s></em></strong>safsfdafsafd</li></ol>",
+        "id": "nmwCjb"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-19T09:23:16.686Z",
+        "content": "<p>hiiiiiiiiii<strong>dadsfasdfa<u>asa</u></strong></p>",
+        "id": "jLNEud"
+      },
+      {
+        "createdBy": {
+          "_id": "66e459fd67b41780422e61fc",
+          "username": "Muki",
+          "fullname": "Muki Mu",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png"
+        },
+        "createdAt": "2024-09-16T07:28:52.770Z",
+        "content": "<p>Hi</p>",
+        "id": "vpvplh"
+      },
+      {
+        "createdBy": {
+          "_id": "",
+          "fullname": "Guest",
+          "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+          "updates": []
+        },
+        "createdAt": "2024-09-15T08:58:03.936Z",
+        "content": "<p>asdfasfd</p>",
+        "id": "aR66rC"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e448bbc6fc7d1897d85c45",
+    "groupId": "S1d7mT6"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:16:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:16:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:25:44 - INFO - Socket disconnected [id: wm8ekJT8fsGX9grhAAB_]
+21.9.2024, 16:25:44 - INFO - Socket disconnected [id: tiDpilsh3-lAcCIUAABT]
+21.9.2024, 16:25:45 - INFO - New connected socket [id: sBIuysi3jJg2L2n7AACC]
+21.9.2024, 16:25:45 - INFO - New connected socket [id: SlJmhUAAnJ8X-5fJAACD]
+21.9.2024, 16:25:45 - INFO - Setting socket.userId =  for socket [id: sBIuysi3jJg2L2n7AACC]
+21.9.2024, 16:25:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:25:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:25:45 - INFO - Setting socket.userId =  for socket [id: SlJmhUAAnJ8X-5fJAACD]
+21.9.2024, 16:25:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:25:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:25:45 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:26:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66edba0af6b6243ec4bc1832
+21.9.2024, 16:26:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e448bbc6fc7d1897d85c45"
+  }
+} | 66edba0af6b6243ec4bc1832
