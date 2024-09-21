@@ -82808,3 +82808,367 @@
   "params": {}
 } | 66eed4fe5fa8743063427e1d
 >>>>>>> Stashed changes
+21.9.2024, 18:01:51 - INFO - Socket disconnected [id: dbIMAuDAfXofwMKNAAAv]
+21.9.2024, 18:01:52 - INFO - New connected socket [id: TBP2QcUIWbB7skleAAAy]
+21.9.2024, 18:01:52 - INFO - New connected socket [id: Ktq3Z8OCdkK38MmxAAAz]
+21.9.2024, 18:01:52 - INFO - Setting socket.userId = 66eed4fe5fa8743063427e1d for socket [id: TBP2QcUIWbB7skleAAAy]
+21.9.2024, 18:01:52 - INFO - Setting socket.userId = 66eed4fe5fa8743063427e1d for socket [id: Ktq3Z8OCdkK38MmxAAAz]
+21.9.2024, 18:02:07 - INFO - Socket disconnected [id: TBP2QcUIWbB7skleAAAy]
+21.9.2024, 18:02:07 - INFO - Socket disconnected [id: Ktq3Z8OCdkK38MmxAAAz]
+21.9.2024, 18:02:07 - INFO - New connected socket [id: eGHD14WwqIyb5lXUAAA2]
+21.9.2024, 18:02:07 - INFO - New connected socket [id: nMcK2bjBnwj4buFvAAA3]
+21.9.2024, 18:02:07 - INFO - Setting socket.userId = 66eed4fe5fa8743063427e1d for socket [id: eGHD14WwqIyb5lXUAAA2]
+21.9.2024, 18:02:07 - INFO - Setting socket.userId = 66eed4fe5fa8743063427e1d for socket [id: nMcK2bjBnwj4buFvAAA3]
+21.9.2024, 18:03:21 - INFO - Socket disconnected [id: nMcK2bjBnwj4buFvAAA3]
+21.9.2024, 18:03:21 - INFO - Socket disconnected [id: eGHD14WwqIyb5lXUAAA2]
+21.9.2024, 18:03:21 - INFO - New connected socket [id: KFN7Olpcvtjk7M78AAA5]
+21.9.2024, 18:03:21 - INFO - Setting socket.userId = 66eed4fe5fa8743063427e1d for socket [id: KFN7Olpcvtjk7M78AAA5]
+21.9.2024, 18:03:23 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:03:23 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:03:29 - INFO - Socket disconnected [id: KFN7Olpcvtjk7M78AAA5]
+21.9.2024, 18:03:29 - INFO - New connected socket [id: 76M9yJn2llORwz8eAAA7]
+21.9.2024, 18:03:30 - INFO - Setting socket.userId = 66eed4fe5fa8743063427e1d for socket [id: 76M9yJn2llORwz8eAAA7]
+21.9.2024, 18:03:34 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:03:34 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:03:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:03:35 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:03:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "SKATgh",
+    "title": "📝 Define project scope",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "isDone": "",
+    "dueDate": "2024-09-24",
+    "dateRange": {
+      "from": "2024-09-24T00:00:00.000Z",
+      "to": "2024-09-30T00:00:00.000Z"
+    },
+    "number": 1560,
+    "text": "Ensure all requirements are gathered and documented before moving forward",
+    "email": null,
+    "phone": null,
+    "file": "הקלטות.pdf",
+    "memberIds": [
+      "66eed4fe5fa8743063427e1d"
+    ],
+    "updates": null
+  },
+  "params": {
+    "boardId": "66eed7395fa8743063427e20",
+    "groupId": "hQtCLv"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:03:43 - INFO - Socket disconnected [id: 76M9yJn2llORwz8eAAA7]
+21.9.2024, 18:03:43 - INFO - New connected socket [id: wj9ucpmTqmTJLbIXAAA9]
+21.9.2024, 18:03:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:03:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:03:43 - INFO - Setting socket.userId = 66eed4fe5fa8743063427e1d for socket [id: wj9ucpmTqmTJLbIXAAA9]
+21.9.2024, 18:03:44 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:03:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:03:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:03:49 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedc6c5fa8743063427e22"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:03:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedc6c5fa8743063427e22"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:03:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:03:51 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:05:20 - INFO - Socket disconnected [id: wj9ucpmTqmTJLbIXAAA9]
+21.9.2024, 18:05:20 - INFO - New connected socket [id: kYB3KU-mM5Xn9sbYAAA_]
+21.9.2024, 18:05:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:05:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:05:20 - INFO - Setting socket.userId = 66eed4fe5fa8743063427e1d for socket [id: kYB3KU-mM5Xn9sbYAAA_]
+21.9.2024, 18:05:20 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:07:45 - INFO - Socket disconnected [id: Gq578XzudrrCXdvaAAAH]
+21.9.2024, 18:07:45 - INFO - New connected socket [id: KOorYxobbIWpWPbOAABB]
+21.9.2024, 18:07:45 - INFO - Setting socket.userId = 66edbec10c64d5befab2af99 for socket [id: KOorYxobbIWpWPbOAABB]
+21.9.2024, 18:07:47 - INFO - Socket disconnected [id: KOorYxobbIWpWPbOAABB]
+21.9.2024, 18:07:47 - INFO - New connected socket [id: mCITuleN8vGW-P5gAABD]
+21.9.2024, 18:07:47 - INFO - Setting socket.userId = 66edbec10c64d5befab2af99 for socket [id: mCITuleN8vGW-P5gAABD]
+21.9.2024, 18:07:49 - INFO - Socket disconnected [id: mCITuleN8vGW-P5gAABD]
+21.9.2024, 18:07:50 - INFO - New connected socket [id: zH-op1dnyiELSeqKAABF]
+21.9.2024, 18:07:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edbec10c64d5befab2af99
+21.9.2024, 18:07:50 - INFO - Setting socket.userId =  for socket [id: zH-op1dnyiELSeqKAABF]
+21.9.2024, 18:07:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66edbdee0c64d5befab2af98"
+  }
+} | 66edbec10c64d5befab2af99
+21.9.2024, 18:07:50 - ERROR - Cannot get board by id: 66edbdee0c64d5befab2af98 | Error: Could not find board by id: 66edbdee0c64d5befab2af98 | 66edbec10c64d5befab2af99
+21.9.2024, 18:07:50 - ERROR - Failed to get board | Error: Could not find board by id: 66edbdee0c64d5befab2af98 | 66edbec10c64d5befab2af99
+21.9.2024, 18:07:50 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66edbdee0c64d5befab2af98"
+  }
+} | 66edbec10c64d5befab2af99
+21.9.2024, 18:07:50 - ERROR - Cannot get board by id: 66edbdee0c64d5befab2af98 | Error: Could not find board by id: 66edbdee0c64d5befab2af98 | 66edbec10c64d5befab2af99
+21.9.2024, 18:07:50 - ERROR - Failed to get board | Error: Could not find board by id: 66edbdee0c64d5befab2af98 | 66edbec10c64d5befab2af99
+21.9.2024, 18:07:53 - INFO - Socket disconnected [id: zH-op1dnyiELSeqKAABF]
+21.9.2024, 18:07:54 - INFO - New connected socket [id: yJ7ot0Apa00N28YlAABH]
+21.9.2024, 18:07:54 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edbec10c64d5befab2af99
+21.9.2024, 18:07:54 - INFO - Setting socket.userId =  for socket [id: yJ7ot0Apa00N28YlAABH]
+21.9.2024, 18:07:54 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edbec10c64d5befab2af99
+21.9.2024, 18:07:59 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66edbec10c64d5befab2af99
+21.9.2024, 18:07:59 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66edbec10c64d5befab2af99
+21.9.2024, 18:08:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66edbec10c64d5befab2af99
+21.9.2024, 18:08:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66edbec10c64d5befab2af99
+21.9.2024, 18:08:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66edbec10c64d5befab2af99
+21.9.2024, 18:08:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66edbec10c64d5befab2af99
+21.9.2024, 18:08:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66edbec10c64d5befab2af99
+21.9.2024, 18:08:39 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66edbec10c64d5befab2af99
+21.9.2024, 18:09:25 - INFO - New connected socket [id: _0nm7_84z6rShK3AAABJ]
+21.9.2024, 18:09:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:09:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:09:25 - INFO - Setting socket.userId =  for socket [id: _0nm7_84z6rShK3AAABJ]
+21.9.2024, 18:09:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:09:38 - INFO - Socket disconnected [id: _0nm7_84z6rShK3AAABJ]
+21.9.2024, 18:09:38 - INFO - New connected socket [id: vpFO0shbwQvw_-6RAABL]
+21.9.2024, 18:09:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:09:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:09:38 - INFO - Setting socket.userId =  for socket [id: vpFO0shbwQvw_-6RAABL]
+21.9.2024, 18:09:38 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:10:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4fe5fa8743063427e1d
+21.9.2024, 18:10:41 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4fe5fa8743063427e1d
