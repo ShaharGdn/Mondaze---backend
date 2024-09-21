@@ -46906,3 +46906,166 @@
     "id": "66ed9d4b0c64d5befab2af8e"
   }
 } | 66ec445d1cac7bc36ac1f329
+20.9.2024, 21:03:12 - INFO - Socket disconnected [id: TIJh-P6lh8RcGuKyAAAJ]
+20.9.2024, 21:03:12 - INFO - New connected socket [id: HoyJg415dpgbpk7BAAAL]
+20.9.2024, 21:03:12 - INFO - Setting socket.userId =  for socket [id: HoyJg415dpgbpk7BAAAL]
+20.9.2024, 21:07:32 - INFO - Socket disconnected [id: HoyJg415dpgbpk7BAAAL]
+20.9.2024, 21:07:32 - INFO - New connected socket [id: P-VtDbXHbnK5dUxvAAAN]
+20.9.2024, 21:07:32 - INFO - Setting socket.userId =  for socket [id: P-VtDbXHbnK5dUxvAAAN]
+20.9.2024, 21:08:10 - DEBUG - auth.service - signup with username: Michal R, fullname: Michal Rotkop | 66e459fd67b41780422e61fc
+20.9.2024, 21:08:10 - DEBUG - auth.service - login with username: Michal R | 66e459fd67b41780422e61fc
+20.9.2024, 21:08:10 - DEBUG - auth.route - new account created: {"username":"Michal R","password":"$2b$10$98INCZ5wyHJ/AkbMPyGUSeFSHxWxoctA1/HIyEObG1oH8pVuIXNkS","fullname":"Michal Rotkop","imgUrl":"https://res.cloudinary.com/dlepgw0nz/image/upload/v1726855685/fq8lzcsp1mokpiuhzngc.jpg","updates":[],"_id":"66edba0af6b6243ec4bc1832"} | 66e459fd67b41780422e61fc
+20.9.2024, 21:08:10 - INFO - User signup: | {"_id":"66edba0af6b6243ec4bc1832","username":"Michal R","fullname":"Michal Rotkop","imgUrl":"https://res.cloudinary.com/dlepgw0nz/image/upload/v1726855685/fq8lzcsp1mokpiuhzngc.jpg","updates":[]} | 66e459fd67b41780422e61fc
+20.9.2024, 21:08:10 - INFO - Setting socket.userId = 66edba0af6b6243ec4bc1832 for socket [id: P-VtDbXHbnK5dUxvAAAN]
+20.9.2024, 21:08:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+20.9.2024, 21:08:11 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+20.9.2024, 21:08:17 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9a51449c668c96d778cf7"
+  }
+} | 66edba0af6b6243ec4bc1832
+20.9.2024, 21:08:18 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9a51449c668c96d778cf7"
+  }
+} | 66edba0af6b6243ec4bc1832
+20.9.2024, 21:08:28 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb276d9a2df4566b28d46c"
+  }
+} | 66edba0af6b6243ec4bc1832
+20.9.2024, 21:08:28 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eb276d9a2df4566b28d46c"
+  }
+} | 66edba0af6b6243ec4bc1832
+20.9.2024, 21:08:32 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9a50649c668c96d778cf6"
+  }
+} | 66edba0af6b6243ec4bc1832
+20.9.2024, 21:08:32 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9a50649c668c96d778cf6"
+  }
+} | 66edba0af6b6243ec4bc1832
+20.9.2024, 21:08:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9a50649c668c96d778cf6"
+  }
+} | 66edba0af6b6243ec4bc1832
+20.9.2024, 21:08:37 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9a50649c668c96d778cf6"
+  }
+} | 66edba0af6b6243ec4bc1832
+20.9.2024, 21:08:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "PUT",
+  "body": {
+    "id": "G2fekM",
+    "title": "Lead 1",
+    "status": "woi5432",
+    "priority": "mdm1126",
+    "dueDate": "2024-09-24",
+    "dateRange": {
+      "from": "2024-09-24T00:00:00.000Z",
+      "to": "2024-09-30T00:00:00.000Z"
+    },
+    "memberIds": [
+      "u101"
+    ],
+    "isDone": "",
+    "updates": [
+      {
+        "createdBy": {
+          "_id": "66edba0af6b6243ec4bc1832",
+          "fullname": "Michal Rotkop",
+          "imgUrl": "https://res.cloudinary.com/dlepgw0nz/image/upload/v1726855685/fq8lzcsp1mokpiuhzngc.jpg",
+          "updates": []
+        },
+        "createdAt": "2024-09-20T18:08:39.999Z",
+        "content": "<p>asdfasdfasdf</p>",
+        "id": "mD423R"
+      }
+    ]
+  },
+  "params": {
+    "boardId": "66e9a50649c668c96d778cf6",
+    "groupId": "UeXtec"
+  }
+} | 66edba0af6b6243ec4bc1832
+20.9.2024, 21:08:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9a50649c668c96d778cf6"
+  }
+} | 66edba0af6b6243ec4bc1832
+20.9.2024, 21:08:40 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66e9a50649c668c96d778cf6"
+  }
+} | 66edba0af6b6243ec4bc1832
+20.9.2024, 21:08:49 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66edba0af6b6243ec4bc1832
+20.9.2024, 22:09:23 - INFO - Socket disconnected [id: ecx57Zew0H37m28yAAAC]
+20.9.2024, 22:09:23 - INFO - Socket disconnected [id: P-VtDbXHbnK5dUxvAAAN]
+20.9.2024, 22:09:23 - INFO - Socket disconnected [id: JuPXIKnsLWwIbS0zAAAD]
+20.9.2024, 23:15:23 - INFO - New connected socket [id: 5NT5nZK2yluk_xWEAAAR]
+20.9.2024, 23:15:23 - INFO - New connected socket [id: czoYGnEwUNuW82-4AAAS]
+20.9.2024, 23:15:23 - INFO - New connected socket [id: ixsB64xQ89nNLIBMAAAT]
+20.9.2024, 23:17:43 - INFO - Socket disconnected [id: 5NT5nZK2yluk_xWEAAAR]
+20.9.2024, 23:17:43 - INFO - Socket disconnected [id: czoYGnEwUNuW82-4AAAS]
+20.9.2024, 23:17:43 - INFO - Socket disconnected [id: ixsB64xQ89nNLIBMAAAT]
+21.9.2024, 11:13:27 - INFO - New connected socket [id: rZwBw_gUoNgAGd1rAAAX]
+21.9.2024, 11:13:27 - INFO - New connected socket [id: xS06heq5UbNhMpI8AAAY]
+21.9.2024, 11:13:27 - INFO - New connected socket [id: PscfqNmcWkUFGDIoAAAZ]
+21.9.2024, 11:49:23 - INFO - Socket disconnected [id: PscfqNmcWkUFGDIoAAAZ]
+21.9.2024, 11:49:23 - INFO - Socket disconnected [id: xS06heq5UbNhMpI8AAAY]
+21.9.2024, 11:49:23 - INFO - Socket disconnected [id: rZwBw_gUoNgAGd1rAAAX]
+21.9.2024, 11:58:12 - INFO - New connected socket [id: galoP4vp-iT8Ial3AAAd]
+21.9.2024, 11:58:12 - INFO - New connected socket [id: U2asgsqRSz5J8nhdAAAe]
+21.9.2024, 11:58:12 - INFO - New connected socket [id: 75iIdbaIyTOVppuiAAAf]
