@@ -84312,3 +84312,472 @@
   "params": {}
 } | 66eed4fe5fa8743063427e1d
 21.9.2024, 18:30:14 - INFO - Setting socket.userId = 66eed4fe5fa8743063427e1d for socket [id: -J5fc2rIA5sAVQTmAABd]
+22.9.2024, 14:36:10 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:36:12 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:36:16 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:37:01 - INFO - Socket disconnected [id: LBx4yZtPugji9R-wAAAB]
+22.9.2024, 14:37:02 - INFO - New connected socket [id: 1IJJqmTBixnIObV4AAAD]
+22.9.2024, 14:37:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:37:02 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:37:02 - INFO - Setting socket.userId =  for socket [id: 1IJJqmTBixnIObV4AAAD]
+22.9.2024, 14:37:03 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:37:15 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:38:53 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:39:01 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:39:04 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:39:07 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eedd415fa8743063427e23"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:39:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "POST",
+  "body": {
+    "title": "New Board",
+    "isStarred": false,
+    "archivedAt": null,
+    "createdBy": {
+      "_id": "",
+      "fullname": "Guest",
+      "imgUrl": "https://cdn.pixabay.com/photo/2017/07/18/23/23/user-2517433_1280.png",
+      "updates": []
+    },
+    "folder": "",
+    "style": {},
+    "status": [
+      {
+        "id": "dft3488",
+        "title": "Not Started",
+        "color": "#c4c4c4",
+        "type": "Default"
+      },
+      {
+        "id": "woi5432",
+        "title": "Working on it",
+        "color": "#fdab3d",
+        "type": "Default"
+      },
+      {
+        "id": "stk4530",
+        "title": "Stuck",
+        "color": "#df2f4a",
+        "type": "Default"
+      },
+      {
+        "id": "dnn8390",
+        "title": "Done",
+        "color": "#00c875",
+        "type": "Default"
+      }
+    ],
+    "priority": [
+      {
+        "id": "dft3489",
+        "title": "",
+        "color": "#c4c4c4"
+      },
+      {
+        "id": "crt5664",
+        "title": "Critical",
+        "color": "#333333"
+      },
+      {
+        "id": "hgh3899",
+        "title": "High",
+        "color": "#401694"
+      },
+      {
+        "id": "mdm1126",
+        "title": "Medium",
+        "color": "#5559df"
+      },
+      {
+        "id": "low7891",
+        "title": "Low",
+        "color": "#579bfc"
+      }
+    ],
+    "members": [],
+    "groups": [
+      {
+        "title": "Group Title",
+        "id": "wRKYHL",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "irRckt",
+            "title": "Task 1",
+            "status": "woi5432",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-24",
+            "dateRange": {
+              "from": "2024-09-24T00:00:00.000Z",
+              "to": "2024-09-30T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          },
+          {
+            "id": "7wL1R4",
+            "title": "Task 2",
+            "status": "dnn8390",
+            "priority": "mdm1126",
+            "dueDate": "2024-09-15",
+            "dateRange": {
+              "from": "2024-10-01T00:00:00.000Z",
+              "to": "2024-11-14T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": true
+          },
+          {
+            "id": "Z9k20i",
+            "title": "Task 3",
+            "status": "stk4530",
+            "priority": "hgh3899",
+            "dueDate": "2024-09-10",
+            "dateRange": {
+              "from": "2024-11-02T00:00:00.000Z",
+              "to": "2024-12-01T00:00:00.000Z"
+            },
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#579bfc"
+        }
+      },
+      {
+        "title": "Group Title",
+        "id": "tL1J2A",
+        "archivedAt": null,
+        "type": "Task",
+        "pulses": [
+          {
+            "id": "dEphXR",
+            "title": "Task 3",
+            "status": "dnn8390",
+            "priority": "hgh3899",
+            "dueDate": "2024-10-05",
+            "memberIds": [],
+            "isDone": true
+          },
+          {
+            "id": "YbBDF1",
+            "title": "Task 4",
+            "status": "stk4530",
+            "priority": "low7891",
+            "dueDate": "2024-09-14",
+            "memberIds": [],
+            "isDone": ""
+          }
+        ],
+        "style": {
+          "color": "#a25ddc"
+        }
+      }
+    ],
+    "activities": [],
+    "views": [],
+    "type": "Task",
+    "cmpsOrder": [
+      "MemberPicker",
+      "StatusPicker",
+      "PriorityPicker",
+      "DatePicker",
+      "DateRangePicker",
+      "TextInput",
+      "NumberInput",
+      "FilesPicker"
+    ]
+  },
+  "params": {}
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:39:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66f001e745a9b7cc5d222ad7"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:39:19 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66f001e745a9b7cc5d222ad7"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:39:22 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:39:24 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:39:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:39:27 - INFO - Socket disconnected [id: 1IJJqmTBixnIObV4AAAD]
+22.9.2024, 14:39:37 - INFO - New connected socket [id: U5PoApS8SDrQ8C_LAAAF]
+22.9.2024, 14:39:38 - INFO - Setting socket.userId =  for socket [id: U5PoApS8SDrQ8C_LAAAF]
+22.9.2024, 14:39:41 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:39:41 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:39:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:39:43 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:40:21 - INFO - Socket disconnected [id: U5PoApS8SDrQ8C_LAAAF]
+22.9.2024, 14:40:21 - INFO - New connected socket [id: l9yE-FhOhFgP988kAAAH]
+22.9.2024, 14:40:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:40:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:40:21 - INFO - Setting socket.userId =  for socket [id: l9yE-FhOhFgP988kAAAH]
+22.9.2024, 14:40:21 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:40:24 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:40:25 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:40:26 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:40:26 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:41:20 - INFO - server.js loaded...
+22.9.2024, 14:41:20 - INFO - Server is running on port: 3030
+22.9.2024, 14:41:23 - INFO - New connected socket [id: AVI82aGYoC_7yzpHAAAB]
+22.9.2024, 14:41:23 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:41:23 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:41:23 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:41:23 - INFO - Setting socket.userId =  for socket [id: AVI82aGYoC_7yzpHAAAB]
+22.9.2024, 14:41:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:41:27 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:41:28 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:41:28 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eed7395fa8743063427e20"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:41:31 - INFO - Socket disconnected [id: AVI82aGYoC_7yzpHAAAB]
+22.9.2024, 14:43:04 - INFO - server.js loaded...
+22.9.2024, 14:43:04 - INFO - Server is running on port: 3030
+22.9.2024, 14:43:44 - INFO - New connected socket [id: G-Ect_4ZrS4DRARGAAAB]
+22.9.2024, 14:43:44 - INFO - Setting socket.userId =  for socket [id: G-Ect_4ZrS4DRARGAAAB]
+22.9.2024, 14:43:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:43:46 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {}
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:43:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eeb8d7de78560698d9fc24"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:43:47 - INFO - {
+  "baseUrl": "/api/board",
+  "method": "GET",
+  "body": {},
+  "params": {
+    "id": "66eeb8d7de78560698d9fc24"
+  }
+} | 66eed4325fa8743063427e1c
+22.9.2024, 14:44:20 - INFO - Socket disconnected [id: G-Ect_4ZrS4DRARGAAAB]
+22.9.2024, 14:46:18 - INFO - server.js loaded...
+22.9.2024, 14:46:18 - INFO - Server is running on port: 3030
+22.9.2024, 14:46:18 - INFO - server.js loaded...
+22.9.2024, 14:46:18 - INFO - Server is running on port: 3030
